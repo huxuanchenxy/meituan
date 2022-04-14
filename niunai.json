@@ -1,0 +1,4501 @@
+{
+    "data" : {
+      "styleMap" : {
+        "label_20" : {
+          "color" : "#179938",
+          "borderColor" : "#62BA78"
+        },
+        "label_16" : {
+          "color" : "#179938",
+          "borderColor" : "#62BA78"
+        },
+        "ltv3" : {
+          "color" : "#D19B5A",
+          "borderColor" : "#E3C39C",
+          "backgroundColor" : "#ccFFFFFF"
+        },
+        "hot_word_special_biz_530" : {
+          "color" : "#FF3F22",
+          "backgroundColor" : "#FFE1E4"
+        },
+        "scbsg" : {
+          "color" : "#867F78"
+        },
+        "label_21" : {
+          "color" : "#179938",
+          "borderColor" : "#62BA78"
+        },
+        "pb_xdc_text" : {
+          "color" : "#603C10",
+          "backgroundColor" : "#F0DCAE",
+          "gradientColor" : {
+            "toColor" : "#ECD5A1",
+            "direction" : 3,
+            "fromColor" : "#F4E2BA"
+          }
+        },
+        "label_17" : {
+          "color" : "#179938",
+          "borderColor" : "#62BA78"
+        },
+        "common_tpd" : {
+          "color" : "#E95A7E",
+          "borderColor" : "#FFE1E8",
+          "backgroundColor" : "#FFF2F5"
+        },
+        "tag_area_purchase" : {
+          "color" : "#3AA111",
+          "borderColor" : "#A4E37F",
+          "backgroundColor" : "#F7FFF3"
+        },
+        "lstv570" : {
+          "color" : "#009125",
+          "backgroundColor" : "#E6FFFFFF"
+        },
+        "label_22" : {
+          "color" : "#179938",
+          "borderColor" : "#62BA78"
+        },
+        "label_18" : {
+          "color" : "#179938",
+          "borderColor" : "#62BA78"
+        },
+        "ltdv3" : {
+          "color" : "#C79F7D",
+          "borderColor" : "#C79F7D",
+          "backgroundColor" : "#00FFFFFF"
+        },
+        "label_23" : {
+          "color" : "#179938",
+          "borderColor" : "#62BA78"
+        },
+        "label_19" : {
+          "color" : "#179938",
+          "borderColor" : "#62BA78"
+        },
+        "pb_ms" : {
+  
+        },
+        "tag_tpm_v2" : {
+          "color" : "#FC4A0D",
+          "borderColor" : "#FFB699",
+          "backgroundColor" : "#FFF7F2"
+        },
+        "pb_ms_text" : {
+          "color" : "#603C10",
+          "backgroundColor" : "#F0DCAE",
+          "gradientColor" : {
+            "toColor" : "#ECD5A1",
+            "direction" : 3,
+            "fromColor" : "#F4E2BA"
+          }
+        },
+        "label_24" : {
+          "color" : "#179938",
+          "borderColor" : "#62BA78"
+        },
+        "label_25" : {
+          "color" : "#179938",
+          "borderColor" : "#62BA78"
+        },
+        "pt" : {
+          "color" : "#FFFFFF",
+          "borderColor" : "#005DACE9",
+          "backgroundColor" : "#FF5DACE9"
+        },
+        "label_26" : {
+          "color" : "#179938",
+          "borderColor" : "#62BA78"
+        },
+        "label_30" : {
+          "color" : "#0072CC",
+          "borderColor" : "#70B0E2"
+        },
+        "hot_word_common_biz_530" : {
+          "backgroundColor" : "#FCFCFD"
+        },
+        "tag_base_property" : {
+          "color" : "#009125",
+          "borderColor" : "#33BA55"
+        },
+        "label_27" : {
+          "color" : "#179938",
+          "borderColor" : "#62BA78"
+        },
+        "rec_reason" : {
+          "color" : "#D5A94D"
+        },
+        "lsbv3" : {
+          "color" : "#C79F7D"
+        },
+        "label_28" : {
+          "color" : "#179938",
+          "borderColor" : "#62BA78"
+        },
+        "biz_tpd" : {
+          "color" : "#FF6632",
+          "borderColor" : "#FFC79E",
+          "backgroundColor" : "#FFF3EB"
+        },
+        "label_29" : {
+          "color" : "#179938",
+          "borderColor" : "#62BA78"
+        },
+        "addho" : {
+          "color" : "#ed8c00",
+          "backgroundColor" : "#fff1e2"
+        },
+        "d2t" : {
+          "color" : "#0080E2"
+        },
+        "operate_hot_word_biz_530" : {
+          "color" : "#FF3F22",
+          "backgroundColor" : "#FFE1E4"
+        },
+        "tb" : {
+          "color" : "#0080E2",
+          "backgroundColor" : "#F0E2F0FE"
+        },
+        "tag_new_prov2" : {
+          "color" : "#FF3F22",
+          "borderColor" : "#FF3F22"
+        },
+        "odpbnbe" : {
+          "color" : "#333333",
+          "backgroundColor" : "#EEEEEE"
+        },
+        "tag_base_propertv2" : {
+          "color" : "#858585",
+          "borderColor" : "#C2C2C2"
+        },
+        "group_style_text" : {
+          "color" : "#FF5454"
+        },
+        "label_1" : {
+          "color" : "#179938",
+          "borderColor" : "#62BA78"
+        },
+        "addco" : {
+          "color" : "#506cd0",
+          "backgroundColor" : "#eef1ff"
+        },
+        "biz_top" : {
+          "color" : "#4D8AF3",
+          "borderColor" : "#A7C4F6",
+          "backgroundColor" : "#F2F7FF"
+        },
+        "biz_tpd_v2" : {
+          "color" : "#FF6632",
+          "borderColor" : "#FFCCC0",
+          "backgroundColor" : "#FFECE8"
+        },
+        "pb_milk" : {
+  
+        },
+        "label_3" : {
+          "color" : "#179938",
+          "borderColor" : "#62BA78"
+        },
+        "promotion_word_biz" : {
+          "color" : "#FF1929"
+        },
+        "sdpci" : {
+          "color" : "#666666"
+        },
+        "tag_import" : {
+          "color" : "#3AA111",
+          "borderColor" : "#A4E37F",
+          "backgroundColor" : "#F7FFF3"
+        },
+        "relate_reason" : {
+          "color" : "#D5A94D"
+        },
+        "label_5" : {
+          "color" : "#0072CC",
+          "borderColor" : "#70B0E2"
+        },
+        "tag_of_buy" : {
+          "color" : "#3AA111",
+          "borderColor" : "#A4E37F",
+          "backgroundColor" : "#F7FFF3"
+        },
+        "tag_delivery" : {
+          "color" : "#666666",
+          "borderColor" : "#C2C2C2"
+        },
+        "pb_xhs_text" : {
+          "color" : "#603C10",
+          "backgroundColor" : "#F0DCAE",
+          "gradientColor" : {
+            "toColor" : "#ECD5A1",
+            "direction" : 3,
+            "fromColor" : "#F4E2BA"
+          }
+        },
+        "d2tv3" : {
+          "color" : "#506CD0"
+        },
+        "label_7" : {
+          "color" : "#179938",
+          "borderColor" : "#62BA78"
+        },
+        "label_9" : {
+          "color" : "#179938",
+          "borderColor" : "#62BA78"
+        },
+        "sso" : {
+          "color" : "#FFFFFF",
+          "backgroundColor" : "#D9D9D9"
+        },
+        "sws" : {
+          "color" : "#FFFFFF",
+          "backgroundColor" : "#FF0068FF"
+        },
+        "pb_xdc" : {
+  
+        },
+        "addot" : {
+          "color" : "#A78157",
+          "backgroundColor" : "#F7F1EC"
+        },
+        "operate_hot_word_biz" : {
+          "backgroundColor" : "#FFF5F5"
+        },
+        "clt" : {
+          "color" : "#333333"
+        },
+        "pb_xhs_detail" : {
+  
+        },
+        "tag_selltime" : {
+          "color" : "#626366",
+          "borderColor" : "#C4C7CC"
+        },
+        "sol" : {
+          "color" : "#FFFFFF",
+          "backgroundColor" : "#D9D9D9"
+        },
+        "pb_xzz_text" : {
+          "color" : "#F3D9A7",
+          "backgroundColor" : "#3B3D3A",
+          "gradientColor" : {
+            "toColor" : "#272927",
+            "direction" : 3,
+            "fromColor" : "#3B3D3A"
+          }
+        },
+        "tlpdv3" : {
+          "color" : "#506CD0"
+        },
+        "ssr38" : {
+          "color" : "#333333",
+          "borderColor" : "#B7B7B7"
+        },
+        "tag_new_list_presell" : {
+  
+        },
+        "pb_xyx" : {
+  
+        },
+        "mt34" : {
+          "color" : "#C8853F",
+          "backgroundColor" : "#F0FFEECA"
+        },
+        "odpbnbu" : {
+          "color" : "#999999",
+          "borderColor" : "#B7B7B7"
+        },
+        "prt" : {
+          "color" : "#FFFFFF",
+          "borderColor" : "#00FD714D",
+          "backgroundColor" : "#FFFD714D"
+        },
+        "d2tv32" : {
+          "color" : "#8F5E3C"
+        },
+        "msg_tip_biz" : {
+          "color" : "#53B348",
+          "backgroundColor" : "#E1F5D9"
+        },
+        "tag_sku_detail_emphasize_feature_label" : {
+          "color" : "#179938",
+          "borderColor" : "#12B32D"
+        },
+        "common_top" : {
+          "color" : "#E95A7E",
+          "borderColor" : "#FFE1E8",
+          "backgroundColor" : "#FFF2F5"
+        },
+        "pb_xyx_detail" : {
+  
+        },
+        "scgsf" : {
+          "color" : "#E0924D"
+        },
+        "pb_xzz" : {
+  
+        },
+        "tag_brand_text" : {
+          "color" : "#292614",
+          "backgroundColor" : "#FFF08A",
+          "gradientColor" : {
+            "toColor" : "#FED87A",
+            "direction" : 3,
+            "fromColor" : "#FFEA84"
+          }
+        },
+        "fpstp" : {
+          "color" : "#333333",
+          "backgroundColor" : "#F6F6F6"
+        },
+        "fb" : {
+          "color" : "#0080E2"
+        },
+        "tag_freeze" : {
+          "color" : "#417EC1",
+          "borderColor" : "#A6D3E6",
+          "backgroundColor" : "#F7FCFF"
+        },
+        "pb_xzz_detail" : {
+  
+        },
+        "tpdv3" : {
+          "color" : "#506CD0",
+          "backgroundColor" : "#F0EEF1FF"
+        },
+        "tag_food" : {
+          "color" : "#3AA111",
+          "borderColor" : "#A4E37F",
+          "backgroundColor" : "#F7FFF3"
+        },
+        "v4_comment" : {
+          "color" : "#8B8F94"
+        },
+        "dp" : {
+          "color" : "#999999"
+        },
+        "mpoiv3" : {
+          "color" : "#DB3535",
+          "backgroundColor" : "#F0FFEEEE"
+        },
+        "tpd" : {
+          "color" : "#FFFFFF",
+          "backgroundColor" : "#C79F7D"
+        },
+        "lt" : {
+          "color" : "#CB7C00",
+          "borderColor" : "#CB7C00",
+          "backgroundColor" : "#99FFFFFF"
+        },
+        "tag_season" : {
+          "color" : "#3AA111",
+          "borderColor" : "#A4E37F",
+          "backgroundColor" : "#F7FFF3"
+        },
+        "tag_cold" : {
+          "color" : "#417EC1",
+          "borderColor" : "#A6D3E6",
+          "backgroundColor" : "#F7FCFF"
+        },
+        "lsdv3" : {
+          "color" : "#666666"
+        },
+        "tag_temperature" : {
+          "color" : "#0080FF",
+          "borderColor" : "#42A1FF"
+        },
+        "scgsg" : {
+          "color" : "#53B348"
+        },
+        "tag_new_sku" : {
+          "color" : "#3AA111",
+          "borderColor" : "#A4E37F",
+          "backgroundColor" : "#F7FFF3"
+        },
+        "hot_word_special_biz" : {
+          "backgroundColor" : "#FFF5F5"
+        },
+        "dt" : {
+          "color" : "#0080E2",
+          "borderColor" : "#0080E2",
+          "backgroundColor" : "#FFFFFFFF"
+        },
+        "tag_finished_product" : {
+          "color" : "#0096FA",
+          "borderColor" : "#0096FA"
+        },
+        "ty" : {
+          "color" : "#FF9900",
+          "backgroundColor" : "#F0FFF2E3"
+        },
+        "sku_comment_user_judge_tag" : {
+          "color" : "#BD3200",
+          "gradientColor" : {
+            "toColor" : "#FFEFCC",
+            "direction" : 3,
+            "fromColor" : "#FFF4DB"
+          }
+        },
+        "biz_top_v2" : {
+          "color" : "#FF6632",
+          "borderColor" : "#FFCCC0",
+          "backgroundColor" : "#FFECE8"
+        },
+        "pb_xdc_detail" : {
+  
+        },
+        "biz_sp" : {
+          "color" : "#999999"
+        },
+        "sku_comment_user_buy_tag" : {
+          "color" : "#167043",
+          "gradientColor" : {
+            "toColor" : "#DCFCD4",
+            "direction" : 3,
+            "fromColor" : "#E8FCE3"
+          }
+        },
+        "tag_new_keyprov2" : {
+          "color" : "#FFFFFF",
+          "borderColor" : "#FF3F22",
+          "backgroundColor" : "#FF3F22"
+        },
+        "d2tv33" : {
+          "color" : "#333333"
+        },
+        "group_style_gb" : {
+          "backgroundColor" : "#FFE8E3"
+        },
+        "new_label_value" : {
+          "color" : "#00B240",
+          "borderColor" : "#29CB21",
+          "backgroundColor" : "#FFFFFF"
+        },
+        "pb_xhs" : {
+  
+        },
+        "pb_milk_text" : {
+          "color" : "#FFFFFF",
+          "backgroundColor" : "#4AB0FA"
+        },
+        "common_tpm" : {
+          "color" : "#432703",
+          "borderColor" : "#FFE5A6",
+          "backgroundColor" : "#FFEEC5"
+        },
+        "hot_word_common_biz" : {
+          "backgroundColor" : "#F5F6F7"
+        },
+        "new_label_key" : {
+          "color" : "#FFFFFF",
+          "borderColor" : "#00CF22",
+          "backgroundColor" : "#00CF22"
+        },
+        "tag_manual_cfg" : {
+          "color" : "#3AA111",
+          "borderColor" : "#A4E37F",
+          "backgroundColor" : "#F7FFF3"
+        },
+        "label_2" : {
+          "color" : "#179938",
+          "borderColor" : "#62BA78"
+        },
+        "pb_ms_detail" : {
+  
+        },
+        "tag_new_prov2,tag_new_keyprov2" : {
+          "color" : "#FF1929",
+          "borderColor" : "#FF5560"
+        },
+        "tag_detail_presell" : {
+          "color" : "#179938",
+          "borderColor" : "#62BA78"
+        },
+        "pb_milk_detail" : {
+  
+        },
+        "label_4" : {
+          "color" : "#179938",
+          "borderColor" : "#62BA78"
+        },
+        "scrf" : {
+          "backgroundColor" : "#F9F9F9"
+        },
+        "biz_tpm" : {
+          "color" : "#ffffff",
+          "backgroundColor" : "#FF7a32"
+        },
+        "label_6" : {
+          "color" : "#0072CC",
+          "borderColor" : "#70B0E2"
+        },
+        "scl" : {
+          "color" : "#999999"
+        },
+        "scrg" : {
+          "backgroundColor" : "#F9F9F9"
+        },
+        "top" : {
+          "color" : "#506CD0",
+          "borderColor" : "#96A7E3",
+          "backgroundColor" : "#ccFFFFFF"
+        },
+        "label_8" : {
+          "color" : "#179938",
+          "borderColor" : "#62BA78"
+        },
+        "tag_presell_text" : {
+          "color" : "#16360F",
+          "backgroundColor" : "#C4F5BF",
+          "gradientColor" : {
+            "toColor" : "#CEF6CA",
+            "direction" : 3,
+            "fromColor" : "#D5F3CE"
+          }
+        },
+        "scbsf" : {
+          "color" : "#867F78"
+        },
+        "label_11" : {
+          "color" : "#0072CC",
+          "borderColor" : "#70B0E2"
+        },
+        "lsb" : {
+          "color" : "#FE4F20"
+        },
+        "tag_new_detail_presell" : {
+  
+        },
+        "label_12" : {
+          "color" : "#0072CC",
+          "borderColor" : "#70B0E2"
+        },
+        "tag_new_pro" : {
+          "color" : "#FF1929",
+          "borderColor" : "#FF5560"
+        },
+        "tag_fpstp" : {
+          "color" : "#333333"
+        },
+        "label_13" : {
+          "color" : "#0072CC",
+          "borderColor" : "#70B0E2"
+        },
+        "tag_service" : {
+          "color" : "#7D7D7D",
+          "borderColor" : "#CCCCCC",
+          "backgroundColor" : "#FFFFFF"
+        },
+        "lsspv310" : {
+          "color" : "#BB6B2E"
+        },
+        "biz_tpm_v2" : {
+          "color" : "#FFFFFF",
+          "backgroundColor" : "#FF5532"
+        },
+        "label_14" : {
+          "color" : "#0072CC",
+          "borderColor" : "#70B0E2"
+        },
+        "pb_xyx_text" : {
+          "color" : "#F3D9A7",
+          "backgroundColor" : "#3B3D3A",
+          "gradientColor" : {
+            "toColor" : "#272927",
+            "direction" : 3,
+            "fromColor" : "#3B3D3A"
+          }
+        },
+        "tpm" : {
+          "color" : "#FFFFFF",
+          "backgroundColor" : "#FF688B"
+        },
+        "label_15" : {
+          "color" : "#179938",
+          "borderColor" : "#62BA78"
+        },
+        "lrtv3" : {
+          "color" : "#506CD0",
+          "backgroundColor" : "#F0EEF1FF"
+        },
+        "lsd" : {
+          "color" : "#95989E"
+        },
+        "swsv3" : {
+          "color" : "#FFFFFF",
+          "backgroundColor" : "#66A78157"
+        }
+      },
+      "categoryId2SkuListMap" : {
+        "40461" : {
+          "skuIdList" : [
+            241373,
+            241504,
+            241459,
+            241288,
+            223699,
+            231393,
+            103768,
+            222180,
+            18247,
+            17993,
+            42026,
+            102987,
+            111861,
+            2568,
+            224017,
+            228817,
+            95042,
+            95033,
+            22265,
+            17987,
+            12688,
+            225916,
+            228966,
+            99177,
+            218469,
+            65368,
+            95178,
+            18248,
+            101819,
+            2550,
+            223671,
+            102991,
+            99629,
+            222107,
+            17996,
+            225073,
+            224271,
+            105896,
+            17994,
+            107540,
+            42212,
+            77546,
+            3821,
+            87446,
+            232126,
+            100653,
+            224237,
+            226136,
+            102988,
+            68296
+          ],
+          "categoryId" : 40461,
+          "needFold" : true,
+          "categoryLevel" : 2,
+          "total" : 100
+        }
+      },
+      "skuId2SkuItemMap" : {
+        "2568" : {
+          "type" : 1,
+          "skuItem" : {
+            "salesVO" : {
+  
+            },
+            "subscription" : false,
+            "loose" : false,
+            "skuId" : 2568,
+            "picUrl" : "https:\/\/img.meituan.net\/mallimages\/21ec4284d5ae5df29f8e471f571d705e611450.png",
+            "similar" : true,
+            "detailPagePic" : "https:\/\/p1.meituan.net\/mallimages\/ceb7ca511afcc46b269d76f8eb0ecc4e314300.jpg",
+            "promotionList" : "5289075,5187455",
+            "buyUnit" : "袋",
+            "sellPrice" : {
+              "text" : "¥13.2"
+            },
+            "v2Tags" : [
+              {
+                "tagType" : 1,
+                "location" : 2,
+                "labelId" : 100030,
+                "logicalIdentification" : 1,
+                "image" : {
+                  "url" : "https:\/\/p1.meituan.net\/mallimages\/13cb54c9315ede3cb9f4223e95cc99565554.png",
+                  "width" : 30,
+                  "height" : 16
+                },
+                "ordered" : 0,
+                "type" : 9,
+                "priority" : 1304
+              },
+              {
+                "tagType" : 0,
+                "styleText" : {
+                  "styleId" : "tag_new_prov2",
+                  "text" : "特价"
+                },
+                "location" : 6,
+                "logicalIdentification" : 1,
+                "ordered" : 0,
+                "type" : 2,
+                "priority" : 1100
+              }
+            ],
+            "buttonList" : [
+              {
+                "status" : 4,
+                "enable" : true,
+                "styleId" : "ssr38",
+                "text" : "到货提醒"
+              },
+              {
+                "enable" : true,
+                "text" : "找相似",
+                "status" : 6
+              }
+            ],
+            "soldOutUrl" : "https:\/\/p0.meituan.net\/mallimages\/5c17cf85da4b43180cb08e2ad6107d024681.png",
+            "dashPrice" : {
+              "styleId" : "dp",
+              "text" : "¥13.9"
+            },
+            "sellButton" : {
+              "enable" : true,
+              "text" : "找相似",
+              "status" : 6
+            },
+            "skuTitle" : {
+              "text" : "百吉福芝士片100g(新老包装随机发货)"
+            },
+            "seqPrice" : 1320,
+            "seqSale" : 7,
+            "skuSubTitle" : {
+              "styleId" : "lstv570",
+              "text" : "果香袭人｜奶味纯正｜吃法多样"
+            },
+            "sellUnit" : {
+              "text" : "袋"
+            },
+            "subStatus" : false,
+            "sellingPoints" : [
+              {
+                "styleId" : "biz_sp",
+                "text" : "果香袭人"
+              },
+              {
+                "styleId" : "biz_sp",
+                "text" : "奶味纯正"
+              }
+            ],
+            "buyStep" : "1"
+          }
+        },
+        "228817" : {
+          "type" : 1,
+          "skuItem" : {
+            "buttonList" : [
+              {
+                "status" : 4,
+                "enable" : true,
+                "styleId" : "ssr38",
+                "text" : "到货提醒"
+              },
+              {
+                "enable" : true,
+                "text" : "找相似",
+                "status" : 6
+              }
+            ],
+            "salesVO" : {
+  
+            },
+            "subStatus" : false,
+            "picUrl" : "https:\/\/p0.meituan.net\/mallimages\/bf867fc6e94642223a592dbbec56b94a438485.jpg",
+            "seqSale" : 29,
+            "sellPrice" : {
+              "text" : "¥16.9"
+            },
+            "loose" : false,
+            "skuId" : 228817,
+            "buyUnit" : "袋",
+            "similar" : true,
+            "sellButton" : {
+              "enable" : true,
+              "text" : "找相似",
+              "status" : 6
+            },
+            "seqPrice" : 1690,
+            "subscription" : false,
+            "skuTitle" : {
+              "text" : "静安面包房家庭装椒盐精棍面包330g(美团买菜定制)"
+            },
+            "detailPagePic" : "https:\/\/p0.meituan.net\/mallimages\/721433153675e519cd585866aacf7b80230013.jpg",
+            "soldOutUrl" : "https:\/\/p1.meituan.net\/scarlett\/efaf34fa5387df3c35eb7a7e2cec74316112.png",
+            "buyStep" : "1",
+            "skuSubTitle" : {
+              "styleId" : "lstv570",
+              "text" : "招牌经典，家庭实惠装"
+            },
+            "sellUnit" : {
+              "text" : "袋"
+            }
+          }
+        },
+        "17996" : {
+          "type" : 1,
+          "skuItem" : {
+            "salesVO" : {
+  
+            },
+            "subscription" : false,
+            "loose" : false,
+            "skuId" : 17996,
+            "picUrl" : "https:\/\/img.meituan.net\/mallimages\/fbac886bb1930ac9b3117ec29427ac71301036.png",
+            "similar" : true,
+            "detailPagePic" : "https:\/\/p0.meituan.net\/mallimages\/2974cfa15f8028ef0ee120462d849f0f186783.jpg",
+            "promotionList" : "5187455",
+            "buyUnit" : "盒",
+            "sellPrice" : {
+              "text" : "¥33.9"
+            },
+            "v2Tags" : [
+              {
+                "tagType" : 1,
+                "location" : 2,
+                "labelId" : 100030,
+                "logicalIdentification" : 1,
+                "image" : {
+                  "url" : "https:\/\/p1.meituan.net\/mallimages\/13cb54c9315ede3cb9f4223e95cc99565554.png",
+                  "width" : 30,
+                  "height" : 16
+                },
+                "ordered" : 0,
+                "type" : 9,
+                "priority" : 1304
+              },
+              {
+                "tagType" : 1,
+                "location" : 5,
+                "labelId" : 70,
+                "logicalIdentification" : 1,
+                "image" : {
+                  "url" : "https:\/\/p0.meituan.net\/mallimages\/d166fdd1df53be64ea15d916cbbfd02c2521.png",
+                  "width" : 144,
+                  "height" : 45
+                },
+                "ordered" : 0,
+                "type" : 8,
+                "priority" : 1201
+              }
+            ],
+            "buttonList" : [
+              {
+                "status" : 4,
+                "enable" : true,
+                "styleId" : "ssr38",
+                "text" : "到货提醒"
+              },
+              {
+                "enable" : true,
+                "text" : "找相似",
+                "status" : 6
+              }
+            ],
+            "soldOutUrl" : "https:\/\/p1.meituan.net\/scarlett\/efaf34fa5387df3c35eb7a7e2cec74316112.png",
+            "sellButton" : {
+              "enable" : true,
+              "text" : "找相似",
+              "status" : 6
+            },
+            "seqPrice" : 3390,
+            "skuTitle" : {
+              "text" : "光明致优高品质鲜奶950ml(当天上市)(新老包装随机发货)"
+            },
+            "seqSale" : 35,
+            "skuSubTitle" : {
+              "styleId" : "lstv570",
+              "text" : "优质奶源｜口感醇鲜｜乳质浓厚｜全脂"
+            },
+            "memberPrice" : {
+              "text" : "¥32.9"
+            },
+            "sellUnit" : {
+              "text" : "盒"
+            },
+            "subStatus" : false,
+            "sellingPoints" : [
+              {
+                "styleId" : "biz_sp",
+                "text" : "优质奶源"
+              },
+              {
+                "styleId" : "biz_sp",
+                "text" : "口感醇鲜"
+              }
+            ],
+            "buyStep" : "1"
+          }
+        },
+        "17987" : {
+          "type" : 1,
+          "skuItem" : {
+            "salesVO" : {
+  
+            },
+            "subscription" : false,
+            "loose" : false,
+            "skuId" : 17987,
+            "picUrl" : "https:\/\/img.meituan.net\/mallimages\/5c0ed54be6a3d60e9ee7d01ac1dfb91c306383.png",
+            "similar" : true,
+            "detailPagePic" : "https:\/\/p1.meituan.net\/mallimages\/edbc132ddcc7879495fb63c49b8dabd8239649.jpg",
+            "promotionList" : "5187455",
+            "buyUnit" : "盒",
+            "sellPrice" : {
+              "text" : "¥16.9"
+            },
+            "v2Tags" : [
+              {
+                "tagType" : 1,
+                "location" : 2,
+                "labelId" : 100030,
+                "logicalIdentification" : 1,
+                "image" : {
+                  "url" : "https:\/\/p1.meituan.net\/mallimages\/13cb54c9315ede3cb9f4223e95cc99565554.png",
+                  "width" : 30,
+                  "height" : 16
+                },
+                "ordered" : 0,
+                "type" : 9,
+                "priority" : 1304
+              },
+              {
+                "tagType" : 1,
+                "location" : 5,
+                "labelId" : 70,
+                "logicalIdentification" : 1,
+                "image" : {
+                  "url" : "https:\/\/p0.meituan.net\/mallimages\/d166fdd1df53be64ea15d916cbbfd02c2521.png",
+                  "width" : 144,
+                  "height" : 45
+                },
+                "ordered" : 0,
+                "type" : 8,
+                "priority" : 1201
+              }
+            ],
+            "buttonList" : [
+              {
+                "status" : 4,
+                "enable" : true,
+                "styleId" : "ssr38",
+                "text" : "到货提醒"
+              },
+              {
+                "enable" : true,
+                "text" : "找相似",
+                "status" : 6
+              }
+            ],
+            "soldOutUrl" : "https:\/\/p1.meituan.net\/scarlett\/efaf34fa5387df3c35eb7a7e2cec74316112.png",
+            "sellButton" : {
+              "enable" : true,
+              "text" : "找相似",
+              "status" : 6
+            },
+            "seqPrice" : 1690,
+            "skuTitle" : {
+              "text" : "光明纯鲜牛奶980ml\/盒(当天上市)"
+            },
+            "seqSale" : 42,
+            "skuSubTitle" : {
+              "styleId" : "lstv570",
+              "text" : "限定牧场｜奶香浓郁｜细腻丝滑｜全脂"
+            },
+            "memberPrice" : {
+              "text" : "¥16.2"
+            },
+            "sellUnit" : {
+              "text" : "盒"
+            },
+            "subStatus" : false,
+            "sellingPoints" : [
+              {
+                "styleId" : "biz_sp",
+                "text" : "限定牧场"
+              },
+              {
+                "styleId" : "biz_sp",
+                "text" : "奶香浓郁"
+              }
+            ],
+            "buyStep" : "1"
+          }
+        },
+        "241288" : {
+          "type" : 1,
+          "skuItem" : {
+            "salesVO" : {
+  
+            },
+            "subscription" : false,
+            "loose" : false,
+            "skuId" : 241288,
+            "picUrl" : "https:\/\/p0.meituan.net\/mallimages\/276ee94abfc8564465ab744eb34526ca452650.jpg",
+            "similar" : false,
+            "choiceEnable" : false,
+            "process" : false,
+            "detailPagePic" : "https:\/\/p0.meituan.net\/mallimages\/d7332642a7dee00bdc8ccc13f895e144285839.jpg",
+            "buyUnit" : "罐",
+            "sellPrice" : {
+              "text" : "¥419"
+            },
+            "v2Tags" : [
+  
+            ],
+            "buttonList" : [
+              {
+                "enable" : true,
+                "text" : "",
+                "status" : 1
+              }
+            ],
+            "sellButton" : {
+              "enable" : true,
+              "text" : "",
+              "status" : 1
+            },
+            "seqPrice" : 41900,
+            "skuTitle" : {
+              "text" : "惠氏启赋蕴淳幼儿配方奶粉12-36月龄3段850g"
+            },
+            "seqSale" : 3,
+            "skuSubTitle" : {
+              "styleId" : "lstv570",
+              "text" : "进口｜原装原罐进口"
+            },
+            "sellUnit" : {
+              "text" : "罐"
+            },
+            "subStatus" : false,
+            "buyStep" : "1"
+          }
+        },
+        "3821" : {
+          "type" : 1,
+          "skuItem" : {
+            "salesVO" : {
+  
+            },
+            "subscription" : false,
+            "loose" : false,
+            "skuId" : 3821,
+            "picUrl" : "https:\/\/p1.meituan.net\/mallimages\/675c0c129fc9b2fca79023cbb3d7ad35306072.jpg",
+            "similar" : true,
+            "detailPagePic" : "https:\/\/p1.meituan.net\/mallimages\/9c12bef2fe4c38ae868119a867df0922139992.jpg",
+            "promotionList" : "5289067",
+            "buyUnit" : "提",
+            "sellPrice" : {
+              "text" : "¥49.7"
+            },
+            "v2Tags" : [
+              {
+                "tagType" : 0,
+                "styleText" : {
+                  "styleId" : "tag_new_prov2",
+                  "text" : "特价"
+                },
+                "location" : 6,
+                "logicalIdentification" : 1,
+                "ordered" : 0,
+                "type" : 2,
+                "priority" : 1100
+              }
+            ],
+            "buttonList" : [
+              {
+                "status" : 4,
+                "enable" : true,
+                "styleId" : "ssr38",
+                "text" : "已设提醒"
+              },
+              {
+                "enable" : true,
+                "text" : "找相似",
+                "status" : 6
+              }
+            ],
+            "soldOutUrl" : "https:\/\/p0.meituan.net\/scarlett\/b9e662ba8e406e697e2c4c7f178caf466188.png",
+            "dashPrice" : {
+              "styleId" : "dp",
+              "text" : "¥49.9"
+            },
+            "sellButton" : {
+              "enable" : true,
+              "text" : "找相似",
+              "status" : 6
+            },
+            "skuTitle" : {
+              "text" : "(整箱)蒙牛特仑苏纯牛奶250ml*12（新老包装随机发货）"
+            },
+            "seqPrice" : 4970,
+            "seqSale" : 37,
+            "skuSubTitle" : {
+              "styleId" : "lstv570",
+              "text" : "专属牧场｜精选牧草｜优良乳牛"
+            },
+            "sellUnit" : {
+              "text" : "提"
+            },
+            "subStatus" : false,
+            "sellingPoints" : [
+              {
+                "styleId" : "biz_sp",
+                "text" : "专属牧场"
+              },
+              {
+                "styleId" : "biz_sp",
+                "text" : "精选牧草"
+              }
+            ],
+            "buyStep" : "1"
+          }
+        },
+        "232126" : {
+          "type" : 1,
+          "skuItem" : {
+            "salesVO" : {
+  
+            },
+            "subscription" : false,
+            "loose" : false,
+            "skuId" : 232126,
+            "picUrl" : "https:\/\/p0.meituan.net\/mallimages\/f3cae259a18b4895fc626b089fc53779403366.jpg",
+            "similar" : true,
+            "detailPagePic" : "https:\/\/p1.meituan.net\/mallimages\/2d15de991f696e1f8e0d6106b675307c247553.jpg",
+            "promotionList" : "5258326",
+            "buyUnit" : "盒",
+            "sellPrice" : {
+              "text" : "¥43.8"
+            },
+            "v2Tags" : [
+              {
+                "tagType" : 1,
+                "location" : 2,
+                "labelId" : 100031,
+                "logicalIdentification" : 1,
+                "image" : {
+                  "url" : "https:\/\/p0.meituan.net\/mallimages\/77eeb1ee3fe06e007f20fcbb5ba1a99b5565.png",
+                  "width" : 30,
+                  "height" : 16
+                },
+                "ordered" : 0,
+                "type" : 9,
+                "priority" : 1307
+              },
+              {
+                "tagType" : 0,
+                "styleText" : {
+                  "styleId" : "tag_new_prov2",
+                  "text" : "特价"
+                },
+                "location" : 6,
+                "logicalIdentification" : 1,
+                "ordered" : 0,
+                "type" : 2,
+                "priority" : 1100
+              }
+            ],
+            "buttonList" : [
+              {
+                "status" : 4,
+                "enable" : true,
+                "styleId" : "ssr38",
+                "text" : "到货提醒"
+              },
+              {
+                "enable" : true,
+                "text" : "找相似",
+                "status" : 6
+              }
+            ],
+            "soldOutUrl" : "https:\/\/p0.meituan.net\/mallimages\/5c17cf85da4b43180cb08e2ad6107d024681.png",
+            "dashPrice" : {
+              "styleId" : "dp",
+              "text" : "¥43.9"
+            },
+            "sellButton" : {
+              "enable" : true,
+              "text" : "找相似",
+              "status" : 6
+            },
+            "skuTitle" : {
+              "text" : "象大厨柠檬杨枝甘露味+黑森林牛乳味瑞士卷420g"
+            },
+            "seqPrice" : 4380,
+            "seqSale" : 18,
+            "skuSubTitle" : {
+              "styleId" : "lstv570",
+              "text" : "网红甜品｜细腻松软｜入口即化"
+            },
+            "sellUnit" : {
+              "text" : "盒"
+            },
+            "subStatus" : false,
+            "sellingPoints" : [
+              {
+                "styleId" : "biz_sp",
+                "text" : "网红甜品"
+              },
+              {
+                "styleId" : "biz_sp",
+                "text" : "细腻松软"
+              }
+            ],
+            "buyStep" : "1"
+          }
+        },
+        "17994" : {
+          "type" : 1,
+          "skuItem" : {
+            "salesVO" : {
+  
+            },
+            "subscription" : false,
+            "loose" : false,
+            "skuId" : 17994,
+            "picUrl" : "https:\/\/p0.meituan.net\/mallimages\/45395f6242010e57cd4a2e21fb422ba8356466.jpg",
+            "similar" : true,
+            "detailPagePic" : "https:\/\/p0.meituan.net\/mallimages\/b84535826f322bb186d3cb31aa273228272402.jpg",
+            "promotionList" : "5187455",
+            "buyUnit" : "盒",
+            "sellPrice" : {
+              "text" : "¥31.9"
+            },
+            "v2Tags" : [
+              {
+                "tagType" : 1,
+                "location" : 2,
+                "labelId" : 100030,
+                "logicalIdentification" : 1,
+                "image" : {
+                  "url" : "https:\/\/p1.meituan.net\/mallimages\/13cb54c9315ede3cb9f4223e95cc99565554.png",
+                  "width" : 30,
+                  "height" : 16
+                },
+                "ordered" : 0,
+                "type" : 9,
+                "priority" : 1304
+              },
+              {
+                "tagType" : 1,
+                "location" : 5,
+                "labelId" : 70,
+                "logicalIdentification" : 1,
+                "image" : {
+                  "url" : "https:\/\/p0.meituan.net\/mallimages\/d166fdd1df53be64ea15d916cbbfd02c2521.png",
+                  "width" : 144,
+                  "height" : 45
+                },
+                "ordered" : 0,
+                "type" : 8,
+                "priority" : 1201
+              }
+            ],
+            "buttonList" : [
+              {
+                "status" : 4,
+                "enable" : true,
+                "styleId" : "ssr38",
+                "text" : "已设提醒"
+              },
+              {
+                "enable" : true,
+                "text" : "找相似",
+                "status" : 6
+              }
+            ],
+            "soldOutUrl" : "https:\/\/p1.meituan.net\/scarlett\/efaf34fa5387df3c35eb7a7e2cec74316112.png",
+            "sellButton" : {
+              "enable" : true,
+              "text" : "找相似",
+              "status" : 6
+            },
+            "seqPrice" : 3190,
+            "skuTitle" : {
+              "text" : "光明优倍高品质鲜奶1.35L(当天上市)(新老包装随机发货)"
+            },
+            "seqSale" : 44,
+            "skuSubTitle" : {
+              "styleId" : "lstv570",
+              "text" : "0脂肪｜回味醇香｜优质奶源｜全脂"
+            },
+            "memberPrice" : {
+              "text" : "¥30.6"
+            },
+            "sellUnit" : {
+              "text" : "盒"
+            },
+            "subStatus" : false,
+            "sellingPoints" : [
+              {
+                "styleId" : "biz_sp",
+                "text" : "0脂肪"
+              },
+              {
+                "styleId" : "biz_sp",
+                "text" : "回味醇香"
+              }
+            ],
+            "buyStep" : "1"
+          }
+        },
+        "87446" : {
+          "type" : 1,
+          "skuItem" : {
+            "buttonList" : [
+              {
+                "status" : 4,
+                "enable" : true,
+                "styleId" : "ssr38",
+                "text" : "到货提醒"
+              },
+              {
+                "enable" : true,
+                "text" : "找相似",
+                "status" : 6
+              }
+            ],
+            "salesVO" : {
+  
+            },
+            "subStatus" : false,
+            "picUrl" : "https:\/\/img.meituan.net\/mallimages\/fbedd302810c7cf7e46fbf53f4c77e9d476948.png",
+            "seqSale" : 25,
+            "sellPrice" : {
+              "text" : "¥8.5"
+            },
+            "loose" : false,
+            "skuId" : 87446,
+            "buyUnit" : "袋",
+            "similar" : true,
+            "sellButton" : {
+              "enable" : true,
+              "text" : "找相似",
+              "status" : 6
+            },
+            "seqPrice" : 850,
+            "subscription" : false,
+            "skuTitle" : {
+              "text" : "桃李奶棒面包240g"
+            },
+            "detailPagePic" : "https:\/\/p0.meituan.net\/mallimages\/7ed22752f14415e7302acd577a81cdd074804.jpg",
+            "soldOutUrl" : "https:\/\/p1.meituan.net\/scarlett\/efaf34fa5387df3c35eb7a7e2cec74316112.png",
+            "buyStep" : "1",
+            "skuSubTitle" : {
+              "styleId" : "lstv570",
+              "text" : "麦香四溢 松软绵香"
+            },
+            "sellUnit" : {
+              "text" : "袋"
+            }
+          }
+        },
+        "218469" : {
+          "type" : 1,
+          "skuItem" : {
+            "salesVO" : {
+  
+            },
+            "subscription" : false,
+            "loose" : false,
+            "skuId" : 218469,
+            "picUrl" : "https:\/\/img.meituan.net\/mallimages\/2bd28606949fb4b2bd21249e1d262c41810551.png",
+            "similar" : true,
+            "detailPagePic" : "https:\/\/p0.meituan.net\/mallimages\/deea4c2b22ab453ae0a1393620a04a36404676.jpg",
+            "buyUnit" : "盒",
+            "sellPrice" : {
+              "text" : "¥22.8"
+            },
+            "buttonList" : [
+              {
+                "status" : 4,
+                "enable" : true,
+                "styleId" : "ssr38",
+                "text" : "到货提醒"
+              },
+              {
+                "enable" : true,
+                "text" : "找相似",
+                "status" : 6
+              }
+            ],
+            "soldOutUrl" : "https:\/\/p1.meituan.net\/scarlett\/efaf34fa5387df3c35eb7a7e2cec74316112.png",
+            "sellButton" : {
+              "enable" : true,
+              "text" : "找相似",
+              "status" : 6
+            },
+            "seqPrice" : 2280,
+            "skuTitle" : {
+              "text" : "象大厨爆香麻薯340g(10粒装)"
+            },
+            "seqSale" : 40,
+            "skuSubTitle" : {
+              "styleId" : "lstv570",
+              "text" : "外酥内软｜精心烘焙｜圆润饱满"
+            },
+            "sellUnit" : {
+              "text" : "盒"
+            },
+            "subStatus" : false,
+            "sellingPoints" : [
+              {
+                "styleId" : "biz_sp",
+                "text" : "外酥内软"
+              },
+              {
+                "styleId" : "biz_sp",
+                "text" : "精心烘焙"
+              }
+            ],
+            "buyStep" : "1"
+          }
+        },
+        "12688" : {
+          "type" : 1,
+          "skuItem" : {
+            "salesVO" : {
+  
+            },
+            "subscription" : false,
+            "loose" : false,
+            "skuId" : 12688,
+            "picUrl" : "https:\/\/img.meituan.net\/mallimages\/f91daa1a7db5743b1314c10b8525d2ad652808.png",
+            "similar" : true,
+            "detailPagePic" : "https:\/\/p0.meituan.net\/mallimages\/57dfd8daa32c7d0c61e86e91e4be15f7159842.jpg",
+            "buyUnit" : "组",
+            "sellPrice" : {
+              "text" : "¥19.9"
+            },
+            "video" : {
+              "url" : "https:\/\/s3plus.meituan.net\/v1\/mss_915cfe67c99b4651b81ca210670f9302\/mall-fe-files\/fd0a0f34f6f24358d426570d7d95d60f_codec.mp4",
+              "index" : 0,
+              "iconUrl" : "https:\/\/p1.meituan.net\/mallimages\/df8107f15d88461a88cdee328295626f1386.png"
+            },
+            "v2Tags" : [
+  
+            ],
+            "soldOutUrl" : "https:\/\/p0.meituan.net\/mallimages\/5c17cf85da4b43180cb08e2ad6107d024681.png",
+            "sellButton" : {
+              "enable" : true,
+              "text" : "找相似",
+              "status" : 6
+            },
+            "seqPrice" : 1990,
+            "skuTitle" : {
+              "text" : "德亚脱脂牛奶200ml*6 德国进口 (新老包装随机发货)"
+            },
+            "buttonList" : [
+              {
+                "status" : 4,
+                "enable" : true,
+                "styleId" : "ssr38",
+                "text" : "到货提醒"
+              },
+              {
+                "enable" : true,
+                "text" : "找相似",
+                "status" : 6
+              }
+            ],
+            "seqSale" : 9,
+            "skuSubTitle" : {
+              "styleId" : "lstv570",
+              "text" : "进口｜德国进口｜严苛管控｜奶香馥郁｜脱脂"
+            },
+            "sellUnit" : {
+              "text" : "组"
+            },
+            "subStatus" : false,
+            "sellingPoints" : [
+              {
+                "styleId" : "biz_sp",
+                "text" : "德国进口"
+              },
+              {
+                "styleId" : "biz_sp",
+                "text" : "严苛管控"
+              }
+            ],
+            "buyStep" : "1"
+          }
+        },
+        "99629" : {
+          "type" : 1,
+          "skuItem" : {
+            "salesVO" : {
+  
+            },
+            "subscription" : false,
+            "loose" : false,
+            "skuId" : 99629,
+            "picUrl" : "https:\/\/img.meituan.net\/mallimages\/6006120bcbccf391388ea4c43aa21136433786.png",
+            "similar" : true,
+            "detailPagePic" : "https:\/\/p1.meituan.net\/mallimages\/24f4fd302077eb3ad4725f2ab742f74c262162.jpg",
+            "buyUnit" : "袋",
+            "sellPrice" : {
+              "text" : "¥8.9"
+            },
+            "v2Tags" : [
+              {
+                "tagType" : 1,
+                "location" : 2,
+                "labelId" : 100031,
+                "logicalIdentification" : 1,
+                "image" : {
+                  "url" : "https:\/\/p0.meituan.net\/mallimages\/77eeb1ee3fe06e007f20fcbb5ba1a99b5565.png",
+                  "width" : 30,
+                  "height" : 16
+                },
+                "ordered" : 0,
+                "type" : 9,
+                "priority" : 1307
+              }
+            ],
+            "buttonList" : [
+              {
+                "status" : 4,
+                "enable" : true,
+                "styleId" : "ssr38",
+                "text" : "到货提醒"
+              },
+              {
+                "enable" : true,
+                "text" : "找相似",
+                "status" : 6
+              }
+            ],
+            "soldOutUrl" : "https:\/\/p0.meituan.net\/mallimages\/5c17cf85da4b43180cb08e2ad6107d024681.png",
+            "sellButton" : {
+              "enable" : true,
+              "text" : "找相似",
+              "status" : 6
+            },
+            "seqPrice" : 890,
+            "skuTitle" : {
+              "text" : "壹粒谷仓可可吐司120g(新老包装随机)"
+            },
+            "seqSale" : 15,
+            "skuSubTitle" : {
+              "styleId" : "lstv570",
+              "text" : "香浓可可｜迷你小巧｜元气早餐"
+            },
+            "gifPicUrl" : "https:\/\/p0.meituan.net\/mallimages\/3b1227a4acc0603bf758a3660c368a9d709724.gif",
+            "sellUnit" : {
+              "text" : "袋"
+            },
+            "subStatus" : false,
+            "sellingPoints" : [
+              {
+                "styleId" : "biz_sp",
+                "text" : "香浓可可"
+              },
+              {
+                "styleId" : "biz_sp",
+                "text" : "迷你小巧"
+              }
+            ],
+            "buyStep" : "1"
+          }
+        },
+        "77546" : {
+          "type" : 1,
+          "skuItem" : {
+            "salesVO" : {
+  
+            },
+            "subscription" : false,
+            "loose" : false,
+            "skuId" : 77546,
+            "picUrl" : "https:\/\/img.meituan.net\/mallimages\/e55314a66f46271f2d51e6b4debce3a5495670.png",
+            "similar" : true,
+            "detailPagePic" : "https:\/\/p0.meituan.net\/mallimages\/c0f706de25e3d5cded191a5c976778d5285642.jpg",
+            "buyUnit" : "袋",
+            "sellPrice" : {
+              "text" : "¥14.5"
+            },
+            "v2Tags" : [
+              {
+                "tagType" : 1,
+                "location" : 2,
+                "labelId" : 100031,
+                "logicalIdentification" : 1,
+                "image" : {
+                  "url" : "https:\/\/p0.meituan.net\/mallimages\/77eeb1ee3fe06e007f20fcbb5ba1a99b5565.png",
+                  "width" : 30,
+                  "height" : 16
+                },
+                "ordered" : 0,
+                "type" : 9,
+                "priority" : 1307
+              }
+            ],
+            "buttonList" : [
+              {
+                "status" : 4,
+                "enable" : true,
+                "styleId" : "ssr38",
+                "text" : "到货提醒"
+              },
+              {
+                "enable" : true,
+                "text" : "找相似",
+                "status" : 6
+              }
+            ],
+            "soldOutUrl" : "https:\/\/p0.meituan.net\/mallimages\/5c17cf85da4b43180cb08e2ad6107d024681.png",
+            "sellButton" : {
+              "enable" : true,
+              "text" : "找相似",
+              "status" : 6
+            },
+            "seqPrice" : 1450,
+            "skuTitle" : {
+              "text" : "壹粒谷仓蜂蜜牛奶手撕面包240g"
+            },
+            "seqSale" : 21,
+            "skuSubTitle" : {
+              "styleId" : "lstv570",
+              "text" : "微甜不腻｜动物奶油｜冷链工艺"
+            },
+            "gifPicUrl" : "https:\/\/p0.meituan.net\/mallimages\/ec1c73ef791e3849dea0967f89aa1d99984994.gif",
+            "sellUnit" : {
+              "text" : "袋"
+            },
+            "subStatus" : false,
+            "sellingPoints" : [
+              {
+                "styleId" : "biz_sp",
+                "text" : "微甜不腻"
+              },
+              {
+                "styleId" : "biz_sp",
+                "text" : "动物奶油"
+              }
+            ],
+            "buyStep" : "1"
+          }
+        },
+        "107540" : {
+          "type" : 1,
+          "skuItem" : {
+            "salesVO" : {
+  
+            },
+            "subscription" : false,
+            "loose" : false,
+            "skuId" : 107540,
+            "picUrl" : "https:\/\/img.meituan.net\/mallimages\/189b848ebfff63918039832cb9154e1e579224.png",
+            "similar" : true,
+            "detailPagePic" : "https:\/\/p1.meituan.net\/mallimages\/9ac4ea6cdb1b645eafa09aefa0e182bf195169.jpg",
+            "promotionList" : "5250977",
+            "buyUnit" : "盒",
+            "sellPrice" : {
+              "text" : "¥16.79"
+            },
+            "v2Tags" : [
+              {
+                "tagType" : 1,
+                "location" : 2,
+                "labelId" : 100031,
+                "logicalIdentification" : 1,
+                "image" : {
+                  "url" : "https:\/\/p0.meituan.net\/mallimages\/77eeb1ee3fe06e007f20fcbb5ba1a99b5565.png",
+                  "width" : 30,
+                  "height" : 16
+                },
+                "ordered" : 0,
+                "type" : 9,
+                "priority" : 1307
+              },
+              {
+                "tagType" : 0,
+                "styleText" : {
+                  "styleId" : "tag_new_prov2",
+                  "text" : "特价"
+                },
+                "location" : 6,
+                "logicalIdentification" : 1,
+                "ordered" : 0,
+                "type" : 2,
+                "priority" : 1100
+              }
+            ],
+            "buttonList" : [
+              {
+                "status" : 4,
+                "enable" : true,
+                "styleId" : "ssr38",
+                "text" : "到货提醒"
+              },
+              {
+                "enable" : true,
+                "text" : "找相似",
+                "status" : 6
+              }
+            ],
+            "soldOutUrl" : "https:\/\/p0.meituan.net\/mallimages\/5c17cf85da4b43180cb08e2ad6107d024681.png",
+            "dashPrice" : {
+              "styleId" : "dp",
+              "text" : "¥16.9"
+            },
+            "sellButton" : {
+              "enable" : true,
+              "text" : "找相似",
+              "status" : 6
+            },
+            "skuTitle" : {
+              "text" : "象大厨抹茶千层蛋糕120g"
+            },
+            "seqPrice" : 1679,
+            "seqSale" : 23,
+            "skuSubTitle" : {
+              "styleId" : "lstv570",
+              "text" : "淡淡茶香｜细腻柔滑｜颜色清新"
+            },
+            "sellUnit" : {
+              "text" : "盒"
+            },
+            "subStatus" : false,
+            "sellingPoints" : [
+              {
+                "styleId" : "biz_sp",
+                "text" : "淡淡茶香"
+              },
+              {
+                "styleId" : "biz_sp",
+                "text" : "细腻柔滑"
+              }
+            ],
+            "buyStep" : "1"
+          }
+        },
+        "100653" : {
+          "type" : 1,
+          "skuItem" : {
+            "salesVO" : {
+  
+            },
+            "subscription" : false,
+            "loose" : false,
+            "skuId" : 100653,
+            "picUrl" : "https:\/\/img.meituan.net\/mallimages\/c1fc0c1b1c643a8e39feb89cebff9628465938.png",
+            "similar" : true,
+            "detailPagePic" : "https:\/\/p0.meituan.net\/mallimages\/391643c39e6d360591f6db3e01aaa65d174675.jpg",
+            "promotionList" : "5250977",
+            "buyUnit" : "盒",
+            "sellPrice" : {
+              "text" : "¥14.8"
+            },
+            "v2Tags" : [
+              {
+                "tagType" : 1,
+                "location" : 2,
+                "labelId" : 100031,
+                "logicalIdentification" : 1,
+                "image" : {
+                  "url" : "https:\/\/p0.meituan.net\/mallimages\/77eeb1ee3fe06e007f20fcbb5ba1a99b5565.png",
+                  "width" : 30,
+                  "height" : 16
+                },
+                "ordered" : 0,
+                "type" : 9,
+                "priority" : 1307
+              },
+              {
+                "tagType" : 0,
+                "styleText" : {
+                  "styleId" : "tag_new_prov2",
+                  "text" : "特价"
+                },
+                "location" : 6,
+                "logicalIdentification" : 1,
+                "ordered" : 0,
+                "type" : 2,
+                "priority" : 1100
+              }
+            ],
+            "buttonList" : [
+              {
+                "status" : 4,
+                "enable" : true,
+                "styleId" : "ssr38",
+                "text" : "到货提醒"
+              },
+              {
+                "enable" : true,
+                "text" : "找相似",
+                "status" : 6
+              }
+            ],
+            "soldOutUrl" : "https:\/\/p0.meituan.net\/mallimages\/5c17cf85da4b43180cb08e2ad6107d024681.png",
+            "dashPrice" : {
+              "styleId" : "dp",
+              "text" : "¥14.9"
+            },
+            "sellButton" : {
+              "enable" : true,
+              "text" : "找相似",
+              "status" : 6
+            },
+            "skuTitle" : {
+              "text" : "象大厨火腿芝士吐司三明治150g"
+            },
+            "seqPrice" : 1480,
+            "seqSale" : 27,
+            "skuSubTitle" : {
+              "styleId" : "lstv570",
+              "text" : "匠心工艺｜细致揉面｜控温烘烤"
+            },
+            "sellUnit" : {
+              "text" : "盒"
+            },
+            "subStatus" : false,
+            "sellingPoints" : [
+              {
+                "styleId" : "biz_sp",
+                "text" : "匠心工艺"
+              },
+              {
+                "styleId" : "biz_sp",
+                "text" : "细致揉面"
+              }
+            ],
+            "buyStep" : "1"
+          }
+        },
+        "226136" : {
+          "type" : 1,
+          "skuItem" : {
+            "salesVO" : {
+  
+            },
+            "subscription" : false,
+            "loose" : false,
+            "skuId" : 226136,
+            "picUrl" : "https:\/\/p1.meituan.net\/mallimages\/b19ecc60b28a509b48f4bc89452f736a286360.png",
+            "similar" : true,
+            "detailPagePic" : "https:\/\/p0.meituan.net\/mallimages\/d19a688738ab05c3d0003f0cf51f958c200158.png",
+            "promotionList" : "5187455",
+            "buyUnit" : "组",
+            "sellPrice" : {
+              "text" : "¥11.5"
+            },
+            "v2Tags" : [
+              {
+                "tagType" : 1,
+                "location" : 2,
+                "labelId" : 100030,
+                "logicalIdentification" : 1,
+                "image" : {
+                  "url" : "https:\/\/p1.meituan.net\/mallimages\/13cb54c9315ede3cb9f4223e95cc99565554.png",
+                  "width" : 30,
+                  "height" : 16
+                },
+                "ordered" : 0,
+                "type" : 9,
+                "priority" : 1304
+              }
+            ],
+            "buttonList" : [
+              {
+                "status" : 4,
+                "enable" : true,
+                "styleId" : "ssr38",
+                "text" : "到货提醒"
+              },
+              {
+                "enable" : true,
+                "text" : "找相似",
+                "status" : 6
+              }
+            ],
+            "soldOutUrl" : "https:\/\/p0.meituan.net\/mallimages\/5c17cf85da4b43180cb08e2ad6107d024681.png",
+            "sellButton" : {
+              "enable" : true,
+              "text" : "找相似",
+              "status" : 6
+            },
+            "seqPrice" : 1150,
+            "skuTitle" : {
+              "text" : "君乐宝简醇风味酸牛奶150g*4(新老包装随机发货)"
+            },
+            "seqSale" : 19,
+            "skuSubTitle" : {
+              "styleId" : "lstv570",
+              "text" : "优质奶源｜0蔗糖｜浓醇乳香｜全脂"
+            },
+            "memberPrice" : {
+              "text" : "¥11"
+            },
+            "sellUnit" : {
+              "text" : "组"
+            },
+            "subStatus" : false,
+            "sellingPoints" : [
+              {
+                "styleId" : "biz_sp",
+                "text" : "优质奶源"
+              },
+              {
+                "styleId" : "biz_sp",
+                "text" : "0蔗糖"
+              }
+            ],
+            "buyStep" : "1"
+          }
+        },
+        "111861" : {
+          "type" : 1,
+          "skuItem" : {
+            "salesVO" : {
+  
+            },
+            "subscription" : false,
+            "loose" : false,
+            "skuId" : 111861,
+            "picUrl" : "https:\/\/img.meituan.net\/mallimages\/a73e798e79300d315ff84f645eb60bed312396.png",
+            "similar" : true,
+            "detailPagePic" : "https:\/\/p0.meituan.net\/mallimages\/9cb88e9460c9083b59968de04b069a6b89876.jpg",
+            "promotionList" : "5187457",
+            "buyUnit" : "袋",
+            "sellPrice" : {
+              "text" : "¥9.2"
+            },
+            "buttonList" : [
+              {
+                "status" : 4,
+                "enable" : true,
+                "styleId" : "ssr38",
+                "text" : "已设提醒"
+              },
+              {
+                "enable" : true,
+                "text" : "找相似",
+                "status" : 6
+              }
+            ],
+            "soldOutUrl" : "https:\/\/p1.meituan.net\/scarlett\/efaf34fa5387df3c35eb7a7e2cec74316112.png",
+            "sellButton" : {
+              "enable" : true,
+              "text" : "找相似",
+              "status" : 6
+            },
+            "seqPrice" : 920,
+            "skuTitle" : {
+              "text" : "桃李 醇熟切片面包 400g"
+            },
+            "seqSale" : 45,
+            "skuSubTitle" : {
+              "styleId" : "lstv570",
+              "text" : "口感松软｜独特工艺｜代餐充饥"
+            },
+            "memberPrice" : {
+              "text" : "¥8.9"
+            },
+            "sellUnit" : {
+              "text" : "袋"
+            },
+            "subStatus" : false,
+            "sellingPoints" : [
+              {
+                "styleId" : "biz_sp",
+                "text" : "口感松软"
+              },
+              {
+                "styleId" : "biz_sp",
+                "text" : "独特工艺"
+              }
+            ],
+            "buyStep" : "1"
+          }
+        },
+        "42212" : {
+          "type" : 1,
+          "skuItem" : {
+            "salesVO" : {
+  
+            },
+            "subscription" : false,
+            "loose" : false,
+            "skuId" : 42212,
+            "picUrl" : "https:\/\/img.meituan.net\/mallimages\/d6ff55c88a09d100c5469d3e54957887566715.png",
+            "similar" : true,
+            "detailPagePic" : "https:\/\/p0.meituan.net\/mallimages\/724e41f7746ad64d74b5edae301ebfc9170517.jpg",
+            "promotionList" : "5187455,5289047",
+            "buyUnit" : "组",
+            "sellPrice" : {
+              "text" : "¥9.4"
+            },
+            "v2Tags" : [
+              {
+                "tagType" : 0,
+                "styleText" : {
+                  "styleId" : "tag_new_prov2",
+                  "text" : "特价"
+                },
+                "location" : 6,
+                "logicalIdentification" : 1,
+                "ordered" : 0,
+                "type" : 2,
+                "priority" : 1100
+              },
+              {
+                "tagType" : 0,
+                "styleText" : {
+                  "styleId" : "tag_delivery",
+                  "text" : "3件起购"
+                },
+                "location" : 6,
+                "logicalIdentification" : 1,
+                "ordered" : 0,
+                "type" : 14,
+                "priority" : 1800
+              }
+            ],
+            "buttonList" : [
+              {
+                "status" : 4,
+                "enable" : true,
+                "styleId" : "ssr38",
+                "text" : "到货提醒"
+              },
+              {
+                "enable" : true,
+                "text" : "找相似",
+                "status" : 6
+              }
+            ],
+            "soldOutUrl" : "https:\/\/p0.meituan.net\/mallimages\/5c17cf85da4b43180cb08e2ad6107d024681.png",
+            "dashPrice" : {
+              "styleId" : "dp",
+              "text" : "¥9.5"
+            },
+            "sellButton" : {
+              "enable" : true,
+              "text" : "找相似",
+              "status" : 6
+            },
+            "skuTitle" : {
+              "text" : "娃哈哈AD钙奶220g*4（整组销售）"
+            },
+            "seqPrice" : 940,
+            "seqSale" : 30,
+            "skuSubTitle" : {
+              "styleId" : "lstv570",
+              "text" : "优质奶源｜酸酸甜甜｜科学搭配"
+            },
+            "memberPrice" : {
+              "text" : "¥9.1"
+            },
+            "sellUnit" : {
+              "text" : "组"
+            },
+            "subStatus" : false,
+            "sellingPoints" : [
+              {
+                "styleId" : "biz_sp",
+                "text" : "优质奶源"
+              },
+              {
+                "styleId" : "biz_sp",
+                "text" : "酸酸甜甜"
+              }
+            ],
+            "buyStep" : "1"
+          }
+        },
+        "241504" : {
+          "type" : 1,
+          "skuItem" : {
+            "salesVO" : {
+  
+            },
+            "subscription" : false,
+            "loose" : false,
+            "skuId" : 241504,
+            "picUrl" : "https:\/\/p1.meituan.net\/mallimages\/d35339e8cc0269dc5f31f419317c1442444257.jpg",
+            "similar" : false,
+            "choiceEnable" : false,
+            "process" : false,
+            "detailPagePic" : "https:\/\/p0.meituan.net\/mallimages\/6d9200cb98e9f660a0aef98aa75d0aeb199462.jpg",
+            "buyUnit" : "罐",
+            "sellPrice" : {
+              "text" : "¥419"
+            },
+            "v2Tags" : [
+  
+            ],
+            "buttonList" : [
+              {
+                "enable" : true,
+                "text" : "",
+                "status" : 1
+              }
+            ],
+            "sellButton" : {
+              "enable" : true,
+              "text" : "",
+              "status" : 1
+            },
+            "seqPrice" : 41900,
+            "skuTitle" : {
+              "text" : "惠氏启赋蕴淳婴儿配方奶粉0-6月龄1段850g"
+            },
+            "seqSale" : 1,
+            "skuSubTitle" : {
+              "styleId" : "lstv570",
+              "text" : "进口｜原装原罐进口"
+            },
+            "sellUnit" : {
+              "text" : "罐"
+            },
+            "subStatus" : false,
+            "buyStep" : "1"
+          }
+        },
+        "22265" : {
+          "type" : 1,
+          "skuItem" : {
+            "salesVO" : {
+  
+            },
+            "subscription" : false,
+            "loose" : false,
+            "skuId" : 22265,
+            "picUrl" : "https:\/\/img.meituan.net\/mallimages\/67f85efcbdfd392e8a1bab3e32fe5f01335566.png",
+            "similar" : true,
+            "detailPagePic" : "https:\/\/p0.meituan.net\/mallimages\/f6ac16f41966309b3fa7d0abae47096e32581.jpg",
+            "buyUnit" : "提",
+            "sellPrice" : {
+              "text" : "¥44.9"
+            },
+            "v2Tags" : [
+  
+            ],
+            "buttonList" : [
+              {
+                "status" : 4,
+                "enable" : true,
+                "styleId" : "ssr38",
+                "text" : "已设提醒"
+              },
+              {
+                "enable" : true,
+                "text" : "找相似",
+                "status" : 6
+              }
+            ],
+            "soldOutUrl" : "https:\/\/p0.meituan.net\/mallimages\/5c17cf85da4b43180cb08e2ad6107d024681.png",
+            "sellButton" : {
+              "enable" : true,
+              "text" : "找相似",
+              "status" : 6
+            },
+            "seqPrice" : 4490,
+            "skuTitle" : {
+              "text" : "(整箱)光明优加纯牛奶250ml*12"
+            },
+            "seqSale" : 22,
+            "skuSubTitle" : {
+              "styleId" : "lstv570",
+              "text" : "严控奶源｜百年品牌｜科学饲养｜全脂"
+            },
+            "sellUnit" : {
+              "text" : "提"
+            },
+            "subStatus" : false,
+            "sellingPoints" : [
+              {
+                "styleId" : "biz_sp",
+                "text" : "严控奶源"
+              },
+              {
+                "styleId" : "biz_sp",
+                "text" : "百年品牌"
+              }
+            ],
+            "buyStep" : "1"
+          }
+        },
+        "99177" : {
+          "type" : 1,
+          "skuItem" : {
+            "salesVO" : {
+  
+            },
+            "subscription" : false,
+            "loose" : false,
+            "skuId" : 99177,
+            "picUrl" : "https:\/\/p0.meituan.net\/mallimages\/d9aceb33e3fc71f300fb1b2a4101331e319555.jpg",
+            "similar" : true,
+            "detailPagePic" : "https:\/\/p0.meituan.net\/mallimages\/b3d734a84bc5c0ed3340ce09b097ba8175585.jpg",
+            "buyUnit" : "箱",
+            "sellPrice" : {
+              "text" : "¥65.8"
+            },
+            "buttonList" : [
+              {
+                "status" : 4,
+                "enable" : true,
+                "styleId" : "ssr38",
+                "text" : "到货提醒"
+              },
+              {
+                "enable" : true,
+                "text" : "找相似",
+                "status" : 6
+              }
+            ],
+            "soldOutUrl" : "https:\/\/p0.meituan.net\/mallimages\/5c17cf85da4b43180cb08e2ad6107d024681.png",
+            "sellButton" : {
+              "enable" : true,
+              "text" : "找相似",
+              "status" : 6
+            },
+            "seqPrice" : 6580,
+            "skuTitle" : {
+              "text" : "(整箱)光明利乐包纯牛奶250ml*24"
+            },
+            "seqSale" : 11,
+            "skuSubTitle" : {
+              "styleId" : "lstv570",
+              "text" : "天然牧场｜原汁原味｜百年品牌"
+            },
+            "sellUnit" : {
+              "text" : "箱"
+            },
+            "subStatus" : false,
+            "sellingPoints" : [
+              {
+                "styleId" : "biz_sp",
+                "text" : "天然牧场"
+              },
+              {
+                "styleId" : "biz_sp",
+                "text" : "原汁原味"
+              }
+            ],
+            "buyStep" : "1"
+          }
+        },
+        "102991" : {
+          "type" : 1,
+          "skuItem" : {
+            "salesVO" : {
+  
+            },
+            "subscription" : false,
+            "loose" : false,
+            "skuId" : 102991,
+            "picUrl" : "https:\/\/img.meituan.net\/mallimages\/0f899b7a1d1a0ccedb9720cc4b99be1f254120.png",
+            "similar" : true,
+            "detailPagePic" : "https:\/\/p0.meituan.net\/mallimages\/c2b1b523ba53fde335eed4636b17a483222025.jpg",
+            "buyUnit" : "盒",
+            "sellPrice" : {
+              "text" : "¥13.9"
+            },
+            "v2Tags" : [
+              {
+                "tagType" : 1,
+                "location" : 2,
+                "labelId" : 100031,
+                "logicalIdentification" : 1,
+                "image" : {
+                  "url" : "https:\/\/p0.meituan.net\/mallimages\/77eeb1ee3fe06e007f20fcbb5ba1a99b5565.png",
+                  "width" : 30,
+                  "height" : 16
+                },
+                "ordered" : 0,
+                "type" : 9,
+                "priority" : 1307
+              }
+            ],
+            "buttonList" : [
+              {
+                "status" : 4,
+                "enable" : true,
+                "styleId" : "ssr38",
+                "text" : "到货提醒"
+              },
+              {
+                "enable" : true,
+                "text" : "找相似",
+                "status" : 6
+              }
+            ],
+            "soldOutUrl" : "https:\/\/p0.meituan.net\/mallimages\/5c17cf85da4b43180cb08e2ad6107d024681.png",
+            "sellButton" : {
+              "enable" : true,
+              "text" : "找相似",
+              "status" : 6
+            },
+            "seqPrice" : 1390,
+            "skuTitle" : {
+              "text" : "壹粒谷仓榴莲千层蛋糕120g"
+            },
+            "seqSale" : 14,
+            "skuSubTitle" : {
+              "styleId" : "lstv570",
+              "text" : "金枕榴莲｜动物奶油｜冷链工艺"
+            },
+            "gifPicUrl" : "https:\/\/p0.meituan.net\/mallimages\/9f9a7699ba34cb2c556bd326a59a4edc1012960.gif",
+            "sellUnit" : {
+              "text" : "盒"
+            },
+            "subStatus" : false,
+            "sellingPoints" : [
+              {
+                "styleId" : "biz_sp",
+                "text" : "金枕榴莲"
+              },
+              {
+                "styleId" : "biz_sp",
+                "text" : "动物奶油"
+              }
+            ],
+            "buyStep" : "1"
+          }
+        },
+        "225916" : {
+          "type" : 1,
+          "skuItem" : {
+            "salesVO" : {
+  
+            },
+            "subscription" : false,
+            "loose" : false,
+            "skuId" : 225916,
+            "picUrl" : "https:\/\/p0.meituan.net\/mallimages\/6b0590b7eb5571e0fec7796de974905c484244.jpg",
+            "similar" : true,
+            "detailPagePic" : "https:\/\/p0.meituan.net\/mallimages\/fe6d9c8f7e69e61773eb27990b75d474290578.jpg",
+            "promotionList" : "5258326",
+            "buyUnit" : "盒",
+            "sellPrice" : {
+              "text" : "¥19.8"
+            },
+            "v2Tags" : [
+              {
+                "tagType" : 1,
+                "location" : 2,
+                "labelId" : 100031,
+                "logicalIdentification" : 1,
+                "image" : {
+                  "url" : "https:\/\/p0.meituan.net\/mallimages\/77eeb1ee3fe06e007f20fcbb5ba1a99b5565.png",
+                  "width" : 30,
+                  "height" : 16
+                },
+                "ordered" : 0,
+                "type" : 9,
+                "priority" : 1307
+              },
+              {
+                "tagType" : 0,
+                "styleText" : {
+                  "styleId" : "tag_new_prov2",
+                  "text" : "特价"
+                },
+                "location" : 6,
+                "logicalIdentification" : 1,
+                "ordered" : 0,
+                "type" : 2,
+                "priority" : 1100
+              }
+            ],
+            "buttonList" : [
+              {
+                "status" : 4,
+                "enable" : true,
+                "styleId" : "ssr38",
+                "text" : "到货提醒"
+              },
+              {
+                "enable" : true,
+                "text" : "找相似",
+                "status" : 6
+              }
+            ],
+            "soldOutUrl" : "https:\/\/p0.meituan.net\/mallimages\/5c17cf85da4b43180cb08e2ad6107d024681.png",
+            "dashPrice" : {
+              "styleId" : "dp",
+              "text" : "¥19.9"
+            },
+            "sellButton" : {
+              "enable" : true,
+              "text" : "找相似",
+              "status" : 6
+            },
+            "skuTitle" : {
+              "text" : "象大厨斑斓榴莲生乳卷200g"
+            },
+            "seqPrice" : 1980,
+            "seqSale" : 10,
+            "skuSubTitle" : {
+              "styleId" : "lstv570",
+              "text" : "软润绵密｜香醇浓厚｜口感顺滑"
+            },
+            "sellUnit" : {
+              "text" : "盒"
+            },
+            "subStatus" : false,
+            "sellingPoints" : [
+              {
+                "styleId" : "biz_sp",
+                "text" : "软润绵密"
+              },
+              {
+                "styleId" : "biz_sp",
+                "text" : "香醇浓厚"
+              }
+            ],
+            "buyStep" : "1"
+          }
+        },
+        "224017" : {
+          "type" : 1,
+          "skuItem" : {
+            "salesVO" : {
+  
+            },
+            "subscription" : false,
+            "loose" : false,
+            "skuId" : 224017,
+            "picUrl" : "https:\/\/p0.meituan.net\/mallimages\/5500fb3fe8a282b2871e44a58b667375486130.jpg",
+            "similar" : true,
+            "detailPagePic" : "https:\/\/p0.meituan.net\/mallimages\/3ff78e1f48321cc00fa112bc1e82fcdf231835.jpg",
+            "buyUnit" : "盒",
+            "sellPrice" : {
+              "text" : "¥13.8"
+            },
+            "v2Tags" : [
+              {
+                "tagType" : 1,
+                "location" : 2,
+                "labelId" : 100031,
+                "logicalIdentification" : 1,
+                "image" : {
+                  "url" : "https:\/\/p0.meituan.net\/mallimages\/77eeb1ee3fe06e007f20fcbb5ba1a99b5565.png",
+                  "width" : 30,
+                  "height" : 16
+                },
+                "ordered" : 0,
+                "type" : 9,
+                "priority" : 1307
+              }
+            ],
+            "buttonList" : [
+              {
+                "status" : 4,
+                "enable" : true,
+                "styleId" : "ssr38",
+                "text" : "到货提醒"
+              },
+              {
+                "enable" : true,
+                "text" : "找相似",
+                "status" : 6
+              }
+            ],
+            "soldOutUrl" : "https:\/\/p0.meituan.net\/mallimages\/5c17cf85da4b43180cb08e2ad6107d024681.png",
+            "sellButton" : {
+              "enable" : true,
+              "text" : "找相似",
+              "status" : 6
+            },
+            "seqPrice" : 1380,
+            "skuTitle" : {
+              "text" : "安佳原味份装黄油10g*6 新西兰进口"
+            },
+            "seqSale" : 8,
+            "skuSubTitle" : {
+              "styleId" : "lstv570",
+              "text" : "进口｜质地绵密｜奶香味醇｜独立包装"
+            },
+            "sellUnit" : {
+              "text" : "盒"
+            },
+            "subStatus" : false,
+            "sellingPoints" : [
+              {
+                "styleId" : "biz_sp",
+                "text" : "质地绵密"
+              },
+              {
+                "styleId" : "biz_sp",
+                "text" : "奶香味醇"
+              }
+            ],
+            "buyStep" : "1"
+          }
+        },
+        "65368" : {
+          "type" : 1,
+          "skuItem" : {
+            "salesVO" : {
+  
+            },
+            "subscription" : false,
+            "loose" : false,
+            "skuId" : 65368,
+            "picUrl" : "https:\/\/img.meituan.net\/mallimages\/40b24a443f17c357dfcd975fa6a26638374003.png",
+            "similar" : true,
+            "detailPagePic" : "https:\/\/p1.meituan.net\/mallimages\/93b969cab94dfdd2726b707911bb9064181259.jpg",
+            "buyUnit" : "包",
+            "sellPrice" : {
+              "text" : "¥4.9"
+            },
+            "buttonList" : [
+              {
+                "status" : 4,
+                "enable" : true,
+                "styleId" : "ssr38",
+                "text" : "到货提醒"
+              },
+              {
+                "enable" : true,
+                "text" : "找相似",
+                "status" : 6
+              }
+            ],
+            "soldOutUrl" : "https:\/\/p0.meituan.net\/mallimages\/5c17cf85da4b43180cb08e2ad6107d024681.png",
+            "sellButton" : {
+              "enable" : true,
+              "text" : "找相似",
+              "status" : 6
+            },
+            "seqPrice" : 490,
+            "skuTitle" : {
+              "text" : "展艺玉米淀粉300g(家用生粉 新旧包装随机)"
+            },
+            "seqSale" : 36,
+            "skuSubTitle" : {
+              "styleId" : "lstv570",
+              "text" : "润滑鲜亮｜色泽洁白｜多种用途"
+            },
+            "sellUnit" : {
+              "text" : "包"
+            },
+            "subStatus" : false,
+            "sellingPoints" : [
+              {
+                "styleId" : "biz_sp",
+                "text" : "润滑鲜亮"
+              },
+              {
+                "styleId" : "biz_sp",
+                "text" : "色泽洁白"
+              }
+            ],
+            "buyStep" : "1"
+          }
+        },
+        "18248" : {
+          "type" : 1,
+          "skuItem" : {
+            "salesVO" : {
+  
+            },
+            "subscription" : false,
+            "loose" : false,
+            "skuId" : 18248,
+            "picUrl" : "https:\/\/img.meituan.net\/mallimages\/026627e4cab61fc0abc945cd63969787353790.png",
+            "similar" : true,
+            "detailPagePic" : "https:\/\/p0.meituan.net\/mallimages\/5337c3fc9ac85f8a2ba16b1c0794d10a45620.jpg",
+            "promotionList" : "5259971",
+            "buyUnit" : "袋",
+            "sellPrice" : {
+              "text" : "¥9.9"
+            },
+            "v2Tags" : [
+              {
+                "tagType" : 0,
+                "styleText" : {
+                  "styleId" : "tag_new_prov2",
+                  "text" : "8.7折"
+                },
+                "location" : 6,
+                "logicalIdentification" : 1,
+                "ordered" : 0,
+                "type" : 2,
+                "priority" : 1100
+              }
+            ],
+            "buttonList" : [
+              {
+                "status" : 4,
+                "enable" : true,
+                "styleId" : "ssr38",
+                "text" : "到货提醒"
+              },
+              {
+                "enable" : true,
+                "text" : "找相似",
+                "status" : 6
+              }
+            ],
+            "soldOutUrl" : "https:\/\/p1.meituan.net\/scarlett\/efaf34fa5387df3c35eb7a7e2cec74316112.png",
+            "dashPrice" : {
+              "styleId" : "dp",
+              "text" : "¥11.5"
+            },
+            "sellButton" : {
+              "enable" : true,
+              "text" : "找相似",
+              "status" : 6
+            },
+            "skuTitle" : {
+              "text" : "曼可顿超醇全麦切片面包400g(8片)(新老包装随机发货)"
+            },
+            "seqPrice" : 990,
+            "seqSale" : 41,
+            "skuSubTitle" : {
+              "styleId" : "lstv570",
+              "text" : "进口小麦｜麦香四溢｜智能生产"
+            },
+            "sellUnit" : {
+              "text" : "袋"
+            },
+            "subStatus" : false,
+            "sellingPoints" : [
+              {
+                "styleId" : "biz_sp",
+                "text" : "进口小麦"
+              },
+              {
+                "styleId" : "biz_sp",
+                "text" : "麦香四溢"
+              }
+            ],
+            "buyStep" : "1"
+          }
+        },
+        "224271" : {
+          "type" : 1,
+          "skuItem" : {
+            "salesVO" : {
+  
+            },
+            "subscription" : false,
+            "loose" : false,
+            "skuId" : 224271,
+            "picUrl" : "https:\/\/p0.meituan.net\/mallimages\/be8a7d84fffbca34bc933d4309b91c24452263.jpg",
+            "similar" : true,
+            "detailPagePic" : "https:\/\/p0.meituan.net\/mallimages\/02e7e706cffd6f8efb1ac97765644f2d293953.jpg",
+            "buyUnit" : "袋",
+            "sellPrice" : {
+              "text" : "¥18.9"
+            },
+            "buttonList" : [
+              {
+                "status" : 4,
+                "enable" : true,
+                "styleId" : "ssr38",
+                "text" : "到货提醒"
+              },
+              {
+                "enable" : true,
+                "text" : "找相似",
+                "status" : 6
+              }
+            ],
+            "soldOutUrl" : "https:\/\/p1.meituan.net\/scarlett\/efaf34fa5387df3c35eb7a7e2cec74316112.png",
+            "sellButton" : {
+              "enable" : true,
+              "text" : "找相似",
+              "status" : 6
+            },
+            "seqPrice" : 1890,
+            "skuTitle" : {
+              "text" : "多乐之日牛奶吐司切片面包380g"
+            },
+            "seqSale" : 26,
+            "skuSubTitle" : {
+              "styleId" : "lstv570",
+              "text" : "柔软蓬松｜深度发酵｜饱腹感强"
+            },
+            "sellUnit" : {
+              "text" : "袋"
+            },
+            "subStatus" : false,
+            "sellingPoints" : [
+              {
+                "styleId" : "biz_sp",
+                "text" : "柔软蓬松"
+              },
+              {
+                "styleId" : "biz_sp",
+                "text" : "深度发酵"
+              }
+            ],
+            "buyStep" : "1"
+          }
+        },
+        "103768" : {
+          "type" : 1,
+          "skuItem" : {
+            "salesVO" : {
+  
+            },
+            "subscription" : false,
+            "loose" : false,
+            "skuId" : 103768,
+            "picUrl" : "https:\/\/p0.meituan.net\/mallimages\/897285eee0c456a90d79dfa80a19c6be278675.jpg",
+            "similar" : true,
+            "detailPagePic" : "https:\/\/p1.meituan.net\/mallimages\/8cb9ccb24ef2501a7610073a5fa02af929720.jpg",
+            "promotionList" : "5253073",
+            "buyUnit" : "盒",
+            "sellPrice" : {
+              "text" : "¥18.6"
+            },
+            "v2Tags" : [
+              {
+                "tagType" : 1,
+                "location" : 2,
+                "labelId" : 100030,
+                "logicalIdentification" : 1,
+                "image" : {
+                  "url" : "https:\/\/p1.meituan.net\/mallimages\/13cb54c9315ede3cb9f4223e95cc99565554.png",
+                  "width" : 30,
+                  "height" : 16
+                },
+                "ordered" : 0,
+                "type" : 9,
+                "priority" : 1304
+              },
+              {
+                "tagType" : 0,
+                "styleText" : {
+                  "styleId" : "tag_new_prov2",
+                  "text" : "7.5折"
+                },
+                "location" : 6,
+                "logicalIdentification" : 1,
+                "ordered" : 0,
+                "type" : 2,
+                "priority" : 1100
+              }
+            ],
+            "buttonList" : [
+              {
+                "status" : 4,
+                "enable" : true,
+                "styleId" : "ssr38",
+                "text" : "到货提醒"
+              },
+              {
+                "enable" : true,
+                "text" : "找相似",
+                "status" : 6
+              }
+            ],
+            "soldOutUrl" : "https:\/\/p1.meituan.net\/scarlett\/efaf34fa5387df3c35eb7a7e2cec74316112.png",
+            "dashPrice" : {
+              "styleId" : "dp",
+              "text" : "¥24.9"
+            },
+            "sellButton" : {
+              "enable" : true,
+              "text" : "找相似",
+              "status" : 6
+            },
+            "skuTitle" : {
+              "text" : "蒙牛每日鲜语高品质鲜牛奶950ml"
+            },
+            "seqPrice" : 1860,
+            "seqSale" : 49,
+            "skuSubTitle" : {
+              "styleId" : "lstv570",
+              "text" : "口感香醇｜蛋白质高｜全程冷链｜全脂"
+            },
+            "sellUnit" : {
+              "text" : "盒"
+            },
+            "subStatus" : false,
+            "sellingPoints" : [
+              {
+                "styleId" : "biz_sp",
+                "text" : "口感香醇"
+              },
+              {
+                "styleId" : "biz_sp",
+                "text" : "蛋白质高"
+              }
+            ],
+            "stidInfo" : {
+              "kv" : {
+                "flg" : "a:2"
+              }
+            },
+            "buyStep" : "1"
+          }
+        },
+        "102988" : {
+          "type" : 1,
+          "skuItem" : {
+            "salesVO" : {
+  
+            },
+            "subscription" : false,
+            "loose" : false,
+            "skuId" : 102988,
+            "picUrl" : "https:\/\/p1.meituan.net\/mallimages\/bd3d4ff4942d05b53e510e6d8d71ac26435394.jpg",
+            "similar" : true,
+            "detailPagePic" : "https:\/\/p0.meituan.net\/mallimages\/ac74c6aff80cf94834a849d77fa9f1df273189.jpg",
+            "buyUnit" : "盒",
+            "sellPrice" : {
+              "text" : "¥11.9"
+            },
+            "v2Tags" : [
+              {
+                "tagType" : 1,
+                "location" : 2,
+                "labelId" : 100031,
+                "logicalIdentification" : 1,
+                "image" : {
+                  "url" : "https:\/\/p0.meituan.net\/mallimages\/77eeb1ee3fe06e007f20fcbb5ba1a99b5565.png",
+                  "width" : 30,
+                  "height" : 16
+                },
+                "ordered" : 0,
+                "type" : 9,
+                "priority" : 1307
+              }
+            ],
+            "buttonList" : [
+              {
+                "status" : 4,
+                "enable" : true,
+                "styleId" : "ssr38",
+                "text" : "到货提醒"
+              },
+              {
+                "enable" : true,
+                "text" : "找相似",
+                "status" : 6
+              }
+            ],
+            "soldOutUrl" : "https:\/\/p0.meituan.net\/mallimages\/5c17cf85da4b43180cb08e2ad6107d024681.png",
+            "sellButton" : {
+              "enable" : true,
+              "text" : "找相似",
+              "status" : 6
+            },
+            "seqPrice" : 1190,
+            "skuTitle" : {
+              "text" : "壹粒谷仓甜甜圈面包200g(4个装)(新老包装随机发货)"
+            },
+            "seqSale" : 20,
+            "skuSubTitle" : {
+              "styleId" : "lstv570",
+              "text" : "甜蜜松软｜外形圆润｜美式风味"
+            },
+            "sellUnit" : {
+              "text" : "盒"
+            },
+            "subStatus" : false,
+            "sellingPoints" : [
+              {
+                "styleId" : "biz_sp",
+                "text" : "甜蜜松软"
+              },
+              {
+                "styleId" : "biz_sp",
+                "text" : "外形圆润"
+              }
+            ],
+            "buyStep" : "1"
+          }
+        },
+        "223699" : {
+          "type" : 1,
+          "skuItem" : {
+            "salesVO" : {
+  
+            },
+            "subscription" : false,
+            "loose" : false,
+            "skuId" : 223699,
+            "picUrl" : "https:\/\/p0.meituan.net\/mallimages\/84f43c96c1cdc10adacccc944537f178199734.jpg",
+            "similar" : true,
+            "detailPagePic" : "https:\/\/p1.meituan.net\/mallimages\/987b0490ed0532b4b7970ff510d4bc7817909.jpg",
+            "promotionList" : "5187455",
+            "buyUnit" : "桶",
+            "sellPrice" : {
+              "text" : "¥18.8"
+            },
+            "v2Tags" : [
+              {
+                "tagType" : 1,
+                "location" : 2,
+                "labelId" : 100030,
+                "logicalIdentification" : 1,
+                "image" : {
+                  "url" : "https:\/\/p1.meituan.net\/mallimages\/13cb54c9315ede3cb9f4223e95cc99565554.png",
+                  "width" : 30,
+                  "height" : 16
+                },
+                "ordered" : 0,
+                "type" : 9,
+                "priority" : 1304
+              },
+              {
+                "tagType" : 0,
+                "styleText" : {
+                  "styleId" : "tag_delivery",
+                  "text" : "2件起购"
+                },
+                "location" : 6,
+                "logicalIdentification" : 1,
+                "ordered" : 0,
+                "type" : 14,
+                "priority" : 1800
+              }
+            ],
+            "buttonList" : [
+              {
+                "status" : 4,
+                "enable" : true,
+                "styleId" : "ssr38",
+                "text" : "已设提醒"
+              },
+              {
+                "enable" : true,
+                "text" : "找相似",
+                "status" : 6
+              }
+            ],
+            "soldOutUrl" : "https:\/\/p0.meituan.net\/mallimages\/5c17cf85da4b43180cb08e2ad6107d024681.png",
+            "sellButton" : {
+              "enable" : true,
+              "text" : "找相似",
+              "status" : 6
+            },
+            "seqPrice" : 1880,
+            "skuTitle" : {
+              "text" : "蒙牛鲜牛奶1.5L(美团买菜定制)"
+            },
+            "seqSale" : 46,
+            "skuSubTitle" : {
+              "styleId" : "lstv570",
+              "text" : "优选奶源｜精选牧草｜优质营养｜全脂"
+            },
+            "memberPrice" : {
+              "text" : "¥18.2"
+            },
+            "sellUnit" : {
+              "text" : "桶"
+            },
+            "subStatus" : false,
+            "sellingPoints" : [
+              {
+                "styleId" : "biz_sp",
+                "text" : "优选奶源"
+              },
+              {
+                "styleId" : "biz_sp",
+                "text" : "精选牧草"
+              }
+            ],
+            "stidInfo" : {
+              "kv" : {
+                "flg" : "a:2"
+              }
+            },
+            "buyStep" : "1"
+          }
+        },
+        "2550" : {
+          "type" : 1,
+          "skuItem" : {
+            "salesVO" : {
+  
+            },
+            "subscription" : false,
+            "loose" : false,
+            "skuId" : 2550,
+            "picUrl" : "https:\/\/img.meituan.net\/mallimages\/f6846fd742e2b11c20af3a861262191b333628.png",
+            "similar" : true,
+            "detailPagePic" : "https:\/\/p0.meituan.net\/mallimages\/a9c03263eca27f5f77fba612cb7a629d75228.jpg",
+            "buyUnit" : "盒",
+            "sellPrice" : {
+              "text" : "¥11.9"
+            },
+            "video" : {
+              "url" : "https:\/\/s3plus.meituan.net\/v1\/mss_915cfe67c99b4651b81ca210670f9302\/mall-fe-files\/19c4d42ccfcaed31cfa7988b0d3faf89_codec.mp4",
+              "index" : 0,
+              "iconUrl" : "https:\/\/p1.meituan.net\/mallimages\/df8107f15d88461a88cdee328295626f1386.png"
+            },
+            "v2Tags" : [
+  
+            ],
+            "soldOutUrl" : "https:\/\/p0.meituan.net\/mallimages\/5c17cf85da4b43180cb08e2ad6107d024681.png",
+            "sellButton" : {
+              "enable" : true,
+              "text" : "找相似",
+              "status" : 6
+            },
+            "seqPrice" : 1190,
+            "skuTitle" : {
+              "text" : "德亚全脂牛奶1L 德国进口"
+            },
+            "buttonList" : [
+              {
+                "status" : 4,
+                "enable" : true,
+                "styleId" : "ssr38",
+                "text" : "到货提醒"
+              },
+              {
+                "enable" : true,
+                "text" : "找相似",
+                "status" : 6
+              }
+            ],
+            "seqSale" : 13,
+            "skuSubTitle" : {
+              "styleId" : "lstv570",
+              "text" : "进口｜原装进口｜优选奶源｜口感浓醇｜全脂"
+            },
+            "sellUnit" : {
+              "text" : "盒"
+            },
+            "subStatus" : false,
+            "sellingPoints" : [
+              {
+                "styleId" : "biz_sp",
+                "text" : "原装进口"
+              },
+              {
+                "styleId" : "biz_sp",
+                "text" : "优选奶源"
+              }
+            ],
+            "buyStep" : "1"
+          }
+        },
+        "241373" : {
+          "type" : 1,
+          "skuItem" : {
+            "salesVO" : {
+  
+            },
+            "subscription" : false,
+            "loose" : false,
+            "skuId" : 241373,
+            "picUrl" : "https:\/\/p0.meituan.net\/mallimages\/dd080a2ce40b22fe6e46f6ca75e25413467845.jpg",
+            "similar" : false,
+            "choiceEnable" : false,
+            "process" : false,
+            "detailPagePic" : "https:\/\/p0.meituan.net\/mallimages\/ff93178458d4377ef44645a407ceeac5261966.jpg",
+            "buyUnit" : "罐",
+            "sellPrice" : {
+              "text" : "¥309"
+            },
+            "v2Tags" : [
+  
+            ],
+            "buttonList" : [
+              {
+                "enable" : true,
+                "text" : "",
+                "status" : 1
+              }
+            ],
+            "sellButton" : {
+              "enable" : true,
+              "text" : "",
+              "status" : 1
+            },
+            "seqPrice" : 30900,
+            "skuTitle" : {
+              "text" : "惠氏启赋婴儿配方奶粉0-6月龄1段810g"
+            },
+            "seqSale" : 0,
+            "skuSubTitle" : {
+              "styleId" : "lstv570",
+              "text" : "进口｜原装进口"
+            },
+            "sellUnit" : {
+              "text" : "罐"
+            },
+            "subStatus" : false,
+            "buyStep" : "1"
+          }
+        },
+        "102987" : {
+          "type" : 1,
+          "skuItem" : {
+            "salesVO" : {
+  
+            },
+            "subscription" : false,
+            "loose" : false,
+            "skuId" : 102987,
+            "picUrl" : "https:\/\/img.meituan.net\/mallimages\/ca4e56d7fe723fbe2c9a1403d407d43a443518.png",
+            "similar" : true,
+            "detailPagePic" : "https:\/\/p1.meituan.net\/mallimages\/96323bbbbae7174f4117efa4c8e3e831283357.jpg",
+            "buyUnit" : "盒",
+            "sellPrice" : {
+              "text" : "¥11.9"
+            },
+            "v2Tags" : [
+              {
+                "tagType" : 1,
+                "location" : 2,
+                "labelId" : 100031,
+                "logicalIdentification" : 1,
+                "image" : {
+                  "url" : "https:\/\/p0.meituan.net\/mallimages\/77eeb1ee3fe06e007f20fcbb5ba1a99b5565.png",
+                  "width" : 30,
+                  "height" : 16
+                },
+                "ordered" : 0,
+                "type" : 9,
+                "priority" : 1307
+              }
+            ],
+            "buttonList" : [
+              {
+                "status" : 4,
+                "enable" : true,
+                "styleId" : "ssr38",
+                "text" : "到货提醒"
+              },
+              {
+                "enable" : true,
+                "text" : "找相似",
+                "status" : 6
+              }
+            ],
+            "soldOutUrl" : "https:\/\/p0.meituan.net\/mallimages\/5c17cf85da4b43180cb08e2ad6107d024681.png",
+            "sellButton" : {
+              "enable" : true,
+              "text" : "找相似",
+              "status" : 6
+            },
+            "seqPrice" : 1190,
+            "skuTitle" : {
+              "text" : "壹粒谷仓提拉米苏蛋糕70g"
+            },
+            "seqSale" : 6,
+            "skuSubTitle" : {
+              "styleId" : "lstv570",
+              "text" : "丝滑细腻｜心形造型｜速冻锁鲜"
+            },
+            "gifPicUrl" : "https:\/\/p1.meituan.net\/mallimages\/90f49c5165773b4004bdaf711b8ba5971007332.gif",
+            "sellUnit" : {
+              "text" : "盒"
+            },
+            "subStatus" : false,
+            "sellingPoints" : [
+              {
+                "styleId" : "biz_sp",
+                "text" : "丝滑细腻"
+              },
+              {
+                "styleId" : "biz_sp",
+                "text" : "心形造型"
+              }
+            ],
+            "buyStep" : "1"
+          }
+        },
+        "95042" : {
+          "type" : 1,
+          "skuItem" : {
+            "salesVO" : {
+  
+            },
+            "subscription" : false,
+            "loose" : false,
+            "skuId" : 95042,
+            "picUrl" : "https:\/\/img.meituan.net\/mallimages\/eb2ad5e33dd078b84204a80530764f0c521315.png",
+            "similar" : true,
+            "detailPagePic" : "https:\/\/p1.meituan.net\/mallimages\/14aa1adeff37761207d2ccf4ed88a979575119.png",
+            "buyUnit" : "盒",
+            "sellPrice" : {
+              "text" : "¥12.9"
+            },
+            "v2Tags" : [
+              {
+                "tagType" : 1,
+                "location" : 2,
+                "labelId" : 100030,
+                "logicalIdentification" : 1,
+                "image" : {
+                  "url" : "https:\/\/p1.meituan.net\/mallimages\/13cb54c9315ede3cb9f4223e95cc99565554.png",
+                  "width" : 30,
+                  "height" : 16
+                },
+                "ordered" : 0,
+                "type" : 9,
+                "priority" : 1304
+              }
+            ],
+            "buttonList" : [
+              {
+                "status" : 4,
+                "enable" : true,
+                "styleId" : "ssr38",
+                "text" : "到货提醒"
+              },
+              {
+                "enable" : true,
+                "text" : "找相似",
+                "status" : 6
+              }
+            ],
+            "soldOutUrl" : "https:\/\/p1.meituan.net\/scarlett\/efaf34fa5387df3c35eb7a7e2cec74316112.png",
+            "sellButton" : {
+              "enable" : true,
+              "text" : "找相似",
+              "status" : 6
+            },
+            "seqPrice" : 1290,
+            "skuTitle" : {
+              "text" : "象大厨奥利奥奶油盒子蛋糕90g"
+            },
+            "seqSale" : 24,
+            "skuSubTitle" : {
+              "styleId" : "lstv570",
+              "text" : "层次分明｜丝滑奶油｜松软可口"
+            },
+            "sellUnit" : {
+              "text" : "盒"
+            },
+            "subStatus" : false,
+            "sellingPoints" : [
+              {
+                "styleId" : "biz_sp",
+                "text" : "层次分明"
+              },
+              {
+                "styleId" : "biz_sp",
+                "text" : "丝滑奶油"
+              }
+            ],
+            "buyStep" : "1"
+          }
+        },
+        "17993" : {
+          "type" : 1,
+          "skuItem" : {
+            "salesVO" : {
+  
+            },
+            "subscription" : false,
+            "loose" : false,
+            "skuId" : 17993,
+            "picUrl" : "https:\/\/p0.meituan.net\/mallimages\/e3a88a152d25f788da7eef95bec599ba318442.jpg",
+            "similar" : true,
+            "detailPagePic" : "https:\/\/p0.meituan.net\/mallimages\/270a09ad99b62c219d2edb9f9e130f96256683.jpg",
+            "buyUnit" : "盒",
+            "sellPrice" : {
+              "text" : "¥24.9"
+            },
+            "video" : {
+              "url" : "https:\/\/s3plus.meituan.net\/v1\/mss_915cfe67c99b4651b81ca210670f9302\/mall-fe-files\/29ae1c2e4a98acbc7cfedb5b64f95fe2_codec.mp4",
+              "index" : 0,
+              "iconUrl" : "https:\/\/p1.meituan.net\/mallimages\/df8107f15d88461a88cdee328295626f1386.png"
+            },
+            "v2Tags" : [
+              {
+                "tagType" : 1,
+                "location" : 2,
+                "labelId" : 100030,
+                "logicalIdentification" : 1,
+                "image" : {
+                  "url" : "https:\/\/p1.meituan.net\/mallimages\/13cb54c9315ede3cb9f4223e95cc99565554.png",
+                  "width" : 30,
+                  "height" : 16
+                },
+                "ordered" : 0,
+                "type" : 9,
+                "priority" : 1304
+              },
+              {
+                "tagType" : 1,
+                "location" : 5,
+                "labelId" : 70,
+                "logicalIdentification" : 1,
+                "image" : {
+                  "url" : "https:\/\/p0.meituan.net\/mallimages\/d166fdd1df53be64ea15d916cbbfd02c2521.png",
+                  "width" : 144,
+                  "height" : 45
+                },
+                "ordered" : 0,
+                "type" : 8,
+                "priority" : 1201
+              },
+              {
+                "tagType" : 0,
+                "styleText" : {
+                  "styleId" : "tag_delivery",
+                  "text" : "2件起购"
+                },
+                "location" : 6,
+                "logicalIdentification" : 1,
+                "ordered" : 0,
+                "type" : 14,
+                "priority" : 1800
+              }
+            ],
+            "soldOutUrl" : "https:\/\/p1.meituan.net\/scarlett\/efaf34fa5387df3c35eb7a7e2cec74316112.png",
+            "sellButton" : {
+              "enable" : true,
+              "text" : "找相似",
+              "status" : 6
+            },
+            "seqPrice" : 2490,
+            "skuTitle" : {
+              "text" : "光明优倍高品质鲜奶950ml(当天上市)(新老包装随机发货)"
+            },
+            "buttonList" : [
+              {
+                "status" : 4,
+                "enable" : true,
+                "styleId" : "ssr38",
+                "text" : "已设提醒"
+              },
+              {
+                "enable" : true,
+                "text" : "找相似",
+                "status" : 6
+              }
+            ],
+            "seqSale" : 47,
+            "skuSubTitle" : {
+              "styleId" : "lstv570",
+              "text" : "优质奶源｜回味醇香｜全程冷链｜全脂"
+            },
+            "sellUnit" : {
+              "text" : "盒"
+            },
+            "subStatus" : false,
+            "sellingPoints" : [
+              {
+                "styleId" : "biz_sp",
+                "text" : "优质奶源"
+              },
+              {
+                "styleId" : "biz_sp",
+                "text" : "回味醇香"
+              }
+            ],
+            "buyStep" : "1"
+          }
+        },
+        "95033" : {
+          "type" : 1,
+          "skuItem" : {
+            "salesVO" : {
+  
+            },
+            "subscription" : false,
+            "loose" : false,
+            "skuId" : 95033,
+            "picUrl" : "https:\/\/p0.meituan.net\/mallimages\/f6aef5d29b2f4d2e943ac5f1e0bd471f601338.png",
+            "similar" : true,
+            "detailPagePic" : "https:\/\/p0.meituan.net\/mallimages\/3ae84ae5c2d62fbf3bb1cf08dc60a12d214724.png",
+            "buyUnit" : "包",
+            "sellPrice" : {
+              "text" : "¥14.9"
+            },
+            "buttonList" : [
+              {
+                "status" : 4,
+                "enable" : true,
+                "styleId" : "ssr38",
+                "text" : "到货提醒"
+              },
+              {
+                "enable" : true,
+                "text" : "找相似",
+                "status" : 6
+              }
+            ],
+            "soldOutUrl" : "https:\/\/p1.meituan.net\/scarlett\/efaf34fa5387df3c35eb7a7e2cec74316112.png",
+            "sellButton" : {
+              "enable" : true,
+              "text" : "找相似",
+              "status" : 6
+            },
+            "seqPrice" : 1490,
+            "skuTitle" : {
+              "text" : "象大厨丹麦提子北海道吐司面包180g(新老包装随机发货)"
+            },
+            "seqSale" : 38,
+            "skuSubTitle" : {
+              "styleId" : "lstv570",
+              "text" : "绵密香甜｜午茶甜点"
+            },
+            "sellUnit" : {
+              "text" : "包"
+            },
+            "subStatus" : false,
+            "sellingPoints" : [
+              {
+                "styleId" : "biz_sp",
+                "text" : "绵密香甜"
+              },
+              {
+                "styleId" : "biz_sp",
+                "text" : "午茶甜点"
+              }
+            ],
+            "buyStep" : "1"
+          }
+        },
+        "231393" : {
+          "type" : 1,
+          "skuItem" : {
+            "salesVO" : {
+  
+            },
+            "subscription" : false,
+            "loose" : false,
+            "skuId" : 231393,
+            "picUrl" : "https:\/\/p0.meituan.net\/mallimages\/ef7e771e8bb8e1b79c8709ed1d32b193211076.jpg",
+            "similar" : true,
+            "detailPagePic" : "https:\/\/p0.meituan.net\/mallimages\/848fc19aafe1b91d17ff8bccbf342e08111112.jpg",
+            "buyUnit" : "瓶",
+            "sellPrice" : {
+              "text" : "¥24.9"
+            },
+            "v2Tags" : [
+              {
+                "tagType" : 1,
+                "location" : 2,
+                "labelId" : 100030,
+                "logicalIdentification" : 1,
+                "image" : {
+                  "url" : "https:\/\/p1.meituan.net\/mallimages\/13cb54c9315ede3cb9f4223e95cc99565554.png",
+                  "width" : 30,
+                  "height" : 16
+                },
+                "ordered" : 0,
+                "type" : 9,
+                "priority" : 1304
+              }
+            ],
+            "buttonList" : [
+              {
+                "status" : 4,
+                "enable" : true,
+                "styleId" : "ssr38",
+                "text" : "到货提醒"
+              },
+              {
+                "enable" : true,
+                "text" : "找相似",
+                "status" : 6
+              }
+            ],
+            "soldOutUrl" : "https:\/\/p0.meituan.net\/mallimages\/5c17cf85da4b43180cb08e2ad6107d024681.png",
+            "sellButton" : {
+              "enable" : true,
+              "text" : "找相似",
+              "status" : 6
+            },
+            "seqPrice" : 2490,
+            "skuTitle" : {
+              "text" : "蒙牛每日鲜语4.0鲜牛奶1L(美团买菜定制)"
+            },
+            "seqSale" : 4,
+            "skuSubTitle" : {
+              "styleId" : "lstv570",
+              "text" : "欧盟标准｜原生锁鲜｜原生高钙"
+            },
+            "sellUnit" : {
+              "text" : "瓶"
+            },
+            "subStatus" : false,
+            "sellingPoints" : [
+              {
+                "styleId" : "biz_sp",
+                "text" : "欧盟标准"
+              },
+              {
+                "styleId" : "biz_sp",
+                "text" : "原生锁鲜"
+              }
+            ],
+            "stidInfo" : {
+              "kv" : {
+                "flg" : "a:2"
+              }
+            },
+            "buyStep" : "1"
+          }
+        },
+        "95178" : {
+          "type" : 1,
+          "skuItem" : {
+            "salesVO" : {
+  
+            },
+            "subscription" : false,
+            "loose" : false,
+            "skuId" : 95178,
+            "picUrl" : "https:\/\/img.meituan.net\/mallimages\/697fcfeb0de1ab965e0dd30307ed08f0551419.png",
+            "similar" : true,
+            "detailPagePic" : "https:\/\/p0.meituan.net\/mallimages\/f48a2b5745c5d5114e647d2880a35fda282621.jpg",
+            "promotionList" : "5258326",
+            "buyUnit" : "盒",
+            "sellPrice" : {
+              "text" : "¥16.7"
+            },
+            "video" : {
+              "url" : "https:\/\/s3plus.meituan.net\/v1\/mss_915cfe67c99b4651b81ca210670f9302\/mall-fe-files\/051f5bc82d93bcfb3277df0a091788e2_codec.mp4",
+              "index" : 0,
+              "iconUrl" : "https:\/\/p1.meituan.net\/mallimages\/df8107f15d88461a88cdee328295626f1386.png"
+            },
+            "v2Tags" : [
+              {
+                "tagType" : 1,
+                "location" : 2,
+                "labelId" : 100031,
+                "logicalIdentification" : 1,
+                "image" : {
+                  "url" : "https:\/\/p0.meituan.net\/mallimages\/77eeb1ee3fe06e007f20fcbb5ba1a99b5565.png",
+                  "width" : 30,
+                  "height" : 16
+                },
+                "ordered" : 0,
+                "type" : 9,
+                "priority" : 1307
+              },
+              {
+                "tagType" : 0,
+                "styleText" : {
+                  "styleId" : "tag_new_prov2",
+                  "text" : "特价"
+                },
+                "location" : 6,
+                "logicalIdentification" : 1,
+                "ordered" : 0,
+                "type" : 2,
+                "priority" : 1100
+              }
+            ],
+            "soldOutUrl" : "https:\/\/p0.meituan.net\/mallimages\/5c17cf85da4b43180cb08e2ad6107d024681.png",
+            "dashPrice" : {
+              "styleId" : "dp",
+              "text" : "¥16.9"
+            },
+            "sellButton" : {
+              "enable" : true,
+              "text" : "找相似",
+              "status" : 6
+            },
+            "skuTitle" : {
+              "text" : "象大厨提拉米苏慕斯蛋糕128g"
+            },
+            "seqPrice" : 1670,
+            "buttonList" : [
+              {
+                "status" : 4,
+                "enable" : true,
+                "styleId" : "ssr38",
+                "text" : "到货提醒"
+              },
+              {
+                "enable" : true,
+                "text" : "找相似",
+                "status" : 6
+              }
+            ],
+            "seqSale" : 12,
+            "skuSubTitle" : {
+              "styleId" : "lstv570",
+              "text" : "甜蜜细腻｜湿润轻盈｜优质面粉"
+            },
+            "gifPicUrl" : "https:\/\/p1.meituan.net\/mallimages\/73500aa13a5a030c7eb3e0e1cafa8666918289.gif",
+            "sellUnit" : {
+              "text" : "盒"
+            },
+            "subStatus" : false,
+            "sellingPoints" : [
+              {
+                "styleId" : "biz_sp",
+                "text" : "甜蜜细腻"
+              },
+              {
+                "styleId" : "biz_sp",
+                "text" : "湿润轻盈"
+              }
+            ],
+            "buyStep" : "1"
+          }
+        },
+        "223671" : {
+          "type" : 1,
+          "skuItem" : {
+            "salesVO" : {
+  
+            },
+            "subscription" : false,
+            "loose" : false,
+            "skuId" : 223671,
+            "picUrl" : "https:\/\/p1.meituan.net\/mallimages\/5074529f374977323d1c2493fc94e01d682821.jpg",
+            "similar" : true,
+            "detailPagePic" : "https:\/\/p0.meituan.net\/mallimages\/8d8c771fd64d39db0bc953b1abfaad1d213377.jpg",
+            "buyUnit" : "套",
+            "sellPrice" : {
+              "text" : "¥11.9"
+            },
+            "v2Tags" : [
+              {
+                "tagType" : 1,
+                "location" : 2,
+                "labelId" : 100030,
+                "logicalIdentification" : 1,
+                "image" : {
+                  "url" : "https:\/\/p1.meituan.net\/mallimages\/13cb54c9315ede3cb9f4223e95cc99565554.png",
+                  "width" : 30,
+                  "height" : 16
+                },
+                "ordered" : 0,
+                "type" : 9,
+                "priority" : 1304
+              }
+            ],
+            "buttonList" : [
+              {
+                "status" : 4,
+                "enable" : true,
+                "styleId" : "ssr38",
+                "text" : "到货提醒"
+              },
+              {
+                "enable" : true,
+                "text" : "找相似",
+                "status" : 6
+              }
+            ],
+            "soldOutUrl" : "https:\/\/p0.meituan.net\/mallimages\/5c17cf85da4b43180cb08e2ad6107d024681.png",
+            "sellButton" : {
+              "enable" : true,
+              "text" : "找相似",
+              "status" : 6
+            },
+            "seqPrice" : 1190,
+            "skuTitle" : {
+              "text" : "味全每日C鲜橙味葡萄味纯果汁组合300ml*2"
+            },
+            "seqSale" : 32,
+            "skuSubTitle" : {
+              "styleId" : "lstv570",
+              "text" : "营养丰富｜21天保鲜｜健身搭档"
+            },
+            "sellUnit" : {
+              "text" : "套"
+            },
+            "subStatus" : false,
+            "sellingPoints" : [
+              {
+                "styleId" : "biz_sp",
+                "text" : "营养丰富"
+              },
+              {
+                "styleId" : "biz_sp",
+                "text" : "21天保鲜"
+              }
+            ],
+            "buyStep" : "1"
+          }
+        },
+        "222180" : {
+          "type" : 1,
+          "skuItem" : {
+            "salesVO" : {
+  
+            },
+            "subscription" : false,
+            "loose" : false,
+            "skuId" : 222180,
+            "picUrl" : "https:\/\/p1.meituan.net\/mallimages\/2d37b9ab0215245a07fd737812557ada473536.jpg",
+            "similar" : true,
+            "detailPagePic" : "https:\/\/p1.meituan.net\/mallimages\/d314512018187cb524822b837d1ca32d294642.jpg",
+            "promotionList" : "5258326",
+            "buyUnit" : "盒",
+            "sellPrice" : {
+              "text" : "¥35.8"
+            },
+            "v2Tags" : [
+              {
+                "tagType" : 1,
+                "location" : 2,
+                "labelId" : 100031,
+                "logicalIdentification" : 1,
+                "image" : {
+                  "url" : "https:\/\/p0.meituan.net\/mallimages\/77eeb1ee3fe06e007f20fcbb5ba1a99b5565.png",
+                  "width" : 30,
+                  "height" : 16
+                },
+                "ordered" : 0,
+                "type" : 9,
+                "priority" : 1307
+              },
+              {
+                "tagType" : 0,
+                "styleText" : {
+                  "styleId" : "tag_new_prov2",
+                  "text" : "特价"
+                },
+                "location" : 6,
+                "logicalIdentification" : 1,
+                "ordered" : 0,
+                "type" : 2,
+                "priority" : 1100
+              }
+            ],
+            "buttonList" : [
+              {
+                "status" : 4,
+                "enable" : true,
+                "styleId" : "ssr38",
+                "text" : "已设提醒"
+              },
+              {
+                "enable" : true,
+                "text" : "找相似",
+                "status" : 6
+              }
+            ],
+            "soldOutUrl" : "https:\/\/p0.meituan.net\/mallimages\/5c17cf85da4b43180cb08e2ad6107d024681.png",
+            "dashPrice" : {
+              "styleId" : "dp",
+              "text" : "¥35.9"
+            },
+            "sellButton" : {
+              "enable" : true,
+              "text" : "找相似",
+              "status" : 6
+            },
+            "skuTitle" : {
+              "text" : "象大厨原味+伯爵茶味瑞士卷400g"
+            },
+            "seqPrice" : 3580,
+            "seqSale" : 5,
+            "skuSubTitle" : {
+              "styleId" : "lstv570",
+              "text" : "松软绵滑｜奶香馥郁｜口感丰富"
+            },
+            "sellUnit" : {
+              "text" : "盒"
+            },
+            "subStatus" : false,
+            "sellingPoints" : [
+              {
+                "styleId" : "biz_sp",
+                "text" : "松软绵滑"
+              },
+              {
+                "styleId" : "biz_sp",
+                "text" : "奶香馥郁"
+              }
+            ],
+            "buyStep" : "1"
+          }
+        },
+        "101819" : {
+          "type" : 1,
+          "skuItem" : {
+            "salesVO" : {
+  
+            },
+            "subscription" : false,
+            "loose" : false,
+            "skuId" : 101819,
+            "picUrl" : "https:\/\/img.meituan.net\/mallimages\/26116602f4d487f31ccbeb7be005b827532966.png",
+            "similar" : true,
+            "detailPagePic" : "https:\/\/p1.meituan.net\/mallimages\/5007303a31c469dac8302fc453cdb186372644.jpg",
+            "promotionList" : "5187455",
+            "buyUnit" : "袋",
+            "sellPrice" : {
+              "text" : "¥9.9"
+            },
+            "buttonList" : [
+              {
+                "status" : 4,
+                "enable" : true,
+                "styleId" : "ssr38",
+                "text" : "到货提醒"
+              },
+              {
+                "enable" : true,
+                "text" : "找相似",
+                "status" : 6
+              }
+            ],
+            "soldOutUrl" : "https:\/\/p1.meituan.net\/scarlett\/efaf34fa5387df3c35eb7a7e2cec74316112.png",
+            "sellButton" : {
+              "enable" : true,
+              "text" : "找相似",
+              "status" : 6
+            },
+            "seqPrice" : 990,
+            "skuTitle" : {
+              "text" : "象大厨层层手撕包140g"
+            },
+            "seqSale" : 31,
+            "skuSubTitle" : {
+              "styleId" : "lstv570",
+              "text" : "选料严苛｜柔软蓬松｜手撕面包"
+            },
+            "memberPrice" : {
+              "text" : "¥9.5"
+            },
+            "sellUnit" : {
+              "text" : "袋"
+            },
+            "subStatus" : false,
+            "sellingPoints" : [
+              {
+                "styleId" : "biz_sp",
+                "text" : "选料严苛"
+              },
+              {
+                "styleId" : "biz_sp",
+                "text" : "柔软蓬松"
+              }
+            ],
+            "buyStep" : "1"
+          }
+        },
+        "105896" : {
+          "type" : 1,
+          "skuItem" : {
+            "salesVO" : {
+  
+            },
+            "subscription" : false,
+            "loose" : false,
+            "skuId" : 105896,
+            "picUrl" : "https:\/\/img.meituan.net\/mallimages\/cb2f5d663e4c0e8ca30d8dceee8c5fc2262368.png",
+            "similar" : true,
+            "detailPagePic" : "https:\/\/p0.meituan.net\/mallimages\/1a0c5db0119e2212eb1225876f7dc532216671.jpg",
+            "buyUnit" : "组",
+            "sellPrice" : {
+              "text" : "¥14.8"
+            },
+            "v2Tags" : [
+              {
+                "tagType" : 1,
+                "location" : 2,
+                "labelId" : 100030,
+                "logicalIdentification" : 1,
+                "image" : {
+                  "url" : "https:\/\/p1.meituan.net\/mallimages\/13cb54c9315ede3cb9f4223e95cc99565554.png",
+                  "width" : 30,
+                  "height" : 16
+                },
+                "ordered" : 0,
+                "type" : 9,
+                "priority" : 1304
+              }
+            ],
+            "buttonList" : [
+              {
+                "status" : 4,
+                "enable" : true,
+                "styleId" : "ssr38",
+                "text" : "已设提醒"
+              },
+              {
+                "enable" : true,
+                "text" : "找相似",
+                "status" : 6
+              }
+            ],
+            "soldOutUrl" : "https:\/\/p0.meituan.net\/mallimages\/5c17cf85da4b43180cb08e2ad6107d024681.png",
+            "sellButton" : {
+              "enable" : true,
+              "text" : "找相似",
+              "status" : 6
+            },
+            "seqPrice" : 1480,
+            "skuTitle" : {
+              "text" : "北海牧场原味0蔗糖风味发酵乳100g*3"
+            },
+            "seqSale" : 34,
+            "skuSubTitle" : {
+              "styleId" : "lstv570",
+              "text" : "出口品质｜不含蔗糖｜冷链运输"
+            },
+            "sellUnit" : {
+              "text" : "组"
+            },
+            "subStatus" : false,
+            "sellingPoints" : [
+              {
+                "styleId" : "biz_sp",
+                "text" : "出口品质"
+              },
+              {
+                "styleId" : "biz_sp",
+                "text" : "不含蔗糖"
+              }
+            ],
+            "buyStep" : "1"
+          }
+        },
+        "68296" : {
+          "type" : 1,
+          "skuItem" : {
+            "salesVO" : {
+  
+            },
+            "subscription" : false,
+            "loose" : false,
+            "skuId" : 68296,
+            "picUrl" : "https:\/\/img.meituan.net\/mallimages\/66865fbfee1a6931a8bca142923fab2d291636.png",
+            "similar" : true,
+            "detailPagePic" : "https:\/\/p0.meituan.net\/mallimages\/dee20ece5345239472f015faa58fa50a134698.jpg",
+            "buyUnit" : "组",
+            "sellPrice" : {
+              "text" : "¥11.8"
+            },
+            "v2Tags" : [
+              {
+                "tagType" : 1,
+                "location" : 2,
+                "labelId" : 100030,
+                "logicalIdentification" : 1,
+                "image" : {
+                  "url" : "https:\/\/p1.meituan.net\/mallimages\/13cb54c9315ede3cb9f4223e95cc99565554.png",
+                  "width" : 30,
+                  "height" : 16
+                },
+                "ordered" : 0,
+                "type" : 9,
+                "priority" : 1304
+              }
+            ],
+            "buttonList" : [
+              {
+                "status" : 4,
+                "enable" : true,
+                "styleId" : "ssr38",
+                "text" : "到货提醒"
+              },
+              {
+                "enable" : true,
+                "text" : "找相似",
+                "status" : 6
+              }
+            ],
+            "soldOutUrl" : "https:\/\/p0.meituan.net\/mallimages\/5c17cf85da4b43180cb08e2ad6107d024681.png",
+            "sellButton" : {
+              "enable" : true,
+              "text" : "找相似",
+              "status" : 6
+            },
+            "seqPrice" : 1180,
+            "skuTitle" : {
+              "text" : "卡士原味鲜酪乳发酵乳120g*3"
+            },
+            "seqSale" : 43,
+            "skuSubTitle" : {
+              "styleId" : "lstv570",
+              "text" : "浓醇口感｜饭后饮品｜含益生菌"
+            },
+            "sellUnit" : {
+              "text" : "组"
+            },
+            "subStatus" : false,
+            "sellingPoints" : [
+              {
+                "styleId" : "biz_sp",
+                "text" : "浓醇口感"
+              },
+              {
+                "styleId" : "biz_sp",
+                "text" : "饭后饮品"
+              }
+            ],
+            "buyStep" : "1"
+          }
+        },
+        "224237" : {
+          "type" : 1,
+          "skuItem" : {
+            "salesVO" : {
+  
+            },
+            "subscription" : false,
+            "loose" : false,
+            "skuId" : 224237,
+            "picUrl" : "https:\/\/p1.meituan.net\/mallimages\/8c83b188897352366f590156b736f373418479.jpg",
+            "similar" : true,
+            "detailPagePic" : "https:\/\/p0.meituan.net\/mallimages\/9b5e691ea6f8ea85adb5204a2a951799254677.jpg",
+            "buyUnit" : "袋",
+            "sellPrice" : {
+              "text" : "¥18.9"
+            },
+            "buttonList" : [
+              {
+                "status" : 4,
+                "enable" : true,
+                "styleId" : "ssr38",
+                "text" : "到货提醒"
+              },
+              {
+                "enable" : true,
+                "text" : "找相似",
+                "status" : 6
+              }
+            ],
+            "soldOutUrl" : "https:\/\/p1.meituan.net\/scarlett\/efaf34fa5387df3c35eb7a7e2cec74316112.png",
+            "sellButton" : {
+              "enable" : true,
+              "text" : "找相似",
+              "status" : 6
+            },
+            "seqPrice" : 1890,
+            "skuTitle" : {
+              "text" : "多乐之日早餐吐司切片面包380g"
+            },
+            "seqSale" : 28,
+            "skuSubTitle" : {
+              "styleId" : "lstv570",
+              "text" : "精选原料｜松软绵密｜元气早餐"
+            },
+            "sellUnit" : {
+              "text" : "袋"
+            },
+            "subStatus" : false,
+            "sellingPoints" : [
+              {
+                "styleId" : "biz_sp",
+                "text" : "精选原料"
+              },
+              {
+                "styleId" : "biz_sp",
+                "text" : "松软绵密"
+              }
+            ],
+            "buyStep" : "1"
+          }
+        },
+        "225073" : {
+          "type" : 1,
+          "skuItem" : {
+            "salesVO" : {
+  
+            },
+            "subscription" : false,
+            "loose" : false,
+            "skuId" : 225073,
+            "picUrl" : "https:\/\/p1.meituan.net\/mallimages\/ef35a89b9fb6212f1befb12aa9a4c0be570683.jpg",
+            "similar" : true,
+            "detailPagePic" : "https:\/\/p0.meituan.net\/mallimages\/073475ef08bf23e9aec5e26f5f8ebce4143388.jpg",
+            "buyUnit" : "盒",
+            "sellPrice" : {
+              "text" : "¥11.8"
+            },
+            "v2Tags" : [
+              {
+                "tagType" : 1,
+                "location" : 2,
+                "labelId" : 100030,
+                "logicalIdentification" : 1,
+                "image" : {
+                  "url" : "https:\/\/p1.meituan.net\/mallimages\/13cb54c9315ede3cb9f4223e95cc99565554.png",
+                  "width" : 30,
+                  "height" : 16
+                },
+                "ordered" : 0,
+                "type" : 9,
+                "priority" : 1304
+              }
+            ],
+            "buttonList" : [
+              {
+                "status" : 4,
+                "enable" : true,
+                "styleId" : "ssr38",
+                "text" : "到货提醒"
+              },
+              {
+                "enable" : true,
+                "text" : "找相似",
+                "status" : 6
+              }
+            ],
+            "soldOutUrl" : "https:\/\/p0.meituan.net\/mallimages\/5c17cf85da4b43180cb08e2ad6107d024681.png",
+            "sellButton" : {
+              "enable" : true,
+              "text" : "找相似",
+              "status" : 6
+            },
+            "seqPrice" : 1180,
+            "skuTitle" : {
+              "text" : "立坤原味伯爵红茶双拼瑞士卷130g"
+            },
+            "seqSale" : 17,
+            "skuSubTitle" : {
+              "styleId" : "lstv570",
+              "text" : "香甜绵密｜松软细腻｜严选原料"
+            },
+            "sellUnit" : {
+              "text" : "盒"
+            },
+            "subStatus" : false,
+            "sellingPoints" : [
+              {
+                "styleId" : "biz_sp",
+                "text" : "香甜绵密"
+              },
+              {
+                "styleId" : "biz_sp",
+                "text" : "松软细腻"
+              }
+            ],
+            "buyStep" : "1"
+          }
+        },
+        "222107" : {
+          "type" : 1,
+          "skuItem" : {
+            "salesVO" : {
+  
+            },
+            "subscription" : false,
+            "loose" : false,
+            "skuId" : 222107,
+            "picUrl" : "https:\/\/p0.meituan.net\/mallimages\/1c072fea67cc9aa225d308bf1d60a0a2561218.jpg",
+            "similar" : true,
+            "detailPagePic" : "https:\/\/p0.meituan.net\/mallimages\/253c03f31ca8eeaf6baf8b9f5c790861296877.jpg",
+            "promotionList" : "5258326",
+            "buyUnit" : "盒",
+            "sellPrice" : {
+              "text" : "¥14.8"
+            },
+            "v2Tags" : [
+              {
+                "tagType" : 1,
+                "location" : 2,
+                "labelId" : 100031,
+                "logicalIdentification" : 1,
+                "image" : {
+                  "url" : "https:\/\/p0.meituan.net\/mallimages\/77eeb1ee3fe06e007f20fcbb5ba1a99b5565.png",
+                  "width" : 30,
+                  "height" : 16
+                },
+                "ordered" : 0,
+                "type" : 9,
+                "priority" : 1307
+              },
+              {
+                "tagType" : 0,
+                "styleText" : {
+                  "styleId" : "tag_new_prov2",
+                  "text" : "特价"
+                },
+                "location" : 6,
+                "logicalIdentification" : 1,
+                "ordered" : 0,
+                "type" : 2,
+                "priority" : 1100
+              }
+            ],
+            "buttonList" : [
+              {
+                "status" : 4,
+                "enable" : true,
+                "styleId" : "ssr38",
+                "text" : "到货提醒"
+              },
+              {
+                "enable" : true,
+                "text" : "找相似",
+                "status" : 6
+              }
+            ],
+            "soldOutUrl" : "https:\/\/p0.meituan.net\/mallimages\/5c17cf85da4b43180cb08e2ad6107d024681.png",
+            "dashPrice" : {
+              "styleId" : "dp",
+              "text" : "¥14.9"
+            },
+            "sellButton" : {
+              "enable" : true,
+              "text" : "找相似",
+              "status" : 6
+            },
+            "skuTitle" : {
+              "text" : "象大厨葡式蛋挞200g"
+            },
+            "seqPrice" : 1480,
+            "seqSale" : 16,
+            "skuSubTitle" : {
+              "styleId" : "lstv570",
+              "text" : "外壳香酥｜奶香浓郁｜入口绵密"
+            },
+            "sellUnit" : {
+              "text" : "盒"
+            },
+            "subStatus" : false,
+            "sellingPoints" : [
+              {
+                "styleId" : "biz_sp",
+                "text" : "外壳香酥"
+              },
+              {
+                "styleId" : "biz_sp",
+                "text" : "奶香浓郁"
+              }
+            ],
+            "buyStep" : "1"
+          }
+        },
+        "228966" : {
+          "type" : 1,
+          "skuItem" : {
+            "buttonList" : [
+              {
+                "status" : 4,
+                "enable" : true,
+                "styleId" : "ssr38",
+                "text" : "已设提醒"
+              },
+              {
+                "enable" : true,
+                "text" : "找相似",
+                "status" : 6
+              }
+            ],
+            "salesVO" : {
+  
+            },
+            "subStatus" : false,
+            "picUrl" : "https:\/\/p0.meituan.net\/mallimages\/e0a8af6da13db892193bceeced3071f5458587.jpg",
+            "seqSale" : 33,
+            "sellPrice" : {
+              "text" : "¥13.8"
+            },
+            "loose" : false,
+            "skuId" : 228966,
+            "buyUnit" : "袋",
+            "similar" : true,
+            "sellButton" : {
+              "enable" : true,
+              "text" : "找相似",
+              "status" : 6
+            },
+            "seqPrice" : 1380,
+            "subscription" : false,
+            "skuTitle" : {
+              "text" : "静安面包房北海道风味手斯香浓吐司210g(新老包装随机发货)"
+            },
+            "detailPagePic" : "https:\/\/p0.meituan.net\/mallimages\/3a98edf53c5ee05b440675115a1fb99156647.jpg",
+            "soldOutUrl" : "https:\/\/p1.meituan.net\/scarlett\/efaf34fa5387df3c35eb7a7e2cec74316112.png",
+            "buyStep" : "1",
+            "skuSubTitle" : {
+              "styleId" : "lstv570",
+              "text" : "选用优质高筋面粉和进口淡奶油，长时间低温醒发，组织柔软绵密"
+            },
+            "sellUnit" : {
+              "text" : "袋"
+            }
+          }
+        },
+        "241459" : {
+          "type" : 1,
+          "skuItem" : {
+            "salesVO" : {
+  
+            },
+            "subscription" : false,
+            "loose" : false,
+            "skuId" : 241459,
+            "picUrl" : "https:\/\/p0.meituan.net\/mallimages\/49cc03db43b1efc0b8f659c3a3fd1afb480643.jpg",
+            "similar" : false,
+            "choiceEnable" : false,
+            "process" : false,
+            "detailPagePic" : "https:\/\/p1.meituan.net\/mallimages\/7093bb5a0ca803ed4f68107e4d750bb4259863.jpg",
+            "buyUnit" : "罐",
+            "sellPrice" : {
+              "text" : "¥309"
+            },
+            "v2Tags" : [
+  
+            ],
+            "buttonList" : [
+              {
+                "enable" : true,
+                "text" : "",
+                "status" : 1
+              }
+            ],
+            "sellButton" : {
+              "enable" : true,
+              "text" : "",
+              "status" : 1
+            },
+            "seqPrice" : 30900,
+            "skuTitle" : {
+              "text" : "惠氏启赋婴儿配方奶粉6-12月龄2段810g"
+            },
+            "seqSale" : 2,
+            "skuSubTitle" : {
+              "styleId" : "lstv570",
+              "text" : "进口｜亲和人体"
+            },
+            "sellUnit" : {
+              "text" : "罐"
+            },
+            "subStatus" : false,
+            "buyStep" : "1"
+          }
+        },
+        "42026" : {
+          "type" : 1,
+          "skuItem" : {
+            "salesVO" : {
+  
+            },
+            "subscription" : false,
+            "loose" : false,
+            "skuId" : 42026,
+            "picUrl" : "https:\/\/img.meituan.net\/mallimages\/4293ff7e87f58742263d8c65f1c94e4a577286.png",
+            "similar" : true,
+            "detailPagePic" : "https:\/\/p0.meituan.net\/mallimages\/294d5b9e496f381a4847b29111fb645a67514.jpg",
+            "promotionList" : "5187455,5289049",
+            "buyUnit" : "箱",
+            "sellPrice" : {
+              "text" : "¥32.2"
+            },
+            "v2Tags" : [
+              {
+                "tagType" : 0,
+                "styleText" : {
+                  "styleId" : "tag_new_prov2",
+                  "text" : "特价"
+                },
+                "location" : 6,
+                "logicalIdentification" : 1,
+                "ordered" : 0,
+                "type" : 2,
+                "priority" : 1100
+              }
+            ],
+            "buttonList" : [
+              {
+                "status" : 4,
+                "enable" : true,
+                "styleId" : "ssr38",
+                "text" : "到货提醒"
+              },
+              {
+                "enable" : true,
+                "text" : "找相似",
+                "status" : 6
+              }
+            ],
+            "soldOutUrl" : "https:\/\/p0.meituan.net\/mallimages\/5c17cf85da4b43180cb08e2ad6107d024681.png",
+            "dashPrice" : {
+              "styleId" : "dp",
+              "text" : "¥32.8"
+            },
+            "sellButton" : {
+              "enable" : true,
+              "text" : "找相似",
+              "status" : 6
+            },
+            "skuTitle" : {
+              "text" : "(整箱)伊利纯牛奶利乐枕240ml*12"
+            },
+            "seqPrice" : 3220,
+            "seqSale" : 39,
+            "skuSubTitle" : {
+              "styleId" : "lstv570",
+              "text" : "原装进口｜原生牧场｜自然牧养｜全脂"
+            },
+            "memberPrice" : {
+              "text" : "¥31.8"
+            },
+            "sellUnit" : {
+              "text" : "箱"
+            },
+            "subStatus" : false,
+            "sellingPoints" : [
+              {
+                "styleId" : "biz_sp",
+                "text" : "原装进口"
+              },
+              {
+                "styleId" : "biz_sp",
+                "text" : "原生牧场"
+              }
+            ],
+            "buyStep" : "1"
+          }
+        },
+        "18247" : {
+          "type" : 1,
+          "skuItem" : {
+            "salesVO" : {
+  
+            },
+            "subscription" : false,
+            "loose" : false,
+            "skuId" : 18247,
+            "picUrl" : "https:\/\/img.meituan.net\/mallimages\/e772088bd236a1718d79f6e056829ef0357363.png",
+            "similar" : true,
+            "detailPagePic" : "https:\/\/p0.meituan.net\/mallimages\/7d4296d4501a93ce13fcedea63090e40115846.jpg",
+            "buyUnit" : "袋",
+            "sellPrice" : {
+              "text" : "¥10.5"
+            },
+            "buttonList" : [
+              {
+                "status" : 4,
+                "enable" : true,
+                "styleId" : "ssr38",
+                "text" : "已设提醒"
+              },
+              {
+                "enable" : true,
+                "text" : "找相似",
+                "status" : 6
+              }
+            ],
+            "soldOutUrl" : "https:\/\/p1.meituan.net\/scarlett\/efaf34fa5387df3c35eb7a7e2cec74316112.png",
+            "sellButton" : {
+              "enable" : true,
+              "text" : "找相似",
+              "status" : 6
+            },
+            "seqPrice" : 1050,
+            "skuTitle" : {
+              "text" : "曼可顿超醇原味切片面包400g(8片)(新老包装随机发货)"
+            },
+            "seqSale" : 48,
+            "skuSubTitle" : {
+              "styleId" : "lstv570",
+              "text" : "优质原料｜奶香浓郁｜汤种发酵"
+            },
+            "sellUnit" : {
+              "text" : "袋"
+            },
+            "subStatus" : false,
+            "sellingPoints" : [
+              {
+                "styleId" : "biz_sp",
+                "text" : "优质原料"
+              },
+              {
+                "styleId" : "biz_sp",
+                "text" : "奶香浓郁"
+              }
+            ],
+            "buyStep" : "1"
+          }
+        }
+      }
+    },
+    "code" : 0
+  }

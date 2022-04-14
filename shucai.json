@@ -1,0 +1,4148 @@
+{
+  "code": 0,
+  "data": {
+      "categoryId2SkuListMap": {
+          "40488": {
+              "categoryId": 40488,
+              "categoryLevel": 2,
+              "skuIdList": [
+                  56793,
+                  219472,
+                  41626,
+                  22551,
+                  99819,
+                  239808,
+                  24100,
+                  41634,
+                  233783,
+                  81654,
+                  239714,
+                  50077,
+                  238511,
+                  41681,
+                  75501,
+                  237733,
+                  86846,
+                  75922,
+                  78800,
+                  99820,
+                  103704,
+                  68579,
+                  239764,
+                  238713,
+                  18309,
+                  83221,
+                  41007,
+                  22529,
+                  99821,
+                  41679,
+                  96741,
+                  233659,
+                  75503,
+                  238502,
+                  103507,
+                  41617,
+                  81653,
+                  18318,
+                  103521,
+                  217852,
+                  224623,
+                  95150,
+                  59072,
+                  22566,
+                  88596,
+                  217709,
+                  41632,
+                  101376,
+                  84428,
+                  227710
+              ],
+              "needFold": true,
+              "total": 100
+          }
+      },
+      "skuId2SkuItemMap": {
+          "56793": {
+              "type": 1,
+              "skuItem": {
+                  "subscription": false,
+                  "subStatus": false,
+                  "soldOutUrl": "https://p1.meituan.net/scarlett/efaf34fa5387df3c35eb7a7e2cec74316112.png",
+                  "skuId": 56793,
+                  "picUrl": "https://img.meituan.net/mallimages/74040972cfbe9a9d8e5bb653472d1dd1223392.png",
+                  "skuTitle": {
+                      "text": "白萝卜1.5kg"
+                  },
+                  "skuSubTitle": {
+                      "text": "生熟两吃｜入口微甜｜滋鲜味美",
+                      "styleId": "lstv570"
+                  },
+                  "sellUnit": {
+                      "text": "份"
+                  },
+                  "sellPrice": {
+                      "text": "¥9.8"
+                  },
+                  "sellButton": {
+                      "text": "找相似",
+                      "enable": true,
+                      "status": 6
+                  },
+                  "loose": false,
+                  "buyStep": "1",
+                  "buyUnit": "份",
+                  "sellingPoints": [
+                      {
+                          "text": "生熟两吃",
+                          "styleId": "biz_sp"
+                      },
+                      {
+                          "text": "入口微甜",
+                          "styleId": "biz_sp"
+                      }
+                  ],
+                  "similar": true,
+                  "seqPrice": 980,
+                  "seqSale": 15,
+                  "buttonList": [
+                      {
+                          "text": "到货提醒",
+                          "enable": true,
+                          "status": 4,
+                          "styleId": "ssr38"
+                      },
+                      {
+                          "text": "找相似",
+                          "enable": true,
+                          "status": 6
+                      }
+                  ],
+                  "detailPagePic": "https://p0.meituan.net/mallimages/a581231e55a2d4ea76362dcae8fba52140132.jpg",
+                  "salesVO": {},
+                  "stidInfo": {
+                      "kv": {
+                          "flg": "a:2"
+                      }
+                  }
+              }
+          },
+          "219472": {
+              "type": 1,
+              "skuItem": {
+                  "subscription": false,
+                  "subStatus": false,
+                  "soldOutUrl": "https://p0.meituan.net/mallimages/5c17cf85da4b43180cb08e2ad6107d024681.png",
+                  "skuId": 219472,
+                  "picUrl": "https://p1.meituan.net/mallimages/bf2eb2aea4dd59987da20b67357558a5882871.jpg",
+                  "skuTitle": {
+                      "text": "清芽豌豆苗170g"
+                  },
+                  "skuSubTitle": {
+                      "text": "色泽翠绿｜清香鲜嫩｜苗杆挺拔",
+                      "styleId": "lstv570"
+                  },
+                  "sellUnit": {
+                      "text": "份"
+                  },
+                  "sellPrice": {
+                      "text": "¥5.99"
+                  },
+                  "sellButton": {
+                      "text": "找相似",
+                      "enable": true,
+                      "status": 6
+                  },
+                  "loose": false,
+                  "buyStep": "1",
+                  "buyUnit": "份",
+                  "sellingPoints": [
+                      {
+                          "text": "色泽翠绿",
+                          "styleId": "biz_sp"
+                      },
+                      {
+                          "text": "清香鲜嫩",
+                          "styleId": "biz_sp"
+                      }
+                  ],
+                  "similar": true,
+                  "seqPrice": 599,
+                  "seqSale": 34,
+                  "v2Tags": [
+                      {
+                          "labelId": 90,
+                          "tagType": 1,
+                          "type": 8,
+                          "priority": 1203,
+                          "ordered": 0,
+                          "image": {
+                              "url": "https://p0.meituan.net/mallimages/1a1d93acd8b04d0fbe9bf65c184efb762367.png",
+                              "width": 84,
+                              "height": 45
+                          },
+                          "location": 5,
+                          "logicalIdentification": 1
+                      }
+                  ],
+                  "buttonList": [
+                      {
+                          "text": "已设提醒",
+                          "enable": true,
+                          "status": 4,
+                          "styleId": "ssr38"
+                      },
+                      {
+                          "text": "找相似",
+                          "enable": true,
+                          "status": 6
+                      }
+                  ],
+                  "detailPagePic": "https://p0.meituan.net/mallimages/35455f9385d37bb2f04db22cd0c070c3502491.jpg",
+                  "salesVO": {}
+              }
+          },
+          "41626": {
+              "type": 1,
+              "skuItem": {
+                  "subscription": false,
+                  "subStatus": false,
+                  "soldOutUrl": "https://p1.meituan.net/scarlett/efaf34fa5387df3c35eb7a7e2cec74316112.png",
+                  "skuId": 41626,
+                  "picUrl": "https://p0.meituan.net/mallimages/8e381d7e6490104c698b348e9bde0f08824129.jpg",
+                  "skuTitle": {
+                      "text": "荷兰豆约300g"
+                  },
+                  "skuSubTitle": {
+                      "text": "脆甜爽口｜清新美味｜新鲜采摘",
+                      "styleId": "lstv570"
+                  },
+                  "sellUnit": {
+                      "text": "份"
+                  },
+                  "sellPrice": {
+                      "text": "¥13.9"
+                  },
+                  "sellButton": {
+                      "text": "找相似",
+                      "enable": true,
+                      "status": 6
+                  },
+                  "loose": false,
+                  "buyStep": "1",
+                  "buyUnit": "份",
+                  "sellingPoints": [
+                      {
+                          "text": "脆甜爽口",
+                          "styleId": "biz_sp"
+                      },
+                      {
+                          "text": "清新美味",
+                          "styleId": "biz_sp"
+                      }
+                  ],
+                  "similar": true,
+                  "seqPrice": 1390,
+                  "seqSale": 30,
+                  "memberPrice": {
+                      "text": "¥13.5"
+                  },
+                  "buttonList": [
+                      {
+                          "text": "已设提醒",
+                          "enable": true,
+                          "status": 4,
+                          "styleId": "ssr38"
+                      },
+                      {
+                          "text": "找相似",
+                          "enable": true,
+                          "status": 6
+                      }
+                  ],
+                  "detailPagePic": "https://p0.meituan.net/mallimages/fe3271331afa326be0cc9d9b6615991c272559.jpg",
+                  "salesVO": {},
+                  "promotionList": "5187457"
+              }
+          },
+          "22551": {
+              "type": 1,
+              "skuItem": {
+                  "subscription": false,
+                  "subStatus": false,
+                  "soldOutUrl": "https://p0.meituan.net/mallimages/5c17cf85da4b43180cb08e2ad6107d024681.png",
+                  "skuId": 22551,
+                  "picUrl": "https://img.meituan.net/mallimages/f6c0c45503e23dd963996c5881cd9a2f773952.png",
+                  "skuTitle": {
+                      "text": "芦蒿150g"
+                  },
+                  "skuSubTitle": {
+                      "text": "清鲜味美｜口味清香｜细嫩爽口",
+                      "styleId": "lstv570"
+                  },
+                  "sellUnit": {
+                      "text": "份"
+                  },
+                  "sellPrice": {
+                      "text": "¥8.7"
+                  },
+                  "sellButton": {
+                      "text": "找相似",
+                      "enable": true,
+                      "status": 6
+                  },
+                  "loose": false,
+                  "buyStep": "1",
+                  "buyUnit": "份",
+                  "sellingPoints": [
+                      {
+                          "text": "清鲜味美",
+                          "styleId": "biz_sp"
+                      },
+                      {
+                          "text": "口味清香",
+                          "styleId": "biz_sp"
+                      }
+                  ],
+                  "similar": true,
+                  "seqPrice": 870,
+                  "seqSale": 20,
+                  "v2Tags": [
+                      {
+                          "labelId": 90,
+                          "tagType": 1,
+                          "type": 8,
+                          "priority": 1203,
+                          "ordered": 0,
+                          "image": {
+                              "url": "https://p0.meituan.net/mallimages/1a1d93acd8b04d0fbe9bf65c184efb762367.png",
+                              "width": 84,
+                              "height": 45
+                          },
+                          "location": 5,
+                          "logicalIdentification": 1
+                      }
+                  ],
+                  "buttonList": [
+                      {
+                          "text": "已设提醒",
+                          "enable": true,
+                          "status": 4,
+                          "styleId": "ssr38"
+                      },
+                      {
+                          "text": "找相似",
+                          "enable": true,
+                          "status": 6
+                      }
+                  ],
+                  "detailPagePic": "https://p0.meituan.net/mallimages/67f3df37a438687cea7ea49e86fc1fde213929.jpg",
+                  "salesVO": {}
+              }
+          },
+          "99819": {
+              "type": 1,
+              "skuItem": {
+                  "subscription": false,
+                  "subStatus": false,
+                  "soldOutUrl": "https://p1.meituan.net/scarlett/efaf34fa5387df3c35eb7a7e2cec74316112.png",
+                  "skuId": 99819,
+                  "picUrl": "https://p0.meituan.net/mallimages/22f9748a304d0f1f0898d59fc77132e5463972.jpg",
+                  "gifPicUrl": "https://p0.meituan.net/mallimages/1512325ce77eb56e32ca06b09cc1349d923503.gif",
+                  "skuTitle": {
+                      "text": "象优选内酯豆腐400g"
+                  },
+                  "skuSubTitle": {
+                      "text": "口感细腻｜洁白如玉",
+                      "styleId": "lstv570"
+                  },
+                  "sellUnit": {
+                      "text": "盒"
+                  },
+                  "sellPrice": {
+                      "text": "¥2.18"
+                  },
+                  "sellButton": {
+                      "text": "找相似",
+                      "enable": true,
+                      "status": 6
+                  },
+                  "loose": false,
+                  "buyStep": "1",
+                  "buyUnit": "盒",
+                  "sellingPoints": [
+                      {
+                          "text": "口感细腻",
+                          "styleId": "biz_sp"
+                      },
+                      {
+                          "text": "洁白如玉",
+                          "styleId": "biz_sp"
+                      }
+                  ],
+                  "similar": true,
+                  "seqPrice": 218,
+                  "seqSale": 48,
+                  "v2Tags": [
+                      {
+                          "tagType": 1,
+                          "type": 4,
+                          "priority": 2100,
+                          "ordered": 0,
+                          "image": {
+                              "url": "https://p0.meituan.net/mallimages/a00a5b3b7cb91156746375da18df1de87876.png",
+                              "width": 120,
+                              "height": 120
+                          },
+                          "location": 1,
+                          "logicalIdentification": 1
+                      },
+                      {
+                          "labelId": 100030,
+                          "tagType": 1,
+                          "type": 9,
+                          "priority": 1304,
+                          "ordered": 0,
+                          "image": {
+                              "url": "https://p1.meituan.net/mallimages/13cb54c9315ede3cb9f4223e95cc99565554.png",
+                              "width": 30,
+                              "height": 16
+                          },
+                          "location": 2,
+                          "logicalIdentification": 1
+                      }
+                  ],
+                  "buttonList": [
+                      {
+                          "text": "到货提醒",
+                          "enable": true,
+                          "status": 4,
+                          "styleId": "ssr38"
+                      },
+                      {
+                          "text": "找相似",
+                          "enable": true,
+                          "status": 6
+                      }
+                  ],
+                  "detailPagePic": "https://p0.meituan.net/mallimages/d98b90ec3167baa5d59f0209978fc1db318684.jpg",
+                  "salesVO": {}
+              }
+          },
+          "239808": {
+              "type": 1,
+              "skuItem": {
+                  "subscription": false,
+                  "subStatus": false,
+                  "soldOutUrl": "https://p0.meituan.net/mallimages/5c17cf85da4b43180cb08e2ad6107d024681.png",
+                  "skuId": 239808,
+                  "picUrl": "https://p0.meituan.net/mallimages/5c92131a5f9a4adc75c401654c8fe23e738485.jpg",
+                  "skuTitle": {
+                      "text": "高山上海青苗约320g"
+                  },
+                  "skuSubTitle": {
+                      "text": "高山种植｜甘醇清甜｜餐桌常备",
+                      "styleId": "lstv570"
+                  },
+                  "sellUnit": {
+                      "text": "份"
+                  },
+                  "sellPrice": {
+                      "text": "¥7.69"
+                  },
+                  "sellButton": {
+                      "text": "找相似",
+                      "enable": true,
+                      "status": 6
+                  },
+                  "loose": false,
+                  "buyStep": "1",
+                  "buyUnit": "份",
+                  "sellingPoints": [
+                      {
+                          "text": "高山种植",
+                          "styleId": "biz_sp"
+                      },
+                      {
+                          "text": "甘醇清甜",
+                          "styleId": "biz_sp"
+                      }
+                  ],
+                  "similar": true,
+                  "seqPrice": 769,
+                  "seqSale": 38,
+                  "v2Tags": [
+                      {
+                          "labelId": 100003,
+                          "tagType": 1,
+                          "type": 8,
+                          "priority": 1205,
+                          "ordered": 0,
+                          "image": {
+                              "url": "https://p0.meituan.net/mallimages/ea009dac6ab1e1f41afe7a2986bbb9c61968.png",
+                              "width": 84,
+                              "height": 45
+                          },
+                          "location": 5,
+                          "logicalIdentification": 1
+                      }
+                  ],
+                  "buttonList": [
+                      {
+                          "text": "已设提醒",
+                          "enable": true,
+                          "status": 4,
+                          "styleId": "ssr38"
+                      },
+                      {
+                          "text": "找相似",
+                          "enable": true,
+                          "status": 6
+                      }
+                  ],
+                  "detailPagePic": "https://p0.meituan.net/mallimages/0ced0a1f107271fc9f78947606ece189447782.jpg",
+                  "salesVO": {}
+              }
+          },
+          "24100": {
+              "type": 1,
+              "skuItem": {
+                  "subscription": false,
+                  "subStatus": false,
+                  "soldOutUrl": "https://p0.meituan.net/mallimages/5c17cf85da4b43180cb08e2ad6107d024681.png",
+                  "skuId": 24100,
+                  "picUrl": "https://img.meituan.net/mallimages/93903b6fbcaf67c5c96ae750958b6b57703387.png",
+                  "skuTitle": {
+                      "text": "华绿金针菇150g"
+                  },
+                  "skuSubTitle": {
+                      "text": "菇盖爽滑｜细长白嫩｜长短均匀",
+                      "styleId": "lstv570"
+                  },
+                  "sellUnit": {
+                      "text": "份"
+                  },
+                  "sellPrice": {
+                      "text": "¥2"
+                  },
+                  "sellButton": {
+                      "text": "找相似",
+                      "enable": true,
+                      "status": 6
+                  },
+                  "loose": false,
+                  "buyStep": "1",
+                  "buyUnit": "份",
+                  "sellingPoints": [
+                      {
+                          "text": "菇盖爽滑",
+                          "styleId": "biz_sp"
+                      },
+                      {
+                          "text": "细长白嫩",
+                          "styleId": "biz_sp"
+                      }
+                  ],
+                  "similar": true,
+                  "seqPrice": 200,
+                  "seqSale": 49,
+                  "buttonList": [
+                      {
+                          "text": "到货提醒",
+                          "enable": true,
+                          "status": 4,
+                          "styleId": "ssr38"
+                      },
+                      {
+                          "text": "找相似",
+                          "enable": true,
+                          "status": 6
+                      }
+                  ],
+                  "detailPagePic": "https://p1.meituan.net/mallimages/55d28d70932762aa18f4441baa183088286066.png",
+                  "salesVO": {}
+              }
+          },
+          "41634": {
+              "type": 1,
+              "skuItem": {
+                  "subscription": false,
+                  "subStatus": false,
+                  "soldOutUrl": "https://p1.meituan.net/scarlett/efaf34fa5387df3c35eb7a7e2cec74316112.png",
+                  "skuId": 41634,
+                  "picUrl": "https://img.meituan.net/mallimages/bcdaa12ac69f3d5c16bd587b7193bc7e592822.png",
+                  "skuTitle": {
+                      "text": "芸豆 约300g"
+                  },
+                  "skuSubTitle": {
+                      "text": "色泽鲜亮｜饱满肥大｜香甜绵软",
+                      "styleId": "lstv570"
+                  },
+                  "sellUnit": {
+                      "text": "份"
+                  },
+                  "sellPrice": {
+                      "text": "¥10.9"
+                  },
+                  "sellButton": {
+                      "text": "找相似",
+                      "enable": true,
+                      "status": 6
+                  },
+                  "loose": false,
+                  "buyStep": "1",
+                  "buyUnit": "份",
+                  "sellingPoints": [
+                      {
+                          "text": "色泽鲜亮",
+                          "styleId": "biz_sp"
+                      },
+                      {
+                          "text": "饱满肥大",
+                          "styleId": "biz_sp"
+                      }
+                  ],
+                  "similar": true,
+                  "seqPrice": 1090,
+                  "seqSale": 31,
+                  "memberPrice": {
+                      "text": "¥10.6"
+                  },
+                  "buttonList": [
+                      {
+                          "text": "已设提醒",
+                          "enable": true,
+                          "status": 4,
+                          "styleId": "ssr38"
+                      },
+                      {
+                          "text": "找相似",
+                          "enable": true,
+                          "status": 6
+                      }
+                  ],
+                  "detailPagePic": "https://p0.meituan.net/mallimages/2a58e580272f50a36d4d323eba4d46b384897.jpg",
+                  "salesVO": {},
+                  "promotionList": "5187457"
+              }
+          },
+          "233783": {
+              "type": 1,
+              "skuItem": {
+                  "subscription": false,
+                  "subStatus": false,
+                  "soldOutUrl": "https://p0.meituan.net/mallimages/5c17cf85da4b43180cb08e2ad6107d024681.png",
+                  "skuId": 233783,
+                  "picUrl": "https://p0.meituan.net/mallimages/60d076b3118a8bdce68ad5dda3572644810267.jpg",
+                  "skuTitle": {
+                      "text": "小生菜250g"
+                  },
+                  "skuSubTitle": {
+                      "text": "适合沙拉｜嫩叶清爽｜新鲜挖采",
+                      "styleId": "lstv570"
+                  },
+                  "sellUnit": {
+                      "text": "份"
+                  },
+                  "sellPrice": {
+                      "text": "¥6.99"
+                  },
+                  "sellButton": {
+                      "text": "找相似",
+                      "enable": true,
+                      "status": 6
+                  },
+                  "loose": false,
+                  "buyStep": "1",
+                  "buyUnit": "份",
+                  "sellingPoints": [
+                      {
+                          "text": "适合沙拉",
+                          "styleId": "biz_sp"
+                      },
+                      {
+                          "text": "嫩叶清爽",
+                          "styleId": "biz_sp"
+                      }
+                  ],
+                  "similar": true,
+                  "seqPrice": 699,
+                  "seqSale": 24,
+                  "buttonList": [
+                      {
+                          "text": "已设提醒",
+                          "enable": true,
+                          "status": 4,
+                          "styleId": "ssr38"
+                      },
+                      {
+                          "text": "找相似",
+                          "enable": true,
+                          "status": 6
+                      }
+                  ],
+                  "detailPagePic": "https://p0.meituan.net/mallimages/f95f71c0338d723e343282923e65b6b2279215.jpg",
+                  "salesVO": {}
+              }
+          },
+          "81654": {
+              "type": 1,
+              "skuItem": {
+                  "subscription": false,
+                  "subStatus": false,
+                  "soldOutUrl": "https://p1.meituan.net/scarlett/efaf34fa5387df3c35eb7a7e2cec74316112.png",
+                  "skuId": 81654,
+                  "picUrl": "https://img.meituan.net/mallimages/49f08270707c42da6830808c269ee680346096.png",
+                  "skuTitle": {
+                      "text": "汉康内酯豆腐400g"
+                  },
+                  "skuSubTitle": {
+                      "text": "洁白如玉 细腻嫩滑",
+                      "styleId": "lstv570"
+                  },
+                  "sellUnit": {
+                      "text": "盒"
+                  },
+                  "sellPrice": {
+                      "text": "¥2.5"
+                  },
+                  "sellButton": {
+                      "text": "找相似",
+                      "enable": true,
+                      "status": 6
+                  },
+                  "loose": false,
+                  "buyStep": "1",
+                  "buyUnit": "盒",
+                  "similar": true,
+                  "seqPrice": 250,
+                  "seqSale": 45,
+                  "v2Tags": [
+                      {
+                          "labelId": 100030,
+                          "tagType": 1,
+                          "type": 9,
+                          "priority": 1304,
+                          "ordered": 0,
+                          "image": {
+                              "url": "https://p1.meituan.net/mallimages/13cb54c9315ede3cb9f4223e95cc99565554.png",
+                              "width": 30,
+                              "height": 16
+                          },
+                          "location": 2,
+                          "logicalIdentification": 1
+                      }
+                  ],
+                  "buttonList": [
+                      {
+                          "text": "到货提醒",
+                          "enable": true,
+                          "status": 4,
+                          "styleId": "ssr38"
+                      },
+                      {
+                          "text": "找相似",
+                          "enable": true,
+                          "status": 6
+                      }
+                  ],
+                  "detailPagePic": "https://p0.meituan.net/mallimages/1bb31559356e1277a81960b052cbb0f7103951.jpg",
+                  "salesVO": {}
+              }
+          },
+          "239714": {
+              "type": 1,
+              "skuItem": {
+                  "subscription": false,
+                  "subStatus": false,
+                  "soldOutUrl": "https://p0.meituan.net/mallimages/5c17cf85da4b43180cb08e2ad6107d024681.png",
+                  "skuId": 239714,
+                  "picUrl": "https://img.meituan.net/mallimages/df0044d9ee5e368cae9f8fa293e34f0d688856.png",
+                  "skuTitle": {
+                      "text": "高山上海青约320g"
+                  },
+                  "skuSubTitle": {
+                      "text": "高山蔬菜｜叶柄坚挺｜绿色新鲜",
+                      "styleId": "lstv570"
+                  },
+                  "sellUnit": {
+                      "text": "份"
+                  },
+                  "sellPrice": {
+                      "text": "¥5.99"
+                  },
+                  "sellButton": {
+                      "text": "找相似",
+                      "enable": true,
+                      "status": 6
+                  },
+                  "loose": false,
+                  "buyStep": "1",
+                  "buyUnit": "份",
+                  "sellingPoints": [
+                      {
+                          "text": "高山蔬菜",
+                          "styleId": "biz_sp"
+                      },
+                      {
+                          "text": "叶柄坚挺",
+                          "styleId": "biz_sp"
+                      }
+                  ],
+                  "similar": true,
+                  "seqPrice": 599,
+                  "seqSale": 25,
+                  "v2Tags": [
+                      {
+                          "labelId": 100003,
+                          "tagType": 1,
+                          "type": 8,
+                          "priority": 1205,
+                          "ordered": 0,
+                          "image": {
+                              "url": "https://p0.meituan.net/mallimages/ea009dac6ab1e1f41afe7a2986bbb9c61968.png",
+                              "width": 84,
+                              "height": 45
+                          },
+                          "location": 5,
+                          "logicalIdentification": 1
+                      }
+                  ],
+                  "buttonList": [
+                      {
+                          "text": "已设提醒",
+                          "enable": true,
+                          "status": 4,
+                          "styleId": "ssr38"
+                      },
+                      {
+                          "text": "找相似",
+                          "enable": true,
+                          "status": 6
+                      }
+                  ],
+                  "detailPagePic": "https://p0.meituan.net/mallimages/504c8df525e67e016b9e8e59e669c0e4368447.jpg",
+                  "salesVO": {}
+              }
+          },
+          "50077": {
+              "type": 1,
+              "skuItem": {
+                  "subscription": false,
+                  "subStatus": false,
+                  "soldOutUrl": "https://p0.meituan.net/mallimages/5c17cf85da4b43180cb08e2ad6107d024681.png",
+                  "skuId": 50077,
+                  "picUrl": "https://img.meituan.net/mallimages/2644bd0079c3f475199ab7e8f5e12479502441.png",
+                  "skuTitle": {
+                      "text": "红米苋250g"
+                  },
+                  "skuSubTitle": {
+                      "text": "叶片柔嫩｜清新细腻｜营养丰富",
+                      "styleId": "lstv570"
+                  },
+                  "sellUnit": {
+                      "text": "份"
+                  },
+                  "sellPrice": {
+                      "text": "¥11.9"
+                  },
+                  "sellButton": {
+                      "text": "找相似",
+                      "enable": true,
+                      "status": 6
+                  },
+                  "loose": false,
+                  "buyStep": "1",
+                  "buyUnit": "份",
+                  "sellingPoints": [
+                      {
+                          "text": "叶片柔嫩",
+                          "styleId": "biz_sp"
+                      },
+                      {
+                          "text": "清新细腻",
+                          "styleId": "biz_sp"
+                      }
+                  ],
+                  "similar": true,
+                  "seqPrice": 1190,
+                  "seqSale": 19,
+                  "v2Tags": [
+                      {
+                          "labelId": 90,
+                          "tagType": 1,
+                          "type": 8,
+                          "priority": 1203,
+                          "ordered": 0,
+                          "image": {
+                              "url": "https://p0.meituan.net/mallimages/1a1d93acd8b04d0fbe9bf65c184efb762367.png",
+                              "width": 84,
+                              "height": 45
+                          },
+                          "location": 5,
+                          "logicalIdentification": 1
+                      }
+                  ],
+                  "buttonList": [
+                      {
+                          "text": "已设提醒",
+                          "enable": true,
+                          "status": 4,
+                          "styleId": "ssr38"
+                      },
+                      {
+                          "text": "找相似",
+                          "enable": true,
+                          "status": 6
+                      }
+                  ],
+                  "detailPagePic": "https://p1.meituan.net/mallimages/cf9a563e6e3235006e6ea0520b5e61d6136780.jpg",
+                  "salesVO": {}
+              }
+          },
+          "238511": {
+              "type": 1,
+              "skuItem": {
+                  "subscription": false,
+                  "subStatus": false,
+                  "soldOutUrl": "https://p0.meituan.net/mallimages/5c17cf85da4b43180cb08e2ad6107d024681.png",
+                  "skuId": 238511,
+                  "picUrl": "https://img.meituan.net/mallimages/57251aa96a8fa4b77502abe743db209f505070.png",
+                  "skuTitle": {
+                      "text": "云南生菜约450g"
+                  },
+                  "skuSubTitle": {
+                      "text": "青绿色泽｜清爽甜脆｜清炒白灼",
+                      "styleId": "lstv570"
+                  },
+                  "sellUnit": {
+                      "text": "份"
+                  },
+                  "sellPrice": {
+                      "text": "¥6.99"
+                  },
+                  "sellButton": {
+                      "text": "找相似",
+                      "enable": true,
+                      "status": 6
+                  },
+                  "loose": false,
+                  "buyStep": "1",
+                  "buyUnit": "份",
+                  "sellingPoints": [
+                      {
+                          "text": "青绿色泽",
+                          "styleId": "biz_sp"
+                      },
+                      {
+                          "text": "清爽甜脆",
+                          "styleId": "biz_sp"
+                      }
+                  ],
+                  "similar": true,
+                  "seqPrice": 699,
+                  "seqSale": 0,
+                  "v2Tags": [
+                      {
+                          "labelId": 100003,
+                          "tagType": 1,
+                          "type": 8,
+                          "priority": 1205,
+                          "ordered": 0,
+                          "image": {
+                              "url": "https://p0.meituan.net/mallimages/ea009dac6ab1e1f41afe7a2986bbb9c61968.png",
+                              "width": 84,
+                              "height": 45
+                          },
+                          "location": 5,
+                          "logicalIdentification": 1
+                      }
+                  ],
+                  "buttonList": [
+                      {
+                          "text": "到货提醒",
+                          "enable": true,
+                          "status": 4,
+                          "styleId": "ssr38"
+                      },
+                      {
+                          "text": "找相似",
+                          "enable": true,
+                          "status": 6
+                      }
+                  ],
+                  "detailPagePic": "https://p1.meituan.net/mallimages/3937e1efa74758494d4bbdba7d114de4267549.jpg",
+                  "salesVO": {}
+              }
+          },
+          "41681": {
+              "type": 1,
+              "skuItem": {
+                  "subscription": false,
+                  "subStatus": false,
+                  "soldOutUrl": "https://p0.meituan.net/mallimages/5c17cf85da4b43180cb08e2ad6107d024681.png",
+                  "skuId": 41681,
+                  "picUrl": "https://img.meituan.net/mallimages/dff0f7608fe6eb2473ebf6b8377b129f697188.png",
+                  "skuTitle": {
+                      "text": "本地鸡毛菜 250g"
+                  },
+                  "skuSubTitle": {
+                      "text": "新鲜又水灵｜南方常备菜｜新鲜采摘",
+                      "styleId": "lstv570"
+                  },
+                  "sellUnit": {
+                      "text": "份"
+                  },
+                  "sellPrice": {
+                      "text": "¥3.1"
+                  },
+                  "sellButton": {
+                      "text": "找相似",
+                      "enable": true,
+                      "status": 6
+                  },
+                  "loose": false,
+                  "buyStep": "1",
+                  "buyUnit": "份",
+                  "sellingPoints": [
+                      {
+                          "text": "新鲜又水灵",
+                          "styleId": "biz_sp"
+                      },
+                      {
+                          "text": "南方常备菜",
+                          "styleId": "biz_sp"
+                      }
+                  ],
+                  "similar": true,
+                  "seqPrice": 310,
+                  "seqSale": 26,
+                  "buttonList": [
+                      {
+                          "text": "已设提醒",
+                          "enable": true,
+                          "status": 4,
+                          "styleId": "ssr38"
+                      },
+                      {
+                          "text": "找相似",
+                          "enable": true,
+                          "status": 6
+                      }
+                  ],
+                  "detailPagePic": "https://p0.meituan.net/mallimages/cb28b36d1b7bcad716a50a574795213f477682.jpg",
+                  "salesVO": {}
+              }
+          },
+          "75501": {
+              "type": 1,
+              "skuItem": {
+                  "subscription": false,
+                  "subStatus": false,
+                  "soldOutUrl": "https://p0.meituan.net/mallimages/5c17cf85da4b43180cb08e2ad6107d024681.png",
+                  "skuId": 75501,
+                  "picUrl": "https://p0.meituan.net/mallimages/30b03774192e9c9d55d29e8ec06ac197690662.jpg",
+                  "skuTitle": {
+                      "text": "小青菜500g"
+                  },
+                  "skuSubTitle": {
+                      "text": "清甜回甘｜鲜嫩多汁｜紧实挺拔",
+                      "styleId": "lstv570"
+                  },
+                  "sellUnit": {
+                      "text": "份"
+                  },
+                  "sellPrice": {
+                      "text": "¥5.9"
+                  },
+                  "dashPrice": {
+                      "text": "¥6.99",
+                      "styleId": "dp"
+                  },
+                  "sellButton": {
+                      "text": "找相似",
+                      "enable": true,
+                      "status": 6
+                  },
+                  "loose": false,
+                  "buyStep": "1",
+                  "buyUnit": "份",
+                  "sellingPoints": [
+                      {
+                          "text": "清甜回甘",
+                          "styleId": "biz_sp"
+                      },
+                      {
+                          "text": "鲜嫩多汁",
+                          "styleId": "biz_sp"
+                      }
+                  ],
+                  "similar": true,
+                  "seqPrice": 590,
+                  "seqSale": 36,
+                  "v2Tags": [
+                      {
+                          "tagType": 0,
+                          "type": 2,
+                          "priority": 1100,
+                          "ordered": 0,
+                          "styleText": {
+                              "text": "8.5折",
+                              "styleId": "tag_new_prov2"
+                          },
+                          "location": 6,
+                          "logicalIdentification": 1
+                      }
+                  ],
+                  "buttonList": [
+                      {
+                          "text": "已设提醒",
+                          "enable": true,
+                          "status": 4,
+                          "styleId": "ssr38"
+                      },
+                      {
+                          "text": "找相似",
+                          "enable": true,
+                          "status": 6
+                      }
+                  ],
+                  "detailPagePic": "https://p0.meituan.net/mallimages/cf5e9508c387c5997ea0abd818968b56281987.jpg",
+                  "salesVO": {},
+                  "promotionList": "5296014"
+              }
+          },
+          "237733": {
+              "type": 1,
+              "skuItem": {
+                  "subscription": false,
+                  "subStatus": false,
+                  "soldOutUrl": "https://p0.meituan.net/mallimages/5c17cf85da4b43180cb08e2ad6107d024681.png",
+                  "skuId": 237733,
+                  "picUrl": "https://p0.meituan.net/mallimages/a68928233cedd38e14af47ca71cc10f3444740.jpg",
+                  "skuTitle": {
+                      "text": "祖名内酯豆腐400g"
+                  },
+                  "skuSubTitle": {
+                      "text": "精选大豆｜口感嫩滑｜豆香四溢",
+                      "styleId": "lstv570"
+                  },
+                  "sellUnit": {
+                      "text": "盒"
+                  },
+                  "sellPrice": {
+                      "text": "¥1.99"
+                  },
+                  "sellButton": {
+                      "text": "找相似",
+                      "enable": true,
+                      "status": 6
+                  },
+                  "loose": false,
+                  "buyStep": "1",
+                  "buyUnit": "盒",
+                  "sellingPoints": [
+                      {
+                          "text": "精选大豆",
+                          "styleId": "biz_sp"
+                      },
+                      {
+                          "text": "口感嫩滑",
+                          "styleId": "biz_sp"
+                      }
+                  ],
+                  "similar": true,
+                  "seqPrice": 199,
+                  "seqSale": 1,
+                  "v2Tags": [
+                      {
+                          "labelId": 100030,
+                          "tagType": 1,
+                          "type": 9,
+                          "priority": 1304,
+                          "ordered": 0,
+                          "image": {
+                              "url": "https://p1.meituan.net/mallimages/13cb54c9315ede3cb9f4223e95cc99565554.png",
+                              "width": 30,
+                              "height": 16
+                          },
+                          "location": 2,
+                          "logicalIdentification": 1
+                      },
+                      {
+                          "labelId": 100003,
+                          "tagType": 1,
+                          "type": 8,
+                          "priority": 1205,
+                          "ordered": 0,
+                          "image": {
+                              "url": "https://p0.meituan.net/mallimages/ea009dac6ab1e1f41afe7a2986bbb9c61968.png",
+                              "width": 84,
+                              "height": 45
+                          },
+                          "location": 5,
+                          "logicalIdentification": 1
+                      }
+                  ],
+                  "buttonList": [
+                      {
+                          "text": "到货提醒",
+                          "enable": true,
+                          "status": 4,
+                          "styleId": "ssr38"
+                      },
+                      {
+                          "text": "找相似",
+                          "enable": true,
+                          "status": 6
+                      }
+                  ],
+                  "detailPagePic": "https://p0.meituan.net/mallimages/c9924d5d9bcf56ea749fa955879db3d9283079.jpg",
+                  "salesVO": {}
+              }
+          },
+          "86846": {
+              "type": 1,
+              "skuItem": {
+                  "subscription": false,
+                  "subStatus": false,
+                  "soldOutUrl": "https://p1.meituan.net/scarlett/efaf34fa5387df3c35eb7a7e2cec74316112.png",
+                  "skuId": 86846,
+                  "picUrl": "https://p0.meituan.net/mallimages/06fd45329c963d7fb53d5ae8764b1ae3753198.jpg",
+                  "skuTitle": {
+                      "text": "精选老姜约300g"
+                  },
+                  "skuSubTitle": {
+                      "text": "农家种植｜提味去腥｜姜块肥大",
+                      "styleId": "lstv570"
+                  },
+                  "sellUnit": {
+                      "text": "份"
+                  },
+                  "sellPrice": {
+                      "text": "¥4.8"
+                  },
+                  "sellButton": {
+                      "text": "找相似",
+                      "enable": true,
+                      "status": 6
+                  },
+                  "loose": false,
+                  "buyStep": "1",
+                  "buyUnit": "份",
+                  "sellingPoints": [
+                      {
+                          "text": "农家种植",
+                          "styleId": "biz_sp"
+                      },
+                      {
+                          "text": "提味去腥",
+                          "styleId": "biz_sp"
+                      }
+                  ],
+                  "similar": true,
+                  "seqPrice": 480,
+                  "seqSale": 2,
+                  "memberPrice": {
+                      "text": "¥4.7"
+                  },
+                  "buttonList": [
+                      {
+                          "text": "到货提醒",
+                          "enable": true,
+                          "status": 4,
+                          "styleId": "ssr38"
+                      },
+                      {
+                          "text": "找相似",
+                          "enable": true,
+                          "status": 6
+                      }
+                  ],
+                  "detailPagePic": "https://p0.meituan.net/mallimages/b790fa068e58fc4fff93c7552eaeda58285352.jpg",
+                  "salesVO": {},
+                  "promotionList": "5187457"
+              }
+          },
+          "75922": {
+              "type": 1,
+              "skuItem": {
+                  "subscription": false,
+                  "subStatus": false,
+                  "soldOutUrl": "https://p0.meituan.net/mallimages/5c17cf85da4b43180cb08e2ad6107d024681.png",
+                  "skuId": 75922,
+                  "picUrl": "https://img.meituan.net/mallimages/31db6c6450fcf46498ae779b06f3dcfe473228.png",
+                  "skuTitle": {
+                      "text": "普罗旺斯西红柿500g"
+                  },
+                  "skuSubTitle": {
+                      "text": "清新多汁｜料理简单｜个大圆润",
+                      "styleId": "lstv570"
+                  },
+                  "sellUnit": {
+                      "text": "份"
+                  },
+                  "sellPrice": {
+                      "text": "¥11.9"
+                  },
+                  "sellButton": {
+                      "text": "找相似",
+                      "enable": true,
+                      "status": 6
+                  },
+                  "loose": false,
+                  "buyStep": "1",
+                  "buyUnit": "份",
+                  "sellingPoints": [
+                      {
+                          "text": "清新多汁",
+                          "styleId": "biz_sp"
+                      },
+                      {
+                          "text": "料理简单",
+                          "styleId": "biz_sp"
+                      }
+                  ],
+                  "similar": true,
+                  "seqPrice": 1190,
+                  "seqSale": 43,
+                  "buttonList": [
+                      {
+                          "text": "已设提醒",
+                          "enable": true,
+                          "status": 4,
+                          "styleId": "ssr38"
+                      },
+                      {
+                          "text": "找相似",
+                          "enable": true,
+                          "status": 6
+                      }
+                  ],
+                  "detailPagePic": "https://p0.meituan.net/mallimages/8a183347f26e2b309a5729f8d5305dc396003.jpg",
+                  "salesVO": {}
+              }
+          },
+          "78800": {
+              "type": 1,
+              "skuItem": {
+                  "subscription": false,
+                  "subStatus": false,
+                  "soldOutUrl": "https://p1.meituan.net/scarlett/efaf34fa5387df3c35eb7a7e2cec74316112.png",
+                  "skuId": 78800,
+                  "picUrl": "https://img.meituan.net/mallimages/03dce1497dd1806a1d616cfc93e2997f393079.png",
+                  "skuTitle": {
+                      "text": "裕灌白蘑菇230g"
+                  },
+                  "skuSubTitle": {
+                      "text": "精挑细选｜吃法多样｜洁白细腻",
+                      "styleId": "lstv570"
+                  },
+                  "sellUnit": {
+                      "text": "份"
+                  },
+                  "sellPrice": {
+                      "text": "¥6.9"
+                  },
+                  "sellButton": {
+                      "text": "找相似",
+                      "enable": true,
+                      "status": 6
+                  },
+                  "loose": false,
+                  "buyStep": "1",
+                  "buyUnit": "份",
+                  "sellingPoints": [
+                      {
+                          "text": "精挑细选",
+                          "styleId": "biz_sp"
+                      },
+                      {
+                          "text": "吃法多样",
+                          "styleId": "biz_sp"
+                      }
+                  ],
+                  "similar": true,
+                  "seqPrice": 690,
+                  "seqSale": 35,
+                  "buttonList": [
+                      {
+                          "text": "已设提醒",
+                          "enable": true,
+                          "status": 4,
+                          "styleId": "ssr38"
+                      },
+                      {
+                          "text": "找相似",
+                          "enable": true,
+                          "status": 6
+                      }
+                  ],
+                  "detailPagePic": "https://p0.meituan.net/mallimages/f483ffd6a2c70093a06dfb4e95980155163933.png",
+                  "salesVO": {}
+              }
+          },
+          "99820": {
+              "type": 1,
+              "skuItem": {
+                  "subscription": false,
+                  "subStatus": false,
+                  "soldOutUrl": "https://p1.meituan.net/scarlett/efaf34fa5387df3c35eb7a7e2cec74316112.png",
+                  "skuId": 99820,
+                  "picUrl": "https://img.meituan.net/mallimages/085baab3704f49e33fb23d5a45f27ee2578268.png",
+                  "gifPicUrl": "https://p0.meituan.net/mallimages/28ae3eb64afac4ceb60445544f3fe0ad1012946.gif",
+                  "skuTitle": {
+                      "text": "象优选卤水经典老豆腐380g"
+                  },
+                  "skuSubTitle": {
+                      "text": "卤水经典｜醇厚豆香",
+                      "styleId": "lstv570"
+                  },
+                  "sellUnit": {
+                      "text": "盒"
+                  },
+                  "sellPrice": {
+                      "text": "¥4.58"
+                  },
+                  "sellButton": {
+                      "text": "找相似",
+                      "enable": true,
+                      "status": 6
+                  },
+                  "loose": false,
+                  "buyStep": "1",
+                  "buyUnit": "盒",
+                  "sellingPoints": [
+                      {
+                          "text": "卤水经典",
+                          "styleId": "biz_sp"
+                      },
+                      {
+                          "text": "醇厚豆香",
+                          "styleId": "biz_sp"
+                      }
+                  ],
+                  "similar": true,
+                  "seqPrice": 458,
+                  "seqSale": 46,
+                  "v2Tags": [
+                      {
+                          "tagType": 1,
+                          "type": 4,
+                          "priority": 2100,
+                          "ordered": 0,
+                          "image": {
+                              "url": "https://p0.meituan.net/mallimages/a00a5b3b7cb91156746375da18df1de87876.png",
+                              "width": 120,
+                              "height": 120
+                          },
+                          "location": 1,
+                          "logicalIdentification": 1
+                      },
+                      {
+                          "labelId": 100030,
+                          "tagType": 1,
+                          "type": 9,
+                          "priority": 1304,
+                          "ordered": 0,
+                          "image": {
+                              "url": "https://p1.meituan.net/mallimages/13cb54c9315ede3cb9f4223e95cc99565554.png",
+                              "width": 30,
+                              "height": 16
+                          },
+                          "location": 2,
+                          "logicalIdentification": 1
+                      }
+                  ],
+                  "buttonList": [
+                      {
+                          "text": "到货提醒",
+                          "enable": true,
+                          "status": 4,
+                          "styleId": "ssr38"
+                      },
+                      {
+                          "text": "找相似",
+                          "enable": true,
+                          "status": 6
+                      }
+                  ],
+                  "detailPagePic": "https://p0.meituan.net/mallimages/a0720278fc2d1fd4c05dc4e2404aece9399124.jpg",
+                  "salesVO": {}
+              }
+          },
+          "103704": {
+              "type": 1,
+              "skuItem": {
+                  "subscription": false,
+                  "subStatus": false,
+                  "soldOutUrl": "https://p1.meituan.net/scarlett/efaf34fa5387df3c35eb7a7e2cec74316112.png",
+                  "skuId": 103704,
+                  "picUrl": "https://p0.meituan.net/mallimages/958763e1164600def1e77921e0001742680805.jpg",
+                  "skuTitle": {
+                      "text": "新土豆600g"
+                  },
+                  "skuSubTitle": {
+                      "text": "口感饱满｜清香迷人｜粮蔬兼备",
+                      "styleId": "lstv570"
+                  },
+                  "sellUnit": {
+                      "text": "份"
+                  },
+                  "sellPrice": {
+                      "text": "¥4.99"
+                  },
+                  "sellButton": {
+                      "text": "找相似",
+                      "enable": true,
+                      "status": 6
+                  },
+                  "loose": false,
+                  "buyStep": "1",
+                  "buyUnit": "份",
+                  "sellingPoints": [
+                      {
+                          "text": "口感饱满",
+                          "styleId": "biz_sp"
+                      },
+                      {
+                          "text": "清香迷人",
+                          "styleId": "biz_sp"
+                      }
+                  ],
+                  "similar": true,
+                  "seqPrice": 499,
+                  "seqSale": 3,
+                  "buttonList": [
+                      {
+                          "text": "已设提醒",
+                          "enable": true,
+                          "status": 4,
+                          "styleId": "ssr38"
+                      },
+                      {
+                          "text": "找相似",
+                          "enable": true,
+                          "status": 6
+                      }
+                  ],
+                  "detailPagePic": "https://p0.meituan.net/mallimages/88ed7e5f0ce655d032edc2d38e0dfa42145289.jpg",
+                  "salesVO": {}
+              }
+          },
+          "68579": {
+              "type": 1,
+              "skuItem": {
+                  "subscription": false,
+                  "subStatus": false,
+                  "soldOutUrl": "https://p0.meituan.net/mallimages/5c17cf85da4b43180cb08e2ad6107d024681.png",
+                  "skuId": 68579,
+                  "picUrl": "https://img.meituan.net/mallimages/3e60502cc922efc5b77a48009c9b1563292214.png",
+                  "skuTitle": {
+                      "text": "本地黄瓜约450g"
+                  },
+                  "skuSubTitle": {
+                      "text": "亦蔬亦果｜口口生脆｜口感清新",
+                      "styleId": "lstv570"
+                  },
+                  "sellUnit": {
+                      "text": "份"
+                  },
+                  "sellPrice": {
+                      "text": "¥11.9"
+                  },
+                  "sellButton": {
+                      "text": "找相似",
+                      "enable": true,
+                      "status": 6
+                  },
+                  "loose": false,
+                  "buyStep": "1",
+                  "buyUnit": "份",
+                  "sellingPoints": [
+                      {
+                          "text": "亦蔬亦果",
+                          "styleId": "biz_sp"
+                      },
+                      {
+                          "text": "口口生脆",
+                          "styleId": "biz_sp"
+                      }
+                  ],
+                  "similar": true,
+                  "seqPrice": 1190,
+                  "seqSale": 4,
+                  "memberPrice": {
+                      "text": "¥11.5"
+                  },
+                  "buttonList": [
+                      {
+                          "text": "到货提醒",
+                          "enable": true,
+                          "status": 4,
+                          "styleId": "ssr38"
+                      },
+                      {
+                          "text": "找相似",
+                          "enable": true,
+                          "status": 6
+                      }
+                  ],
+                  "detailPagePic": "https://p1.meituan.net/mallimages/5b653e194c4600cca321d635e1062faa251256.jpg",
+                  "salesVO": {},
+                  "promotionList": "5187457"
+              }
+          },
+          "239764": {
+              "type": 1,
+              "skuItem": {
+                  "subscription": false,
+                  "subStatus": false,
+                  "soldOutUrl": "https://p0.meituan.net/mallimages/5c17cf85da4b43180cb08e2ad6107d024681.png",
+                  "skuId": 239764,
+                  "picUrl": "https://p0.meituan.net/mallimages/497e03dd9c1394e4b1c8d777ae6d46b2666212.jpg",
+                  "skuTitle": {
+                      "text": "高山油麦菜约320g"
+                  },
+                  "skuSubTitle": {
+                      "text": "纤维丰富｜叶片柔嫩｜口感甜沁",
+                      "styleId": "lstv570"
+                  },
+                  "sellUnit": {
+                      "text": "份"
+                  },
+                  "sellPrice": {
+                      "text": "¥7.69"
+                  },
+                  "sellButton": {
+                      "text": "找相似",
+                      "enable": true,
+                      "status": 6
+                  },
+                  "loose": false,
+                  "buyStep": "1",
+                  "buyUnit": "份",
+                  "sellingPoints": [
+                      {
+                          "text": "纤维丰富",
+                          "styleId": "biz_sp"
+                      },
+                      {
+                          "text": "叶片柔嫩",
+                          "styleId": "biz_sp"
+                      }
+                  ],
+                  "similar": true,
+                  "seqPrice": 769,
+                  "seqSale": 39,
+                  "v2Tags": [
+                      {
+                          "labelId": 100003,
+                          "tagType": 1,
+                          "type": 8,
+                          "priority": 1205,
+                          "ordered": 0,
+                          "image": {
+                              "url": "https://p0.meituan.net/mallimages/ea009dac6ab1e1f41afe7a2986bbb9c61968.png",
+                              "width": 84,
+                              "height": 45
+                          },
+                          "location": 5,
+                          "logicalIdentification": 1
+                      }
+                  ],
+                  "buttonList": [
+                      {
+                          "text": "到货提醒",
+                          "enable": true,
+                          "status": 4,
+                          "styleId": "ssr38"
+                      },
+                      {
+                          "text": "找相似",
+                          "enable": true,
+                          "status": 6
+                      }
+                  ],
+                  "detailPagePic": "https://p0.meituan.net/mallimages/385631d823ad399095ee462401f0183d306767.jpg",
+                  "salesVO": {}
+              }
+          },
+          "238713": {
+              "type": 1,
+              "skuItem": {
+                  "subscription": false,
+                  "subStatus": false,
+                  "soldOutUrl": "https://p0.meituan.net/mallimages/5c17cf85da4b43180cb08e2ad6107d024681.png",
+                  "skuId": 238713,
+                  "picUrl": "https://p0.meituan.net/mallimages/fd8b9b38156785d9599f28c72671c905345546.jpg",
+                  "skuTitle": {
+                      "text": "安心蔬菜套餐E 4.15kg"
+                  },
+                  "skuSubTitle": {
+                      "text": "口口新鲜｜居家囤货｜炒菜煲汤皆宜",
+                      "styleId": "lstv570"
+                  },
+                  "sellUnit": {
+                      "text": "份"
+                  },
+                  "sellPrice": {
+                      "text": "¥58"
+                  },
+                  "sellButton": {
+                      "text": "找相似",
+                      "enable": true,
+                      "status": 6
+                  },
+                  "loose": false,
+                  "buyStep": "1",
+                  "buyUnit": "份",
+                  "sellingPoints": [
+                      {
+                          "text": "口口新鲜",
+                          "styleId": "biz_sp"
+                      },
+                      {
+                          "text": "居家囤货",
+                          "styleId": "biz_sp"
+                      }
+                  ],
+                  "similar": true,
+                  "seqPrice": 5800,
+                  "seqSale": 5,
+                  "v2Tags": [
+                      {
+                          "labelId": 100003,
+                          "tagType": 1,
+                          "type": 8,
+                          "priority": 1205,
+                          "ordered": 0,
+                          "image": {
+                              "url": "https://p0.meituan.net/mallimages/ea009dac6ab1e1f41afe7a2986bbb9c61968.png",
+                              "width": 84,
+                              "height": 45
+                          },
+                          "location": 5,
+                          "logicalIdentification": 1
+                      }
+                  ],
+                  "buttonList": [
+                      {
+                          "text": "到货提醒",
+                          "enable": true,
+                          "status": 4,
+                          "styleId": "ssr38"
+                      },
+                      {
+                          "text": "找相似",
+                          "enable": true,
+                          "status": 6
+                      }
+                  ],
+                  "detailPagePic": "https://p1.meituan.net/mallimages/e72601bb3a65ff3846ed844242db259f104314.jpg",
+                  "salesVO": {}
+              }
+          },
+          "18309": {
+              "type": 1,
+              "skuItem": {
+                  "subscription": false,
+                  "subStatus": false,
+                  "soldOutUrl": "https://p1.meituan.net/scarlett/efaf34fa5387df3c35eb7a7e2cec74316112.png",
+                  "skuId": 18309,
+                  "picUrl": "https://p0.meituan.net/mallimages/c480d6ad299dd15acb0fca3db5786822276641.jpg",
+                  "skuTitle": {
+                      "text": "旭洋咪咪绢豆腐3*150g"
+                  },
+                  "skuSubTitle": {
+                      "text": "鲜嫩味美｜口味多样",
+                      "styleId": "lstv570"
+                  },
+                  "sellUnit": {
+                      "text": "袋"
+                  },
+                  "sellPrice": {
+                      "text": "¥7.8"
+                  },
+                  "sellButton": {
+                      "text": "找相似",
+                      "enable": true,
+                      "status": 6
+                  },
+                  "loose": false,
+                  "buyStep": "1",
+                  "buyUnit": "袋",
+                  "sellingPoints": [
+                      {
+                          "text": "鲜嫩味美",
+                          "styleId": "biz_sp"
+                      },
+                      {
+                          "text": "口味多样",
+                          "styleId": "biz_sp"
+                      }
+                  ],
+                  "similar": true,
+                  "seqPrice": 780,
+                  "seqSale": 32,
+                  "v2Tags": [
+                      {
+                          "labelId": 100030,
+                          "tagType": 1,
+                          "type": 9,
+                          "priority": 1304,
+                          "ordered": 0,
+                          "image": {
+                              "url": "https://p1.meituan.net/mallimages/13cb54c9315ede3cb9f4223e95cc99565554.png",
+                              "width": 30,
+                              "height": 16
+                          },
+                          "location": 2,
+                          "logicalIdentification": 1
+                      },
+                      {
+                          "labelId": 100003,
+                          "tagType": 1,
+                          "type": 8,
+                          "priority": 1205,
+                          "ordered": 0,
+                          "image": {
+                              "url": "https://p0.meituan.net/mallimages/ea009dac6ab1e1f41afe7a2986bbb9c61968.png",
+                              "width": 84,
+                              "height": 45
+                          },
+                          "location": 5,
+                          "logicalIdentification": 1
+                      }
+                  ],
+                  "buttonList": [
+                      {
+                          "text": "到货提醒",
+                          "enable": true,
+                          "status": 4,
+                          "styleId": "ssr38"
+                      },
+                      {
+                          "text": "找相似",
+                          "enable": true,
+                          "status": 6
+                      }
+                  ],
+                  "detailPagePic": "https://p1.meituan.net/mallimages/577d89bdf950453d99ad642be4da85ed93086.jpg",
+                  "salesVO": {}
+              }
+          },
+          "83221": {
+              "type": 1,
+              "skuItem": {
+                  "subscription": false,
+                  "subStatus": false,
+                  "soldOutUrl": "https://p0.meituan.net/mallimages/5c17cf85da4b43180cb08e2ad6107d024681.png",
+                  "skuId": 83221,
+                  "picUrl": "https://p0.meituan.net/mallimages/b7072bc7fbcff4f52676afb68af502e7654300.jpg",
+                  "skuTitle": {
+                      "text": "平价杭白菜400g"
+                  },
+                  "skuSubTitle": {
+                      "text": "柔嫩多汁｜清脆回甘｜脆爽口感",
+                      "styleId": "lstv570"
+                  },
+                  "sellUnit": {
+                      "text": "份"
+                  },
+                  "sellPrice": {
+                      "text": "¥4.99"
+                  },
+                  "sellButton": {
+                      "text": "找相似",
+                      "enable": true,
+                      "status": 6
+                  },
+                  "loose": false,
+                  "buyStep": "1",
+                  "buyUnit": "份",
+                  "sellingPoints": [
+                      {
+                          "text": "柔嫩多汁",
+                          "styleId": "biz_sp"
+                      },
+                      {
+                          "text": "清脆回甘",
+                          "styleId": "biz_sp"
+                      }
+                  ],
+                  "similar": true,
+                  "seqPrice": 499,
+                  "seqSale": 42,
+                  "buttonList": [
+                      {
+                          "text": "到货提醒",
+                          "enable": true,
+                          "status": 4,
+                          "styleId": "ssr38"
+                      },
+                      {
+                          "text": "找相似",
+                          "enable": true,
+                          "status": 6
+                      }
+                  ],
+                  "detailPagePic": "https://p0.meituan.net/mallimages/6457c6218b5a6fa86576d2947c65f4b0286261.jpg",
+                  "salesVO": {}
+              }
+          },
+          "41007": {
+              "type": 1,
+              "skuItem": {
+                  "subscription": false,
+                  "subStatus": false,
+                  "soldOutUrl": "https://p0.meituan.net/mallimages/5c17cf85da4b43180cb08e2ad6107d024681.png",
+                  "skuId": 41007,
+                  "picUrl": "https://img.meituan.net/mallimages/f45cf38b38b0aa5bad9b7ffef180fc73425470.png",
+                  "skuTitle": {
+                      "text": "马家沟芹菜350g"
+                  },
+                  "skuSubTitle": {
+                      "text": "色泽黄绿｜脆嫩清香｜甘甜爽口",
+                      "styleId": "lstv570"
+                  },
+                  "sellUnit": {
+                      "text": "份"
+                  },
+                  "sellPrice": {
+                      "text": "¥11.9"
+                  },
+                  "sellButton": {
+                      "text": "找相似",
+                      "enable": true,
+                      "status": 6
+                  },
+                  "loose": false,
+                  "buyStep": "1",
+                  "buyUnit": "份",
+                  "sellingPoints": [
+                      {
+                          "text": "色泽黄绿",
+                          "styleId": "biz_sp"
+                      },
+                      {
+                          "text": "脆嫩清香",
+                          "styleId": "biz_sp"
+                      }
+                  ],
+                  "similar": true,
+                  "seqPrice": 1190,
+                  "seqSale": 16,
+                  "memberPrice": {
+                      "text": "¥11.5"
+                  },
+                  "buttonList": [
+                      {
+                          "text": "到货提醒",
+                          "enable": true,
+                          "status": 4,
+                          "styleId": "ssr38"
+                      },
+                      {
+                          "text": "找相似",
+                          "enable": true,
+                          "status": 6
+                      }
+                  ],
+                  "detailPagePic": "https://p0.meituan.net/mallimages/f32c49147c273b497fc2f3b8172349c2222746.jpg",
+                  "salesVO": {},
+                  "promotionList": "5187457"
+              }
+          },
+          "22529": {
+              "type": 1,
+              "skuItem": {
+                  "subscription": false,
+                  "subStatus": false,
+                  "soldOutUrl": "https://p0.meituan.net/mallimages/5c17cf85da4b43180cb08e2ad6107d024681.png",
+                  "skuId": 22529,
+                  "picUrl": "https://img.meituan.net/mallimages/5cd05a7228f4d524f358ccf089acb1b1325890.png",
+                  "skuTitle": {
+                      "text": "空心菜350g"
+                  },
+                  "skuSubTitle": {
+                      "text": "叶色碧绿｜叶条均匀｜营养丰富",
+                      "styleId": "lstv570"
+                  },
+                  "sellUnit": {
+                      "text": "份"
+                  },
+                  "sellPrice": {
+                      "text": "¥13.9"
+                  },
+                  "sellButton": {
+                      "text": "找相似",
+                      "enable": true,
+                      "status": 6
+                  },
+                  "loose": false,
+                  "buyStep": "1",
+                  "buyUnit": "份",
+                  "sellingPoints": [
+                      {
+                          "text": "叶色碧绿",
+                          "styleId": "biz_sp"
+                      },
+                      {
+                          "text": "叶条均匀",
+                          "styleId": "biz_sp"
+                      }
+                  ],
+                  "similar": true,
+                  "seqPrice": 1390,
+                  "seqSale": 6,
+                  "buttonList": [
+                      {
+                          "text": "已设提醒",
+                          "enable": true,
+                          "status": 4,
+                          "styleId": "ssr38"
+                      },
+                      {
+                          "text": "找相似",
+                          "enable": true,
+                          "status": 6
+                      }
+                  ],
+                  "detailPagePic": "https://p0.meituan.net/mallimages/0549cfcb0e709d4135454f7e6d3c1b37251784.jpg",
+                  "salesVO": {}
+              }
+          },
+          "99821": {
+              "type": 1,
+              "skuItem": {
+                  "subscription": false,
+                  "subStatus": false,
+                  "soldOutUrl": "https://p1.meituan.net/scarlett/efaf34fa5387df3c35eb7a7e2cec74316112.png",
+                  "skuId": 99821,
+                  "picUrl": "https://p0.meituan.net/mallimages/7752cb5b911f554a5a36215acca3561b502905.jpg",
+                  "gifPicUrl": "https://p0.meituan.net/mallimages/4f83f8fa57d387450060ed4cf7038d0e327818.gif",
+                  "skuTitle": {
+                      "text": "象优选五香豆干120g"
+                  },
+                  "skuSubTitle": {
+                      "text": "匠心卤制｜醇厚豆香｜风味十足",
+                      "styleId": "lstv570"
+                  },
+                  "sellUnit": {
+                      "text": "袋"
+                  },
+                  "sellPrice": {
+                      "text": "¥3.28"
+                  },
+                  "sellButton": {
+                      "text": "找相似",
+                      "enable": true,
+                      "status": 6
+                  },
+                  "loose": false,
+                  "buyStep": "1",
+                  "buyUnit": "袋",
+                  "sellingPoints": [
+                      {
+                          "text": "匠心卤制",
+                          "styleId": "biz_sp"
+                      },
+                      {
+                          "text": "醇厚豆香",
+                          "styleId": "biz_sp"
+                      }
+                  ],
+                  "similar": true,
+                  "seqPrice": 328,
+                  "seqSale": 47,
+                  "v2Tags": [
+                      {
+                          "tagType": 1,
+                          "type": 4,
+                          "priority": 2100,
+                          "ordered": 0,
+                          "image": {
+                              "url": "https://p0.meituan.net/mallimages/a00a5b3b7cb91156746375da18df1de87876.png",
+                              "width": 120,
+                              "height": 120
+                          },
+                          "location": 1,
+                          "logicalIdentification": 1
+                      },
+                      {
+                          "labelId": 100030,
+                          "tagType": 1,
+                          "type": 9,
+                          "priority": 1304,
+                          "ordered": 0,
+                          "image": {
+                              "url": "https://p1.meituan.net/mallimages/13cb54c9315ede3cb9f4223e95cc99565554.png",
+                              "width": 30,
+                              "height": 16
+                          },
+                          "location": 2,
+                          "logicalIdentification": 1
+                      }
+                  ],
+                  "buttonList": [
+                      {
+                          "text": "到货提醒",
+                          "enable": true,
+                          "status": 4,
+                          "styleId": "ssr38"
+                      },
+                      {
+                          "text": "找相似",
+                          "enable": true,
+                          "status": 6
+                      }
+                  ],
+                  "detailPagePic": "https://p0.meituan.net/mallimages/cd51ecbda68d40d8a42fdfb25f9ad1d0233413.jpg",
+                  "salesVO": {}
+              }
+          },
+          "41679": {
+              "type": 1,
+              "skuItem": {
+                  "subscription": false,
+                  "subStatus": false,
+                  "soldOutUrl": "https://p0.meituan.net/mallimages/5c17cf85da4b43180cb08e2ad6107d024681.png",
+                  "skuId": 41679,
+                  "picUrl": "https://p0.meituan.net/mallimages/ea9c536e4f476c0ff80ec9fef14ca7c7739849.jpg",
+                  "skuTitle": {
+                      "text": "紫皮大蒜 250g"
+                  },
+                  "skuSubTitle": {
+                      "text": "蒜厚多汁｜新鲜可口｜耐储藏久",
+                      "styleId": "lstv570"
+                  },
+                  "sellUnit": {
+                      "text": "份"
+                  },
+                  "sellPrice": {
+                      "text": "¥3.7"
+                  },
+                  "sellButton": {
+                      "text": "找相似",
+                      "enable": true,
+                      "status": 6
+                  },
+                  "loose": false,
+                  "buyStep": "1",
+                  "buyUnit": "份",
+                  "sellingPoints": [
+                      {
+                          "text": "蒜厚多汁",
+                          "styleId": "biz_sp"
+                      },
+                      {
+                          "text": "新鲜可口",
+                          "styleId": "biz_sp"
+                      }
+                  ],
+                  "similar": true,
+                  "seqPrice": 370,
+                  "seqSale": 29,
+                  "buttonList": [
+                      {
+                          "text": "到货提醒",
+                          "enable": true,
+                          "status": 4,
+                          "styleId": "ssr38"
+                      },
+                      {
+                          "text": "找相似",
+                          "enable": true,
+                          "status": 6
+                      }
+                  ],
+                  "detailPagePic": "https://p0.meituan.net/mallimages/fefa1dbe2459ed338aa9907817714935362889.jpg",
+                  "salesVO": {}
+              }
+          },
+          "96741": {
+              "type": 1,
+              "skuItem": {
+                  "subscription": false,
+                  "subStatus": false,
+                  "soldOutUrl": "https://p1.meituan.net/scarlett/efaf34fa5387df3c35eb7a7e2cec74316112.png",
+                  "skuId": 96741,
+                  "picUrl": "https://p0.meituan.net/mallimages/7a6d27d295da58152d8d0627952ad54f152273.jpg",
+                  "skuTitle": {
+                      "text": "大葱 约450g"
+                  },
+                  "skuSubTitle": {
+                      "text": "清甜可口｜烹饪快捷｜滋味鲜美",
+                      "styleId": "lstv570"
+                  },
+                  "sellUnit": {
+                      "text": "份"
+                  },
+                  "sellPrice": {
+                      "text": "¥7"
+                  },
+                  "sellButton": {
+                      "text": "找相似",
+                      "enable": true,
+                      "status": 6
+                  },
+                  "loose": false,
+                  "buyStep": "1",
+                  "buyUnit": "份",
+                  "sellingPoints": [
+                      {
+                          "text": "清甜可口",
+                          "styleId": "biz_sp"
+                      },
+                      {
+                          "text": "烹饪快捷",
+                          "styleId": "biz_sp"
+                      }
+                  ],
+                  "similar": true,
+                  "seqPrice": 700,
+                  "seqSale": 7,
+                  "buttonList": [
+                      {
+                          "text": "到货提醒",
+                          "enable": true,
+                          "status": 4,
+                          "styleId": "ssr38"
+                      },
+                      {
+                          "text": "找相似",
+                          "enable": true,
+                          "status": 6
+                      }
+                  ],
+                  "detailPagePic": "https://p0.meituan.net/mallimages/b9ec9d01ce9854ce07bfc57955a2f29e90178.jpg",
+                  "salesVO": {}
+              }
+          },
+          "233659": {
+              "type": 1,
+              "skuItem": {
+                  "subscription": false,
+                  "subStatus": false,
+                  "soldOutUrl": "https://p0.meituan.net/mallimages/5c17cf85da4b43180cb08e2ad6107d024681.png",
+                  "skuId": 233659,
+                  "picUrl": "https://p1.meituan.net/mallimages/36e143c2a387acb66fc3103a99dddc45820553.jpg",
+                  "skuTitle": {
+                      "text": "嫩叶鸡毛菜250g"
+                  },
+                  "skuSubTitle": {
+                      "text": "脆嫩适口｜鲜艳翠绿｜口口新鲜",
+                      "styleId": "lstv570"
+                  },
+                  "sellUnit": {
+                      "text": "份"
+                  },
+                  "sellPrice": {
+                      "text": "¥6.99"
+                  },
+                  "sellButton": {
+                      "text": "找相似",
+                      "enable": true,
+                      "status": 6
+                  },
+                  "loose": false,
+                  "buyStep": "1",
+                  "buyUnit": "份",
+                  "sellingPoints": [
+                      {
+                          "text": "脆嫩适口",
+                          "styleId": "biz_sp"
+                      },
+                      {
+                          "text": "鲜艳翠绿",
+                          "styleId": "biz_sp"
+                      }
+                  ],
+                  "similar": true,
+                  "seqPrice": 699,
+                  "seqSale": 18,
+                  "buttonList": [
+                      {
+                          "text": "已设提醒",
+                          "enable": true,
+                          "status": 4,
+                          "styleId": "ssr38"
+                      },
+                      {
+                          "text": "找相似",
+                          "enable": true,
+                          "status": 6
+                      }
+                  ],
+                  "detailPagePic": "https://p0.meituan.net/mallimages/a63be161067102eaa3a0bd75012d6f16276325.jpg",
+                  "salesVO": {}
+              }
+          },
+          "75503": {
+              "type": 1,
+              "skuItem": {
+                  "subscription": false,
+                  "subStatus": false,
+                  "soldOutUrl": "https://p0.meituan.net/mallimages/5c17cf85da4b43180cb08e2ad6107d024681.png",
+                  "skuId": 75503,
+                  "picUrl": "https://p0.meituan.net/mallimages/da4bfa8a196985585eb41cecd25455f0709175.jpg",
+                  "skuTitle": {
+                      "text": "菠菜500g"
+                  },
+                  "skuSubTitle": {
+                      "text": "成熟鲜嫩｜绿如翡翠｜新鲜清甜",
+                      "styleId": "lstv570"
+                  },
+                  "sellUnit": {
+                      "text": "份"
+                  },
+                  "sellPrice": {
+                      "text": "¥7.8"
+                  },
+                  "sellButton": {
+                      "text": "找相似",
+                      "enable": true,
+                      "status": 6
+                  },
+                  "loose": false,
+                  "buyStep": "1",
+                  "buyUnit": "份",
+                  "sellingPoints": [
+                      {
+                          "text": "成熟鲜嫩",
+                          "styleId": "biz_sp"
+                      },
+                      {
+                          "text": "绿如翡翠",
+                          "styleId": "biz_sp"
+                      }
+                  ],
+                  "similar": true,
+                  "seqPrice": 780,
+                  "seqSale": 22,
+                  "memberPrice": {
+                      "text": "¥7.6"
+                  },
+                  "buttonList": [
+                      {
+                          "text": "到货提醒",
+                          "enable": true,
+                          "status": 4,
+                          "styleId": "ssr38"
+                      },
+                      {
+                          "text": "找相似",
+                          "enable": true,
+                          "status": 6
+                      }
+                  ],
+                  "detailPagePic": "https://p0.meituan.net/mallimages/a004bd07bfd4e80d6131ad947db3cfcd306354.jpg",
+                  "salesVO": {},
+                  "promotionList": "5187457"
+              }
+          },
+          "238502": {
+              "type": 1,
+              "skuItem": {
+                  "subscription": false,
+                  "subStatus": false,
+                  "soldOutUrl": "https://p0.meituan.net/mallimages/5c17cf85da4b43180cb08e2ad6107d024681.png",
+                  "skuId": 238502,
+                  "picUrl": "https://img.meituan.net/mallimages/df0044d9ee5e368cae9f8fa293e34f0d688856.png",
+                  "skuTitle": {
+                      "text": "云南上海青约300g"
+                  },
+                  "skuSubTitle": {
+                      "text": "新鲜脆嫩｜汤汁清甜｜鲜艳翠绿",
+                      "styleId": "lstv570"
+                  },
+                  "sellUnit": {
+                      "text": "份"
+                  },
+                  "sellPrice": {
+                      "text": "¥6.99"
+                  },
+                  "sellButton": {
+                      "text": "找相似",
+                      "enable": true,
+                      "status": 6
+                  },
+                  "loose": false,
+                  "buyStep": "1",
+                  "buyUnit": "份",
+                  "sellingPoints": [
+                      {
+                          "text": "新鲜脆嫩",
+                          "styleId": "biz_sp"
+                      },
+                      {
+                          "text": "汤汁清甜",
+                          "styleId": "biz_sp"
+                      }
+                  ],
+                  "similar": true,
+                  "seqPrice": 699,
+                  "seqSale": 14,
+                  "v2Tags": [
+                      {
+                          "labelId": 100003,
+                          "tagType": 1,
+                          "type": 8,
+                          "priority": 1205,
+                          "ordered": 0,
+                          "image": {
+                              "url": "https://p0.meituan.net/mallimages/ea009dac6ab1e1f41afe7a2986bbb9c61968.png",
+                              "width": 84,
+                              "height": 45
+                          },
+                          "location": 5,
+                          "logicalIdentification": 1
+                      }
+                  ],
+                  "buttonList": [
+                      {
+                          "text": "到货提醒",
+                          "enable": true,
+                          "status": 4,
+                          "styleId": "ssr38"
+                      },
+                      {
+                          "text": "找相似",
+                          "enable": true,
+                          "status": 6
+                      }
+                  ],
+                  "detailPagePic": "https://p0.meituan.net/mallimages/504c8df525e67e016b9e8e59e669c0e4368447.jpg",
+                  "salesVO": {}
+              }
+          },
+          "103507": {
+              "type": 1,
+              "skuItem": {
+                  "subscription": false,
+                  "subStatus": false,
+                  "soldOutUrl": "https://p1.meituan.net/scarlett/efaf34fa5387df3c35eb7a7e2cec74316112.png",
+                  "skuId": 103507,
+                  "picUrl": "https://p0.meituan.net/mallimages/a3b8c17b96b72960c4d2d9262ed8606b612954.jpg",
+                  "skuTitle": {
+                      "text": "香葱60g"
+                  },
+                  "skuSubTitle": {
+                      "text": "新鲜脆嫩｜香气浓郁｜葱叶鲜嫩",
+                      "styleId": "lstv570"
+                  },
+                  "sellUnit": {
+                      "text": "份"
+                  },
+                  "sellPrice": {
+                      "text": "¥1.5"
+                  },
+                  "sellButton": {
+                      "text": "找相似",
+                      "enable": true,
+                      "status": 6
+                  },
+                  "loose": false,
+                  "buyStep": "1",
+                  "buyUnit": "份",
+                  "sellingPoints": [
+                      {
+                          "text": "新鲜脆嫩",
+                          "styleId": "biz_sp"
+                      },
+                      {
+                          "text": "香气浓郁",
+                          "styleId": "biz_sp"
+                      }
+                  ],
+                  "similar": true,
+                  "seqPrice": 150,
+                  "seqSale": 8,
+                  "buttonList": [
+                      {
+                          "text": "已设提醒",
+                          "enable": true,
+                          "status": 4,
+                          "styleId": "ssr38"
+                      },
+                      {
+                          "text": "找相似",
+                          "enable": true,
+                          "status": 6
+                      }
+                  ],
+                  "detailPagePic": "https://p0.meituan.net/mallimages/d52424482e2606c1ec32267545f75aaa273338.jpg",
+                  "salesVO": {}
+              }
+          },
+          "41617": {
+              "type": 1,
+              "skuItem": {
+                  "subscription": false,
+                  "subStatus": false,
+                  "soldOutUrl": "https://p1.meituan.net/scarlett/efaf34fa5387df3c35eb7a7e2cec74316112.png",
+                  "skuId": 41617,
+                  "picUrl": "https://img.meituan.net/mallimages/a6ddb8d09c376df543bf1d8ec8ba0c70792114.png",
+                  "skuTitle": {
+                      "text": "水果黄瓜约400g"
+                  },
+                  "skuSubTitle": {
+                      "text": "小巧滑嫩｜细长均匀｜水分充足",
+                      "styleId": "lstv570"
+                  },
+                  "sellUnit": {
+                      "text": "份"
+                  },
+                  "sellPrice": {
+                      "text": "¥8.8"
+                  },
+                  "sellButton": {
+                      "text": "找相似",
+                      "enable": true,
+                      "status": 6
+                  },
+                  "loose": false,
+                  "buyStep": "1",
+                  "buyUnit": "份",
+                  "sellingPoints": [
+                      {
+                          "text": "小巧滑嫩",
+                          "styleId": "biz_sp"
+                      },
+                      {
+                          "text": "细长均匀",
+                          "styleId": "biz_sp"
+                      }
+                  ],
+                  "similar": true,
+                  "seqPrice": 880,
+                  "seqSale": 28,
+                  "buttonList": [
+                      {
+                          "text": "已设提醒",
+                          "enable": true,
+                          "status": 4,
+                          "styleId": "ssr38"
+                      },
+                      {
+                          "text": "找相似",
+                          "enable": true,
+                          "status": 6
+                      }
+                  ],
+                  "detailPagePic": "https://p0.meituan.net/mallimages/f9b90073d3e0a8e3a069889ccebd362f229106.jpg",
+                  "salesVO": {}
+              }
+          },
+          "81653": {
+              "type": 1,
+              "skuItem": {
+                  "subscription": false,
+                  "subStatus": false,
+                  "soldOutUrl": "https://p0.meituan.net/mallimages/5c17cf85da4b43180cb08e2ad6107d024681.png",
+                  "skuId": 81653,
+                  "picUrl": "https://img.meituan.net/mallimages/5d248404a045c4b4587902b1ba56238c645330.png",
+                  "skuTitle": {
+                      "text": "汉康大油方150g"
+                  },
+                  "skuSubTitle": {
+                      "text": "内如丝网｜色泽金黄｜豆味香浓",
+                      "styleId": "lstv570"
+                  },
+                  "sellUnit": {
+                      "text": "袋"
+                  },
+                  "sellPrice": {
+                      "text": "¥5.8"
+                  },
+                  "sellButton": {
+                      "text": "找相似",
+                      "enable": true,
+                      "status": 6
+                  },
+                  "loose": false,
+                  "buyStep": "1",
+                  "buyUnit": "袋",
+                  "sellingPoints": [
+                      {
+                          "text": "内如丝网",
+                          "styleId": "biz_sp"
+                      },
+                      {
+                          "text": "色泽金黄",
+                          "styleId": "biz_sp"
+                      }
+                  ],
+                  "similar": true,
+                  "seqPrice": 580,
+                  "seqSale": 33,
+                  "v2Tags": [
+                      {
+                          "labelId": 100030,
+                          "tagType": 1,
+                          "type": 9,
+                          "priority": 1304,
+                          "ordered": 0,
+                          "image": {
+                              "url": "https://p1.meituan.net/mallimages/13cb54c9315ede3cb9f4223e95cc99565554.png",
+                              "width": 30,
+                              "height": 16
+                          },
+                          "location": 2,
+                          "logicalIdentification": 1
+                      }
+                  ],
+                  "buttonList": [
+                      {
+                          "text": "到货提醒",
+                          "enable": true,
+                          "status": 4,
+                          "styleId": "ssr38"
+                      },
+                      {
+                          "text": "找相似",
+                          "enable": true,
+                          "status": 6
+                      }
+                  ],
+                  "detailPagePic": "https://p1.meituan.net/mallimages/12abdc784340946b9bdff5837a33969d154206.jpg",
+                  "salesVO": {}
+              }
+          },
+          "18318": {
+              "type": 1,
+              "skuItem": {
+                  "subscription": false,
+                  "subStatus": false,
+                  "soldOutUrl": "https://p1.meituan.net/scarlett/efaf34fa5387df3c35eb7a7e2cec74316112.png",
+                  "skuId": 18318,
+                  "picUrl": "https://p0.meituan.net/mallimages/fdadc2f54dffdf89d853d21360bf70e6272568.jpg",
+                  "skuTitle": {
+                      "text": "旭洋真老豆腐350g"
+                  },
+                  "skuSubTitle": {
+                      "text": "嫩而不松｜口味纯正",
+                      "styleId": "lstv570"
+                  },
+                  "sellUnit": {
+                      "text": "盒"
+                  },
+                  "sellPrice": {
+                      "text": "¥5.5"
+                  },
+                  "sellButton": {
+                      "text": "找相似",
+                      "enable": true,
+                      "status": 6
+                  },
+                  "loose": false,
+                  "buyStep": "1",
+                  "buyUnit": "盒",
+                  "sellingPoints": [
+                      {
+                          "text": "嫩而不松",
+                          "styleId": "biz_sp"
+                      },
+                      {
+                          "text": "口味纯正",
+                          "styleId": "biz_sp"
+                      }
+                  ],
+                  "similar": true,
+                  "seqPrice": 550,
+                  "seqSale": 37,
+                  "v2Tags": [
+                      {
+                          "labelId": 100030,
+                          "tagType": 1,
+                          "type": 9,
+                          "priority": 1304,
+                          "ordered": 0,
+                          "image": {
+                              "url": "https://p1.meituan.net/mallimages/13cb54c9315ede3cb9f4223e95cc99565554.png",
+                              "width": 30,
+                              "height": 16
+                          },
+                          "location": 2,
+                          "logicalIdentification": 1
+                      },
+                      {
+                          "labelId": 100003,
+                          "tagType": 1,
+                          "type": 8,
+                          "priority": 1205,
+                          "ordered": 0,
+                          "image": {
+                              "url": "https://p0.meituan.net/mallimages/ea009dac6ab1e1f41afe7a2986bbb9c61968.png",
+                              "width": 84,
+                              "height": 45
+                          },
+                          "location": 5,
+                          "logicalIdentification": 1
+                      }
+                  ],
+                  "buttonList": [
+                      {
+                          "text": "到货提醒",
+                          "enable": true,
+                          "status": 4,
+                          "styleId": "ssr38"
+                      },
+                      {
+                          "text": "找相似",
+                          "enable": true,
+                          "status": 6
+                      }
+                  ],
+                  "detailPagePic": "https://p0.meituan.net/mallimages/07cf5b305e1e690d34a5707c7b126924182079.jpg",
+                  "salesVO": {}
+              }
+          },
+          "103521": {
+              "type": 1,
+              "skuItem": {
+                  "subscription": false,
+                  "subStatus": false,
+                  "soldOutUrl": "https://p0.meituan.net/mallimages/5c17cf85da4b43180cb08e2ad6107d024681.png",
+                  "skuId": 103521,
+                  "picUrl": "https://img.meituan.net/mallimages/5286f3ad36cd99c46a419715b1375e3d438423.png",
+                  "skuTitle": {
+                      "text": "现切南瓜450g"
+                  },
+                  "skuSubTitle": {
+                      "text": "软甜沙糯｜金黄鲜香｜老少皆宜",
+                      "styleId": "lstv570"
+                  },
+                  "sellUnit": {
+                      "text": "份"
+                  },
+                  "sellPrice": {
+                      "text": "¥3.99"
+                  },
+                  "sellButton": {
+                      "text": "找相似",
+                      "enable": true,
+                      "status": 6
+                  },
+                  "loose": false,
+                  "buyStep": "1",
+                  "buyUnit": "份",
+                  "sellingPoints": [
+                      {
+                          "text": "软甜沙糯",
+                          "styleId": "biz_sp"
+                      },
+                      {
+                          "text": "金黄鲜香",
+                          "styleId": "biz_sp"
+                      }
+                  ],
+                  "similar": true,
+                  "seqPrice": 399,
+                  "seqSale": 27,
+                  "buttonList": [
+                      {
+                          "text": "到货提醒",
+                          "enable": true,
+                          "status": 4,
+                          "styleId": "ssr38"
+                      },
+                      {
+                          "text": "找相似",
+                          "enable": true,
+                          "status": 6
+                      }
+                  ],
+                  "detailPagePic": "https://p0.meituan.net/mallimages/970c85964f971add113aa3f74033d4f478525.jpg",
+                  "salesVO": {}
+              }
+          },
+          "217852": {
+              "type": 1,
+              "skuItem": {
+                  "subscription": false,
+                  "subStatus": false,
+                  "soldOutUrl": "https://p1.meituan.net/scarlett/efaf34fa5387df3c35eb7a7e2cec74316112.png",
+                  "skuId": 217852,
+                  "picUrl": "https://img.meituan.net/mallimages/e79186b5ffe0652c47f3a5b14a01c6f1636778.png",
+                  "skuTitle": {
+                      "text": "象优选小油豆腐120g"
+                  },
+                  "skuSubTitle": {
+                      "text": "豆香浓郁｜色泽金黄｜饱满吸汁",
+                      "styleId": "lstv570"
+                  },
+                  "sellUnit": {
+                      "text": "袋"
+                  },
+                  "sellPrice": {
+                      "text": "¥4.99"
+                  },
+                  "sellButton": {
+                      "text": "找相似",
+                      "enable": true,
+                      "status": 6
+                  },
+                  "loose": false,
+                  "buyStep": "1",
+                  "buyUnit": "袋",
+                  "sellingPoints": [
+                      {
+                          "text": "豆香浓郁",
+                          "styleId": "biz_sp"
+                      },
+                      {
+                          "text": "色泽金黄",
+                          "styleId": "biz_sp"
+                      }
+                  ],
+                  "similar": true,
+                  "seqPrice": 499,
+                  "seqSale": 44,
+                  "v2Tags": [
+                      {
+                          "tagType": 1,
+                          "type": 4,
+                          "priority": 2100,
+                          "ordered": 0,
+                          "image": {
+                              "url": "https://p0.meituan.net/mallimages/a00a5b3b7cb91156746375da18df1de87876.png",
+                              "width": 120,
+                              "height": 120
+                          },
+                          "location": 1,
+                          "logicalIdentification": 1
+                      },
+                      {
+                          "labelId": 100030,
+                          "tagType": 1,
+                          "type": 9,
+                          "priority": 1304,
+                          "ordered": 0,
+                          "image": {
+                              "url": "https://p1.meituan.net/mallimages/13cb54c9315ede3cb9f4223e95cc99565554.png",
+                              "width": 30,
+                              "height": 16
+                          },
+                          "location": 2,
+                          "logicalIdentification": 1
+                      }
+                  ],
+                  "buttonList": [
+                      {
+                          "text": "到货提醒",
+                          "enable": true,
+                          "status": 4,
+                          "styleId": "ssr38"
+                      },
+                      {
+                          "text": "找相似",
+                          "enable": true,
+                          "status": 6
+                      }
+                  ],
+                  "detailPagePic": "https://p0.meituan.net/mallimages/bc59dbabc91e26e6140fcb853591d9f0457374.jpg",
+                  "salesVO": {}
+              }
+          },
+          "224623": {
+              "type": 1,
+              "skuItem": {
+                  "subscription": false,
+                  "subStatus": false,
+                  "soldOutUrl": "https://p0.meituan.net/mallimages/5c17cf85da4b43180cb08e2ad6107d024681.png",
+                  "skuId": 224623,
+                  "picUrl": "https://p0.meituan.net/mallimages/04165ef8612d940293012644e089bdab546340.jpg",
+                  "skuTitle": {
+                      "text": "冬瓜800g"
+                  },
+                  "skuSubTitle": {
+                      "text": "皮薄鲜亮｜甘甜清淡｜更多吃法",
+                      "styleId": "lstv570"
+                  },
+                  "sellUnit": {
+                      "text": "份"
+                  },
+                  "sellPrice": {
+                      "text": "¥7.29"
+                  },
+                  "sellButton": {
+                      "text": "找相似",
+                      "enable": true,
+                      "status": 6
+                  },
+                  "loose": false,
+                  "buyStep": "1",
+                  "buyUnit": "份",
+                  "sellingPoints": [
+                      {
+                          "text": "皮薄鲜亮",
+                          "styleId": "biz_sp"
+                      },
+                      {
+                          "text": "甘甜清淡",
+                          "styleId": "biz_sp"
+                      }
+                  ],
+                  "similar": true,
+                  "seqPrice": 729,
+                  "seqSale": 9,
+                  "buttonList": [
+                      {
+                          "text": "到货提醒",
+                          "enable": true,
+                          "status": 4,
+                          "styleId": "ssr38"
+                      },
+                      {
+                          "text": "找相似",
+                          "enable": true,
+                          "status": 6
+                      }
+                  ],
+                  "detailPagePic": "https://p0.meituan.net/mallimages/777f44995f70aad4bee4d3cdf2dcbd3f272264.jpg",
+                  "salesVO": {}
+              }
+          },
+          "95150": {
+              "type": 1,
+              "skuItem": {
+                  "subscription": false,
+                  "subStatus": false,
+                  "soldOutUrl": "https://p0.meituan.net/mallimages/5c17cf85da4b43180cb08e2ad6107d024681.png",
+                  "skuId": 95150,
+                  "picUrl": "https://img.meituan.net/mallimages/28f18c5851337beac073fc4e2e93c724190045.png",
+                  "skuTitle": {
+                      "text": "姜家埠大葱250g"
+                  },
+                  "skuSubTitle": {
+                      "text": "口感细腻｜新鲜美味｜葱白肥厚",
+                      "styleId": "lstv570"
+                  },
+                  "sellUnit": {
+                      "text": "份"
+                  },
+                  "sellPrice": {
+                      "text": "¥10.9"
+                  },
+                  "sellButton": {
+                      "text": "找相似",
+                      "enable": true,
+                      "status": 6
+                  },
+                  "loose": false,
+                  "buyStep": "1",
+                  "buyUnit": "份",
+                  "sellingPoints": [
+                      {
+                          "text": "口感细腻",
+                          "styleId": "biz_sp"
+                      },
+                      {
+                          "text": "新鲜美味",
+                          "styleId": "biz_sp"
+                      }
+                  ],
+                  "similar": true,
+                  "seqPrice": 1090,
+                  "seqSale": 17,
+                  "memberPrice": {
+                      "text": "¥10.6"
+                  },
+                  "buttonList": [
+                      {
+                          "text": "到货提醒",
+                          "enable": true,
+                          "status": 4,
+                          "styleId": "ssr38"
+                      },
+                      {
+                          "text": "找相似",
+                          "enable": true,
+                          "status": 6
+                      }
+                  ],
+                  "detailPagePic": "https://p1.meituan.net/mallimages/0ac6e4fb801907279db35d7365ea0faa101082.jpg",
+                  "salesVO": {},
+                  "promotionList": "5187457"
+              }
+          },
+          "59072": {
+              "type": 1,
+              "skuItem": {
+                  "subscription": false,
+                  "subStatus": false,
+                  "soldOutUrl": "https://p1.meituan.net/scarlett/efaf34fa5387df3c35eb7a7e2cec74316112.png",
+                  "skuId": 59072,
+                  "picUrl": "https://img.meituan.net/mallimages/7ea4382ba81a64eb4782ba6c13d49a3d686371.png",
+                  "skuTitle": {
+                      "text": "豆王约300g"
+                  },
+                  "skuSubTitle": {
+                      "text": "清新多汁｜口感清脆｜粒大饱满",
+                      "styleId": "lstv570"
+                  },
+                  "sellUnit": {
+                      "text": "份"
+                  },
+                  "sellPrice": {
+                      "text": "¥10.9"
+                  },
+                  "sellButton": {
+                      "text": "找相似",
+                      "enable": true,
+                      "status": 6
+                  },
+                  "loose": false,
+                  "buyStep": "1",
+                  "buyUnit": "份",
+                  "sellingPoints": [
+                      {
+                          "text": "清新多汁",
+                          "styleId": "biz_sp"
+                      },
+                      {
+                          "text": "口感清脆",
+                          "styleId": "biz_sp"
+                      }
+                  ],
+                  "similar": true,
+                  "seqPrice": 1090,
+                  "seqSale": 10,
+                  "memberPrice": {
+                      "text": "¥10.6"
+                  },
+                  "buttonList": [
+                      {
+                          "text": "已设提醒",
+                          "enable": true,
+                          "status": 4,
+                          "styleId": "ssr38"
+                      },
+                      {
+                          "text": "找相似",
+                          "enable": true,
+                          "status": 6
+                      }
+                  ],
+                  "detailPagePic": "https://p0.meituan.net/mallimages/e3839c47b291d5877ef4637c655fd6eb369931.jpg",
+                  "salesVO": {},
+                  "promotionList": "5187457"
+              }
+          },
+          "22566": {
+              "type": 1,
+              "skuItem": {
+                  "subscription": false,
+                  "subStatus": false,
+                  "soldOutUrl": "https://p0.meituan.net/mallimages/5c17cf85da4b43180cb08e2ad6107d024681.png",
+                  "skuId": 22566,
+                  "picUrl": "https://img.meituan.net/mallimages/a8ba4b5c61b0c45e6a4dbafaa497178e845338.png",
+                  "skuTitle": {
+                      "text": "赤松茸200g"
+                  },
+                  "skuSubTitle": {
+                      "text": "Q弹细嫩｜腿粗盖肥｜色泽艳丽",
+                      "styleId": "lstv570"
+                  },
+                  "sellUnit": {
+                      "text": "份"
+                  },
+                  "sellPrice": {
+                      "text": "¥8.58"
+                  },
+                  "sellButton": {
+                      "text": "找相似",
+                      "enable": true,
+                      "status": 6
+                  },
+                  "loose": false,
+                  "buyStep": "1",
+                  "buyUnit": "份",
+                  "sellingPoints": [
+                      {
+                          "text": "Q弹细嫩",
+                          "styleId": "biz_sp"
+                      },
+                      {
+                          "text": "腿粗盖肥",
+                          "styleId": "biz_sp"
+                      }
+                  ],
+                  "similar": true,
+                  "seqPrice": 858,
+                  "seqSale": 23,
+                  "memberPrice": {
+                      "text": "¥8.3"
+                  },
+                  "buttonList": [
+                      {
+                          "text": "到货提醒",
+                          "enable": true,
+                          "status": 4,
+                          "styleId": "ssr38"
+                      },
+                      {
+                          "text": "找相似",
+                          "enable": true,
+                          "status": 6
+                      }
+                  ],
+                  "detailPagePic": "https://p0.meituan.net/mallimages/7af7993a7c35a4d716f5c13f52112111266833.jpg",
+                  "salesVO": {},
+                  "promotionList": "5187457"
+              }
+          },
+          "88596": {
+              "type": 1,
+              "skuItem": {
+                  "subscription": false,
+                  "subStatus": false,
+                  "soldOutUrl": "https://p1.meituan.net/scarlett/efaf34fa5387df3c35eb7a7e2cec74316112.png",
+                  "skuId": 88596,
+                  "picUrl": "https://img.meituan.net/mallimages/09163f2d37544141e36a6df9b838c32d493754.png",
+                  "skuTitle": {
+                      "text": "汉康香百页300g"
+                  },
+                  "skuSubTitle": {
+                      "text": "豆香浓郁｜美味可口｜甄选原材",
+                      "styleId": "lstv570"
+                  },
+                  "sellUnit": {
+                      "text": "袋"
+                  },
+                  "sellPrice": {
+                      "text": "¥8.9"
+                  },
+                  "sellButton": {
+                      "text": "找相似",
+                      "enable": true,
+                      "status": 6
+                  },
+                  "loose": false,
+                  "buyStep": "1",
+                  "buyUnit": "袋",
+                  "sellingPoints": [
+                      {
+                          "text": "豆香浓郁",
+                          "styleId": "biz_sp"
+                      },
+                      {
+                          "text": "美味可口",
+                          "styleId": "biz_sp"
+                      }
+                  ],
+                  "similar": true,
+                  "seqPrice": 890,
+                  "seqSale": 40,
+                  "v2Tags": [
+                      {
+                          "labelId": 100030,
+                          "tagType": 1,
+                          "type": 9,
+                          "priority": 1304,
+                          "ordered": 0,
+                          "image": {
+                              "url": "https://p1.meituan.net/mallimages/13cb54c9315ede3cb9f4223e95cc99565554.png",
+                              "width": 30,
+                              "height": 16
+                          },
+                          "location": 2,
+                          "logicalIdentification": 1
+                      }
+                  ],
+                  "buttonList": [
+                      {
+                          "text": "到货提醒",
+                          "enable": true,
+                          "status": 4,
+                          "styleId": "ssr38"
+                      },
+                      {
+                          "text": "找相似",
+                          "enable": true,
+                          "status": 6
+                      }
+                  ],
+                  "detailPagePic": "https://p1.meituan.net/mallimages/e48da6e150301c67c26fa461e491b33d96543.jpg",
+                  "salesVO": {}
+              }
+          },
+          "217709": {
+              "type": 1,
+              "skuItem": {
+                  "subscription": false,
+                  "subStatus": false,
+                  "soldOutUrl": "https://p0.meituan.net/mallimages/5c17cf85da4b43180cb08e2ad6107d024681.png",
+                  "skuId": 217709,
+                  "picUrl": "https://p0.meituan.net/mallimages/ec3e9dea8a47163ad4e2d79adc1211c6618460.jpg",
+                  "gifPicUrl": "https://p0.meituan.net/mallimages/8b8b8ded66bec15521e9c1dcffb3dea2244735.gif",
+                  "skuTitle": {
+                      "text": "象优选嫩鸭血300g"
+                  },
+                  "skuSubTitle": {
+                      "text": "优选中段血源｜鲜嫩爽滑｜全程可追溯",
+                      "styleId": "lstv570"
+                  },
+                  "sellUnit": {
+                      "text": "盒"
+                  },
+                  "sellPrice": {
+                      "text": "¥2.99"
+                  },
+                  "sellButton": {
+                      "text": "找相似",
+                      "enable": true,
+                      "status": 6
+                  },
+                  "loose": false,
+                  "buyStep": "1",
+                  "buyUnit": "盒",
+                  "sellingPoints": [
+                      {
+                          "text": "优选中段血源",
+                          "styleId": "biz_sp"
+                      },
+                      {
+                          "text": "鲜嫩爽滑",
+                          "styleId": "biz_sp"
+                      }
+                  ],
+                  "similar": true,
+                  "seqPrice": 299,
+                  "seqSale": 41,
+                  "v2Tags": [
+                      {
+                          "tagType": 1,
+                          "type": 4,
+                          "priority": 2100,
+                          "ordered": 0,
+                          "image": {
+                              "url": "https://p0.meituan.net/mallimages/a00a5b3b7cb91156746375da18df1de87876.png",
+                              "width": 120,
+                              "height": 120
+                          },
+                          "location": 1,
+                          "logicalIdentification": 1
+                      }
+                  ],
+                  "buttonList": [
+                      {
+                          "text": "到货提醒",
+                          "enable": true,
+                          "status": 4,
+                          "styleId": "ssr38"
+                      },
+                      {
+                          "text": "找相似",
+                          "enable": true,
+                          "status": 6
+                      }
+                  ],
+                  "detailPagePic": "https://p0.meituan.net/mallimages/d3aba2995e6da0ea46ce0219acc1de04242786.jpg",
+                  "salesVO": {}
+              }
+          },
+          "41632": {
+              "type": 1,
+              "skuItem": {
+                  "subscription": false,
+                  "subStatus": false,
+                  "soldOutUrl": "https://p0.meituan.net/mallimages/5c17cf85da4b43180cb08e2ad6107d024681.png",
+                  "skuId": 41632,
+                  "picUrl": "https://p0.meituan.net/mallimages/e887da01558418b5913514041b18e5ef739514.jpg",
+                  "skuTitle": {
+                      "text": "四季豆(刀豆王)约300g"
+                  },
+                  "skuSubTitle": {
+                      "text": "鲜香脆嫩｜回味甘甜｜农场直供",
+                      "styleId": "lstv570"
+                  },
+                  "sellUnit": {
+                      "text": "份"
+                  },
+                  "sellPrice": {
+                      "text": "¥12.9"
+                  },
+                  "sellButton": {
+                      "text": "找相似",
+                      "enable": true,
+                      "status": 6
+                  },
+                  "loose": false,
+                  "buyStep": "1",
+                  "buyUnit": "份",
+                  "sellingPoints": [
+                      {
+                          "text": "鲜香脆嫩",
+                          "styleId": "biz_sp"
+                      },
+                      {
+                          "text": "回味甘甜",
+                          "styleId": "biz_sp"
+                      }
+                  ],
+                  "similar": true,
+                  "seqPrice": 1290,
+                  "seqSale": 11,
+                  "memberPrice": {
+                      "text": "¥12.5"
+                  },
+                  "buttonList": [
+                      {
+                          "text": "已设提醒",
+                          "enable": true,
+                          "status": 4,
+                          "styleId": "ssr38"
+                      },
+                      {
+                          "text": "找相似",
+                          "enable": true,
+                          "status": 6
+                      }
+                  ],
+                  "detailPagePic": "https://p0.meituan.net/mallimages/b7d074bffc8b1982fec09365e3f2998c284752.jpg",
+                  "salesVO": {},
+                  "promotionList": "5187457"
+              }
+          },
+          "101376": {
+              "type": 1,
+              "skuItem": {
+                  "subscription": false,
+                  "subStatus": false,
+                  "soldOutUrl": "https://p0.meituan.net/mallimages/5c17cf85da4b43180cb08e2ad6107d024681.png",
+                  "skuId": 101376,
+                  "picUrl": "https://p1.meituan.net/mallimages/ab1ac624b61a6d83fd6675fca0e144aa632569.jpg",
+                  "gifPicUrl": "https://p1.meituan.net/mallimages/f70f0e394179a8041829251c94235ec0199832.gif",
+                  "skuTitle": {
+                      "text": "象大厨三豆腐竹108g"
+                  },
+                  "skuSubTitle": {
+                      "text": "无需泡发｜精选原料｜口感筋道",
+                      "styleId": "lstv570"
+                  },
+                  "sellUnit": {
+                      "text": "袋"
+                  },
+                  "sellPrice": {
+                      "text": "¥9.9"
+                  },
+                  "sellButton": {
+                      "text": "找相似",
+                      "enable": true,
+                      "status": 6
+                  },
+                  "loose": false,
+                  "buyStep": "1",
+                  "buyUnit": "袋",
+                  "sellingPoints": [
+                      {
+                          "text": "无需泡发",
+                          "styleId": "biz_sp"
+                      },
+                      {
+                          "text": "精选原料",
+                          "styleId": "biz_sp"
+                      }
+                  ],
+                  "similar": true,
+                  "seqPrice": 990,
+                  "seqSale": 12,
+                  "v2Tags": [
+                      {
+                          "labelId": 100068,
+                          "tagType": 1,
+                          "type": 17,
+                          "priority": 1201,
+                          "ordered": 0,
+                          "image": {
+                              "url": "https://p1.meituan.net/mallimages/98f5d9ec720939d7f5539bf237638d2d6438.png",
+                              "width": 41,
+                              "height": 16
+                          },
+                          "location": 2,
+                          "logicalIdentification": 1
+                      },
+                      {
+                          "labelId": 100031,
+                          "tagType": 1,
+                          "type": 9,
+                          "priority": 1307,
+                          "ordered": 0,
+                          "image": {
+                              "url": "https://p0.meituan.net/mallimages/77eeb1ee3fe06e007f20fcbb5ba1a99b5565.png",
+                              "width": 30,
+                              "height": 16
+                          },
+                          "location": 2,
+                          "logicalIdentification": 1
+                      }
+                  ],
+                  "buttonList": [
+                      {
+                          "text": "到货提醒",
+                          "enable": true,
+                          "status": 4,
+                          "styleId": "ssr38"
+                      },
+                      {
+                          "text": "找相似",
+                          "enable": true,
+                          "status": 6
+                      }
+                  ],
+                  "detailPagePic": "https://p0.meituan.net/mallimages/5c14dbf3b3cf728b107a1a65e3729509265818.jpg",
+                  "salesVO": {}
+              }
+          },
+          "84428": {
+              "type": 1,
+              "skuItem": {
+                  "subscription": false,
+                  "subStatus": false,
+                  "soldOutUrl": "https://p0.meituan.net/mallimages/5c17cf85da4b43180cb08e2ad6107d024681.png",
+                  "video": {
+                      "url": "https://s3plus.meituan.net/v1/mss_915cfe67c99b4651b81ca210670f9302/mall-fe-files/2abf1cd0da70fe9792f2d4969ace28de_codec.mp4",
+                      "index": 0,
+                      "iconUrl": "https://p1.meituan.net/mallimages/df8107f15d88461a88cdee328295626f1386.png"
+                  },
+                  "skuId": 84428,
+                  "picUrl": "https://img.meituan.net/mallimages/562807845c9a929faa3e9fd60587fb9d542682.png",
+                  "skuTitle": {
+                      "text": "健康都市有机香菇100g"
+                  },
+                  "skuSubTitle": {
+                      "text": "提鲜神器｜形状饱满｜菌伞自然｜有机",
+                      "styleId": "lstv570"
+                  },
+                  "sellUnit": {
+                      "text": "份"
+                  },
+                  "sellPrice": {
+                      "text": "¥6.9"
+                  },
+                  "sellButton": {
+                      "text": "找相似",
+                      "enable": true,
+                      "status": 6
+                  },
+                  "loose": false,
+                  "buyStep": "1",
+                  "buyUnit": "份",
+                  "sellingPoints": [
+                      {
+                          "text": "提鲜神器",
+                          "styleId": "biz_sp"
+                      },
+                      {
+                          "text": "形状饱满",
+                          "styleId": "biz_sp"
+                      }
+                  ],
+                  "similar": true,
+                  "seqPrice": 690,
+                  "seqSale": 21,
+                  "v2Tags": [],
+                  "memberPrice": {
+                      "text": "¥6.7"
+                  },
+                  "buttonList": [
+                      {
+                          "text": "到货提醒",
+                          "enable": true,
+                          "status": 4,
+                          "styleId": "ssr38"
+                      },
+                      {
+                          "text": "找相似",
+                          "enable": true,
+                          "status": 6
+                      }
+                  ],
+                  "detailPagePic": "https://p0.meituan.net/mallimages/288929da729a722b6594a208967babce62773.jpg",
+                  "salesVO": {},
+                  "promotionList": "5187457"
+              }
+          },
+          "227710": {
+              "type": 1,
+              "skuItem": {
+                  "subscription": false,
+                  "subStatus": false,
+                  "soldOutUrl": "https://p0.meituan.net/mallimages/5c17cf85da4b43180cb08e2ad6107d024681.png",
+                  "skuId": 227710,
+                  "picUrl": "https://p0.meituan.net/mallimages/ec929f053e0d3f6bb218b0af46551fac375008.jpg",
+                  "skuTitle": {
+                      "text": "华英预蒸鸭血300g"
+                  },
+                  "skuSubTitle": {
+                      "text": "方便美味｜干净卫生｜品质保证",
+                      "styleId": "lstv570"
+                  },
+                  "sellUnit": {
+                      "text": "盒"
+                  },
+                  "sellPrice": {
+                      "text": "¥5.9"
+                  },
+                  "dashPrice": {
+                      "text": "¥9.9",
+                      "styleId": "dp"
+                  },
+                  "sellButton": {
+                      "text": "找相似",
+                      "enable": true,
+                      "status": 6
+                  },
+                  "loose": false,
+                  "buyStep": "1",
+                  "buyUnit": "盒",
+                  "sellingPoints": [
+                      {
+                          "text": "方便美味",
+                          "styleId": "biz_sp"
+                      },
+                      {
+                          "text": "干净卫生",
+                          "styleId": "biz_sp"
+                      }
+                  ],
+                  "similar": true,
+                  "seqPrice": 590,
+                  "seqSale": 13,
+                  "v2Tags": [
+                      {
+                          "tagType": 0,
+                          "type": 2,
+                          "priority": 1100,
+                          "ordered": 0,
+                          "styleText": {
+                              "keyWord": "减",
+                              "text": "已减4元",
+                              "styleId": "tag_new_prov2",
+                              "keyStyleId": "tag_new_keyprov2"
+                          },
+                          "location": 6,
+                          "logicalIdentification": 1
+                      }
+                  ],
+                  "buttonList": [
+                      {
+                          "text": "到货提醒",
+                          "enable": true,
+                          "status": 4,
+                          "styleId": "ssr38"
+                      },
+                      {
+                          "text": "找相似",
+                          "enable": true,
+                          "status": 6
+                      }
+                  ],
+                  "detailPagePic": "https://p0.meituan.net/mallimages/c2bda406f3e5e8901a4e4d259cf4d9fe159891.jpg",
+                  "salesVO": {},
+                  "promotionList": "5189369"
+              }
+          }
+      },
+      "styleMap": {
+          "pt": {
+              "color": "#FFFFFF",
+              "borderColor": "#005DACE9",
+              "backgroundColor": "#FF5DACE9"
+          },
+          "pb_xhs": {},
+          "tag_temperature": {
+              "color": "#0080FF",
+              "borderColor": "#42A1FF"
+          },
+          "tag_sku_detail_emphasize_feature_label": {
+              "color": "#179938",
+              "borderColor": "#12B32D"
+          },
+          "new_label_key": {
+              "color": "#FFFFFF",
+              "borderColor": "#00CF22",
+              "backgroundColor": "#00CF22"
+          },
+          "sso": {
+              "color": "#FFFFFF",
+              "backgroundColor": "#D9D9D9"
+          },
+          "biz_tpd": {
+              "color": "#FF6632",
+              "borderColor": "#FFC79E",
+              "backgroundColor": "#FFF3EB"
+          },
+          "tag_season": {
+              "color": "#3AA111",
+              "borderColor": "#A4E37F",
+              "backgroundColor": "#F7FFF3"
+          },
+          "tag_of_buy": {
+              "color": "#3AA111",
+              "borderColor": "#A4E37F",
+              "backgroundColor": "#F7FFF3"
+          },
+          "hot_word_special_biz": {
+              "backgroundColor": "#FFF5F5"
+          },
+          "lstv570": {
+              "color": "#009125",
+              "backgroundColor": "#E6FFFFFF"
+          },
+          "sku_comment_user_buy_tag": {
+              "color": "#167043",
+              "gradientColor": {
+                  "direction": 3,
+                  "fromColor": "#E8FCE3",
+                  "toColor": "#DCFCD4"
+              }
+          },
+          "tag_cold": {
+              "color": "#417EC1",
+              "borderColor": "#A6D3E6",
+              "backgroundColor": "#F7FCFF"
+          },
+          "biz_top": {
+              "color": "#4D8AF3",
+              "borderColor": "#A7C4F6",
+              "backgroundColor": "#F2F7FF"
+          },
+          "scl": {
+              "color": "#999999"
+          },
+          "tag_freeze": {
+              "color": "#417EC1",
+              "borderColor": "#A6D3E6",
+              "backgroundColor": "#F7FCFF"
+          },
+          "promotion_word_biz": {
+              "color": "#FF1929"
+          },
+          "scgsg": {
+              "color": "#53B348"
+          },
+          "tag_new_detail_presell": {},
+          "scgsf": {
+              "color": "#E0924D"
+          },
+          "clt": {
+              "color": "#333333"
+          },
+          "pb_milk": {},
+          "d2tv33": {
+              "color": "#333333"
+          },
+          "tag_presell_text": {
+              "color": "#16360F",
+              "backgroundColor": "#C4F5BF",
+              "gradientColor": {
+                  "direction": 3,
+                  "fromColor": "#D5F3CE",
+                  "toColor": "#CEF6CA"
+              }
+          },
+          "hot_word_common_biz_530": {
+              "backgroundColor": "#FCFCFD"
+          },
+          "operate_hot_word_biz_530": {
+              "color": "#FF3F22",
+              "backgroundColor": "#FFE1E4"
+          },
+          "biz_sp": {
+              "color": "#999999"
+          },
+          "d2tv32": {
+              "color": "#8F5E3C"
+          },
+          "ltv3": {
+              "color": "#D19B5A",
+              "borderColor": "#E3C39C",
+              "backgroundColor": "#ccFFFFFF"
+          },
+          "pb_xyx_detail": {},
+          "pb_xzz_detail": {},
+          "pb_ms_text": {
+              "color": "#603C10",
+              "backgroundColor": "#F0DCAE",
+              "gradientColor": {
+                  "direction": 3,
+                  "fromColor": "#F4E2BA",
+                  "toColor": "#ECD5A1"
+              }
+          },
+          "pb_xhs_text": {
+              "color": "#603C10",
+              "backgroundColor": "#F0DCAE",
+              "gradientColor": {
+                  "direction": 3,
+                  "fromColor": "#F4E2BA",
+                  "toColor": "#ECD5A1"
+              }
+          },
+          "addco": {
+              "color": "#506cd0",
+              "backgroundColor": "#eef1ff"
+          },
+          "label_27": {
+              "color": "#179938",
+              "borderColor": "#62BA78"
+          },
+          "label_28": {
+              "color": "#179938",
+              "borderColor": "#62BA78"
+          },
+          "label_29": {
+              "color": "#179938",
+              "borderColor": "#62BA78"
+          },
+          "pb_ms": {},
+          "pb_xdc_detail": {},
+          "pb_xdc_text": {
+              "color": "#603C10",
+              "backgroundColor": "#F0DCAE",
+              "gradientColor": {
+                  "direction": 3,
+                  "fromColor": "#F4E2BA",
+                  "toColor": "#ECD5A1"
+              }
+          },
+          "hot_word_special_biz_530": {
+              "color": "#FF3F22",
+              "backgroundColor": "#FFE1E4"
+          },
+          "label_20": {
+              "color": "#179938",
+              "borderColor": "#62BA78"
+          },
+          "label_21": {
+              "color": "#179938",
+              "borderColor": "#62BA78"
+          },
+          "label_22": {
+              "color": "#179938",
+              "borderColor": "#62BA78"
+          },
+          "top": {
+              "color": "#506CD0",
+              "borderColor": "#96A7E3",
+              "backgroundColor": "#ccFFFFFF"
+          },
+          "group_style_gb": {
+              "backgroundColor": "#FFE8E3"
+          },
+          "label_23": {
+              "color": "#179938",
+              "borderColor": "#62BA78"
+          },
+          "label_24": {
+              "color": "#179938",
+              "borderColor": "#62BA78"
+          },
+          "label_25": {
+              "color": "#179938",
+              "borderColor": "#62BA78"
+          },
+          "pb_ms_detail": {},
+          "label_26": {
+              "color": "#179938",
+              "borderColor": "#62BA78"
+          },
+          "pb_xzz": {},
+          "pb_milk_detail": {},
+          "lsbv3": {
+              "color": "#C79F7D"
+          },
+          "biz_top_v2": {
+              "color": "#FF6632",
+              "borderColor": "#FFCCC0",
+              "backgroundColor": "#FFECE8"
+          },
+          "tag_new_pro": {
+              "color": "#FF1929",
+              "borderColor": "#FF5560"
+          },
+          "scbsg": {
+              "color": "#867F78"
+          },
+          "sdpci": {
+              "color": "#666666"
+          },
+          "scbsf": {
+              "color": "#867F78"
+          },
+          "biz_tpd_v2": {
+              "color": "#FF6632",
+              "borderColor": "#FFCCC0",
+              "backgroundColor": "#FFECE8"
+          },
+          "v4_comment": {
+              "color": "#8B8F94"
+          },
+          "tag_detail_presell": {
+              "color": "#179938",
+              "borderColor": "#62BA78"
+          },
+          "label_16": {
+              "color": "#179938",
+              "borderColor": "#62BA78"
+          },
+          "tag_finished_product": {
+              "color": "#0096FA",
+              "borderColor": "#0096FA"
+          },
+          "tpd": {
+              "color": "#FFFFFF",
+              "backgroundColor": "#C79F7D"
+          },
+          "label_17": {
+              "color": "#179938",
+              "borderColor": "#62BA78"
+          },
+          "label_18": {
+              "color": "#179938",
+              "borderColor": "#62BA78"
+          },
+          "label_19": {
+              "color": "#179938",
+              "borderColor": "#62BA78"
+          },
+          "tb": {
+              "color": "#0080E2",
+              "backgroundColor": "#F0E2F0FE"
+          },
+          "tpm": {
+              "color": "#FFFFFF",
+              "backgroundColor": "#FF688B"
+          },
+          "ltdv3": {
+              "color": "#C79F7D",
+              "borderColor": "#C79F7D",
+              "backgroundColor": "#00FFFFFF"
+          },
+          "tpdv3": {
+              "color": "#506CD0",
+              "backgroundColor": "#F0EEF1FF"
+          },
+          "label_11": {
+              "color": "#0072CC",
+              "borderColor": "#70B0E2"
+          },
+          "label_12": {
+              "color": "#0072CC",
+              "borderColor": "#70B0E2"
+          },
+          "tag_import": {
+              "color": "#3AA111",
+              "borderColor": "#A4E37F",
+              "backgroundColor": "#F7FFF3"
+          },
+          "label_13": {
+              "color": "#0072CC",
+              "borderColor": "#70B0E2"
+          },
+          "biz_tpm": {
+              "color": "#ffffff",
+              "backgroundColor": "#FF7a32"
+          },
+          "label_14": {
+              "color": "#0072CC",
+              "borderColor": "#70B0E2"
+          },
+          "pb_xzz_text": {
+              "color": "#F3D9A7",
+              "backgroundColor": "#3B3D3A",
+              "gradientColor": {
+                  "direction": 3,
+                  "fromColor": "#3B3D3A",
+                  "toColor": "#272927"
+              }
+          },
+          "label_15": {
+              "color": "#179938",
+              "borderColor": "#62BA78"
+          },
+          "d2tv3": {
+              "color": "#506CD0"
+          },
+          "pb_xyx": {},
+          "mt34": {
+              "color": "#C8853F",
+              "backgroundColor": "#F0FFEECA"
+          },
+          "ssr38": {
+              "color": "#333333",
+              "borderColor": "#B7B7B7"
+          },
+          "tag_manual_cfg": {
+              "color": "#3AA111",
+              "borderColor": "#A4E37F",
+              "backgroundColor": "#F7FFF3"
+          },
+          "tag_area_purchase": {
+              "color": "#3AA111",
+              "borderColor": "#A4E37F",
+              "backgroundColor": "#F7FFF3"
+          },
+          "common_tpm": {
+              "color": "#432703",
+              "borderColor": "#FFE5A6",
+              "backgroundColor": "#FFEEC5"
+          },
+          "ty": {
+              "color": "#FF9900",
+              "backgroundColor": "#F0FFF2E3"
+          },
+          "lt": {
+              "color": "#CB7C00",
+              "borderColor": "#CB7C00",
+              "backgroundColor": "#99FFFFFF"
+          },
+          "lsspv310": {
+              "color": "#BB6B2E"
+          },
+          "odpbnbu": {
+              "color": "#999999",
+              "borderColor": "#B7B7B7"
+          },
+          "common_tpd": {
+              "color": "#E95A7E",
+              "borderColor": "#FFE1E8",
+              "backgroundColor": "#FFF2F5"
+          },
+          "biz_tpm_v2": {
+              "color": "#FFFFFF",
+              "backgroundColor": "#FF5532"
+          },
+          "dp": {
+              "color": "#999999"
+          },
+          "lrtv3": {
+              "color": "#506CD0",
+              "backgroundColor": "#F0EEF1FF"
+          },
+          "sws": {
+              "color": "#FFFFFF",
+              "backgroundColor": "#FF0068FF"
+          },
+          "dt": {
+              "color": "#0080E2",
+              "borderColor": "#0080E2",
+              "backgroundColor": "#FFFFFFFF"
+          },
+          "label_6": {
+              "color": "#0072CC",
+              "borderColor": "#70B0E2"
+          },
+          "tag_new_prov2,tag_new_keyprov2": {
+              "color": "#FF1929",
+              "borderColor": "#FF5560"
+          },
+          "sol": {
+              "color": "#FFFFFF",
+              "backgroundColor": "#D9D9D9"
+          },
+          "tag_food": {
+              "color": "#3AA111",
+              "borderColor": "#A4E37F",
+              "backgroundColor": "#F7FFF3"
+          },
+          "label_5": {
+              "color": "#0072CC",
+              "borderColor": "#70B0E2"
+          },
+          "label_4": {
+              "color": "#179938",
+              "borderColor": "#62BA78"
+          },
+          "label_3": {
+              "color": "#179938",
+              "borderColor": "#62BA78"
+          },
+          "label_9": {
+              "color": "#179938",
+              "borderColor": "#62BA78"
+          },
+          "tag_new_prov2": {
+              "color": "#FF3F22",
+              "borderColor": "#FF3F22"
+          },
+          "label_8": {
+              "color": "#179938",
+              "borderColor": "#62BA78"
+          },
+          "pb_xhs_detail": {},
+          "label_7": {
+              "color": "#179938",
+              "borderColor": "#62BA78"
+          },
+          "new_label_value": {
+              "color": "#00B240",
+              "borderColor": "#29CB21",
+              "backgroundColor": "#FFFFFF"
+          },
+          "odpbnbe": {
+              "color": "#333333",
+              "backgroundColor": "#EEEEEE"
+          },
+          "operate_hot_word_biz": {
+              "backgroundColor": "#FFF5F5"
+          },
+          "pb_xdc": {},
+          "label_2": {
+              "color": "#179938",
+              "borderColor": "#62BA78"
+          },
+          "label_1": {
+              "color": "#179938",
+              "borderColor": "#62BA78"
+          },
+          "common_top": {
+              "color": "#E95A7E",
+              "borderColor": "#FFE1E8",
+              "backgroundColor": "#FFF2F5"
+          },
+          "tag_base_propertv2": {
+              "color": "#858585",
+              "borderColor": "#C2C2C2"
+          },
+          "mpoiv3": {
+              "color": "#DB3535",
+              "backgroundColor": "#F0FFEEEE"
+          },
+          "tag_fpstp": {
+              "color": "#333333"
+          },
+          "pb_xyx_text": {
+              "color": "#F3D9A7",
+              "backgroundColor": "#3B3D3A",
+              "gradientColor": {
+                  "direction": 3,
+                  "fromColor": "#3B3D3A",
+                  "toColor": "#272927"
+              }
+          },
+          "relate_reason": {
+              "color": "#D5A94D"
+          },
+          "tag_base_property": {
+              "color": "#009125",
+              "borderColor": "#33BA55"
+          },
+          "tag_selltime": {
+              "color": "#626366",
+              "borderColor": "#C4C7CC"
+          },
+          "rec_reason": {
+              "color": "#D5A94D"
+          },
+          "scrg": {
+              "backgroundColor": "#F9F9F9"
+          },
+          "label_30": {
+              "color": "#0072CC",
+              "borderColor": "#70B0E2"
+          },
+          "scrf": {
+              "backgroundColor": "#F9F9F9"
+          },
+          "prt": {
+              "color": "#FFFFFF",
+              "borderColor": "#00FD714D",
+              "backgroundColor": "#FFFD714D"
+          },
+          "lsb": {
+              "color": "#FE4F20"
+          },
+          "lsd": {
+              "color": "#95989E"
+          },
+          "fb": {
+              "color": "#0080E2"
+          },
+          "swsv3": {
+              "color": "#FFFFFF",
+              "backgroundColor": "#66A78157"
+          },
+          "tag_service": {
+              "color": "#7D7D7D",
+              "borderColor": "#CCCCCC",
+              "backgroundColor": "#FFFFFF"
+          },
+          "tag_tpm_v2": {
+              "color": "#FC4A0D",
+              "borderColor": "#FFB699",
+              "backgroundColor": "#FFF7F2"
+          },
+          "tag_brand_text": {
+              "color": "#292614",
+              "backgroundColor": "#FFF08A",
+              "gradientColor": {
+                  "direction": 3,
+                  "fromColor": "#FFEA84",
+                  "toColor": "#FED87A"
+              }
+          },
+          "addot": {
+              "color": "#A78157",
+              "backgroundColor": "#F7F1EC"
+          },
+          "sku_comment_user_judge_tag": {
+              "color": "#BD3200",
+              "gradientColor": {
+                  "direction": 3,
+                  "fromColor": "#FFF4DB",
+                  "toColor": "#FFEFCC"
+              }
+          },
+          "tag_new_keyprov2": {
+              "color": "#FFFFFF",
+              "borderColor": "#FF3F22",
+              "backgroundColor": "#FF3F22"
+          },
+          "hot_word_common_biz": {
+              "backgroundColor": "#F5F6F7"
+          },
+          "tag_delivery": {
+              "color": "#666666",
+              "borderColor": "#C2C2C2"
+          },
+          "tag_new_sku": {
+              "color": "#3AA111",
+              "borderColor": "#A4E37F",
+              "backgroundColor": "#F7FFF3"
+          },
+          "group_style_text": {
+              "color": "#FF5454"
+          },
+          "lsdv3": {
+              "color": "#666666"
+          },
+          "d2t": {
+              "color": "#0080E2"
+          },
+          "pb_milk_text": {
+              "color": "#FFFFFF",
+              "backgroundColor": "#4AB0FA"
+          },
+          "addho": {
+              "color": "#ed8c00",
+              "backgroundColor": "#fff1e2"
+          },
+          "tlpdv3": {
+              "color": "#506CD0"
+          },
+          "tag_new_list_presell": {},
+          "fpstp": {
+              "color": "#333333",
+              "backgroundColor": "#F6F6F6"
+          },
+          "msg_tip_biz": {
+              "color": "#53B348",
+              "backgroundColor": "#E1F5D9"
+          }
+      }
+  }
+}

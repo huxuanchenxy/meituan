@@ -1,0 +1,116 @@
+{
+  "data": {
+    "skuId2SkuItemMap": {
+      "56793": {
+        "type": 1,
+        "skuItem": {
+          "subscription": false,
+          "subStatus": false,
+          "soldOutUrl": "https://p1.meituan.net/scarlett/efaf34fa5387df3c35eb7a7e2cec74316112.png",
+          "skuId": 56793,
+          "picUrl": "https://img.meituan.net/mallimages/74040972cfbe9a9d8e5bb653472d1dd1223392.png",
+          "skuTitle": {
+            "text": "白萝卜1.5kg"
+          },
+          "skuSubTitle": {
+            "text": "生熟两吃｜入口微甜｜滋鲜味美",
+            "styleId": "lstv570"
+          },
+          "sellUnit": {
+            "text": "份"
+          },
+          "sellPrice": {
+            "text": "¥9.8"
+          },
+          "sellButton": {
+            "text": "找相似",
+            "enable": true,
+            "status": 6
+          },
+          "loose": false,
+          "buyStep": "1",
+          "buyUnit": "份",
+          "sellingPoints": [
+            {
+              "text": "生熟两吃",
+              "styleId": "biz_sp"
+            },
+            {
+              "text": "入口微甜",
+              "styleId": "biz_sp"
+            }
+          ],
+          "similar": true,
+          "seqPrice": 980,
+          "seqSale": 15,
+          "buttonList": [
+            {
+              "text": "到货提醒",
+              "enable": true,
+              "status": 4,
+              "styleId": "ssr38"
+            },
+            {
+              "text": "找相似",
+              "enable": true,
+              "status": 6
+            }
+          ],
+          "detailPagePic": "https://p0.meituan.net/mallimages/a581231e55a2d4ea76362dcae8fba52140132.jpg",
+          "salesVO": {},
+          "stidInfo": {
+            "kv": {
+              "flg": "a:2"
+            }
+          }
+        }
+      },
+      "241504": {
+        "type": 1,
+        "skuItem": {
+          "salesVO": {},
+          "subscription": false,
+          "loose": false,
+          "skuId": 241504,
+          "picUrl": "https:\/\/p1.meituan.net\/mallimages\/d35339e8cc0269dc5f31f419317c1442444257.jpg",
+          "similar": false,
+          "choiceEnable": false,
+          "process": false,
+          "detailPagePic": "https:\/\/p0.meituan.net\/mallimages\/6d9200cb98e9f660a0aef98aa75d0aeb199462.jpg",
+          "buyUnit": "罐",
+          "sellPrice": {
+            "text": "¥419"
+          },
+          "v2Tags": [],
+          "buttonList": [
+            {
+              "enable": true,
+              "text": "",
+              "status": 1
+            }
+          ],
+          "sellButton": {
+            "enable": true,
+            "text": "",
+            "status": 1
+          },
+          "seqPrice": 41900,
+          "skuTitle": {
+            "text": "惠氏启赋蕴淳婴儿配方奶粉0-6月龄1段850g"
+          },
+          "seqSale": 1,
+          "skuSubTitle": {
+            "styleId": "lstv570",
+            "text": "进口｜原装原罐进口"
+          },
+          "sellUnit": {
+            "text": "罐"
+          },
+          "subStatus": false,
+          "buyStep": "1"
+        }
+      }
+    }
+  },
+  "code": 0
+}

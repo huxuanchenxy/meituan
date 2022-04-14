@@ -1,0 +1,23 @@
+
+
+
+
+{
+	"Host": "maicai.api.ddxq.mobi",
+	'Connection': 'keep-alive',
+	'Content-Length': '2237',
+	'content-type': 'application/x-www-form-urlencoded',
+	'ddmc-city-number': '0101',
+	'ddmc-build-version': '2.82.0',
+	'ddmc-device-id': 'osP8I0TF31LAu_ki7UpQUiNAzD9k',
+	'ddmc-station-id': '5b98b0acc0a1ea8f1c8b5dc4',
+	'ddmc-channel': 'applet',
+	'ddmc-app-client-id': '4',
+	'Cookie': 'DDXQSESSID=6b6f5187b5d58c688a71980a61f57758',
+	'ddmc-longitude': '121.531169',
+	'ddmc-latitude': '31.279101',
+	'ddmc-api-version': '9.49.2',
+	'ddmc-uid': '5380826c21bc3e7b046d6a1b',
+	'User-Agent': 'Mozilla/5.0 (iPhone; CPU iPhone OS 15_4 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Mobile/15E148 MicroMessenger/8.0.18(0x1800123f) NetType/WIFI Language/zh_CN',
+	'Referer': 'https://servicewechat.com/wx1e113254eda17715/422/page-'
+}
