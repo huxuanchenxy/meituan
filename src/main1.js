@@ -24,10 +24,10 @@ var options = {
 
 //BarkId 需要安装bark 后在自己app 里获取
 let curl =
-  "curl 'https://api.day.app/r5K728ExAaNHi3vj3WXuu6/美团买菜有 乳品类 请尽快下单'"
+  "curl 'https://api.day.app/r5K728ExAaNHi3vj3WXuu6/美团买菜有_乳品类_请尽快下单'"
 
   let curl2 =
-  "curl 'https://api.day.app/TCmYS5awJyDW7BK8yFAR7G/美团买菜有 乳品类 请尽快下单'"
+  "curl 'https://api.day.app/TCmYS5awJyDW7BK8yFAR7G/美团买菜有_乳品类_请尽快下单'"
 
 
 function checkMultiReserveTime(times) {
@@ -41,7 +41,7 @@ function checkMultiReserveTime(times) {
 
         try {
 
-
+          var newDate = new Date()
           //let res = JSON.parse(response.body).data[0].time[0].times
           let res = JSON.parse(response.body)
           //console.log(res.data.skuId2SkuItemMap)
@@ -79,7 +79,7 @@ function checkMultiReserveTime(times) {
                       if (key3 == 'status') {
                         if (obj3[key3] == 1) {
                           flag = true;
-                          console.log('美团买菜 找到能买的东西了:' + curskuname)
+                          console.log('美团买菜 找到能买的东西了:' + curskuname + ''  + newDate.toLocaleString())
                           break outer;
                         } else {
                           //console.log('没有:' + curskuname)
@@ -94,12 +94,12 @@ function checkMultiReserveTime(times) {
             }
           }
           if (flag) {
-            console.log('🎉 恭喜 发现 美团 有乳品了 请尽快下单!')
+            console.log('🎉 恭喜 发现 美团 有乳品了 请尽快下单!'+ newDate.toLocaleString())
             child_process.exec(curl)
             child_process.exec(curl2)
 
           } else {
-            console.log('美团 当前  乳品 无货15秒后再试...')
+            console.log('美团 当前  乳品 无货15秒后再试...'+ newDate.toLocaleString())
           }
         } catch (err) {
           console.log(response.body)
@@ -120,5 +120,5 @@ async function loop() {
 }
 
 
-console.log('正在检查 美团 是否有可用配送时段...')
+console.log('正在检查 美团 是否有可用乳制品...')
 loop()
